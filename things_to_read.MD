@@ -154,6 +154,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
 * [ ] "Exploring Neural Networks with Activation Atlases"
 [[distill](https://distill.pub/2019/activation-atlas/)]
+* [ ] "The Paths Perspective on Value Learning" (RL subproblem)
+[[article](https://distill.pub/2019/paths-perspective-on-value-learning/)]
 * [ ] "Human in the Loop: Deep Learning without Wasteful Labelling"
 [[post](https://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)]
 * [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) 
