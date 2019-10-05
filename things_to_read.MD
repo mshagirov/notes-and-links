@@ -13,6 +13,7 @@
 * [ ] (!) Linear Algebra
 [[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
 * [ ] (ML)
+  - A Comprehensive Guide to Machine Learning (Berkeley University) (Nasiriany _et al._)
   - Elements of Statistical Learning (Hastie *et al.*)
   - Pattern Recognition and Machine Learning (Bishop)
   - Machine Learning A Probabilistic Perspective (Murphy)
@@ -180,6 +181,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1905.11286)]
 * [ ] Rectified Adam
 [[post](https://medium.com/@lessw/new-state-of-the-art-ai-optimizer-rectified-adam-radam-5d854730807b)]
+* [ ] Selective-Backprop (e.g. "Accelerating Deep Learning by Focusing on the Biggest Losers")
 * [ ] Representer Point Selection for Explaining Deep Neural Networks
 [[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
 * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
