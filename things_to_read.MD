@@ -1,0 +1,203 @@
+# Papers, Blog Posts and Other Resources:
+
+## Courses and books
+* [ ] CS231n: CNNs for Visual Recognition
+[[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
+[[website](http://cs231n.stanford.edu)]
+* [ ] Ancient Secrets of Computer Vision
+[[website](https://pjreddie.com/courses/computer-vision/)]
+* [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
+* [ ] AI course 
+[[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
+[[website](http://ai.berkeley.edu/lecture_videos.html)]
+* [ ] (!) Linear Algebra
+[[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
+* [ ] (ML)
+  - Elements of Statistical Learning (Hastie *et al.*)
+  - Pattern Recognition and Machine Learning (Bishop)
+  - Machine Learning A Probabilistic Perspective (Murphy)
+  - Learning from data (book or course)
+  [[website](https://work.caltech.edu/lectures.html#lectures)]
+  - Information Theory, Inference, and Learning Algorithms (MacKay)
+  - Guided Tour of Machine Learning in Finance (set of courses)
+  [[coursera](https://www.coursera.org/learn/guided-tour-machine-learning-finance/home/welcome)]
+* [ ] (!) Computational Probability and Inference
+[[Edx](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/wiki/MITx.6.008.1x.3T2016/)]
+* [ ] Probabilistic Programming and Bayesian Methods for Hackers
+[[website](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)]
+[[pyro](http://pyro.ai/examples/dmm.html)]
+  - The beginners guide to Hamiltonian Monte Carlo
+  [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
+* [ ] CS224n: Natural Language Processing with Deep Learning
+[[lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
+[[website](http://web.stanford.edu/class/cs224n/)]
+* [ ] Deep RL (UC Berkeley)
+[[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
+[[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
+* [ ] "Computer Vision: A Modern Approach by Forsyth & Ponce" and related courses
+[[CS131](http://vision.stanford.edu/teaching/cs131_fall1920/syllabus.html)] and
+[[CS231A](http://web.stanford.edu/class/cs231a/course_notes.html)]
+* [ ] "Information Theory, Pattern Recognition, and Neural Networks" course
+[[website](http://www.inference.org.uk/itprnn_lectures/)]
+
+## Image Analysis and Segmentation
+* [ ] Differentiable Mask-Matching Network (DMM-net)
+[[repo](https://github.com/ZENGXH/DMM_Net)]
+[[paper](https://www.cs.toronto.edu/~xiaohui/dmm/paper/dmmnet_iccv19.pdf)]
+* [ ] Faster R-CNN
+[[paper](https://arxiv.org/abs/1506.01497)]
+[[pytorch](https://github.com/ZENGXH/faster-rcnn.pytorch)]
+* [ ] Mask R-CNN
+[[paper](https://arxiv.org/abs/1703.06870)]
+[[repo](https://github.com/facebookresearch/maskrcnn-benchmark)]
+* [ ] R-FCN (Region-based Fully Convolutional Networks)
+[[paper](https://arxiv.org/abs/1605.06409)]
+* [ ] Detectron (uses Mask R-CNN and others above)
+[[repo](https://github.com/facebookresearch/Detectron)]
+* [ ] Stardist
+[[repo](https://github.com/mpicbg-csbd/stardist)]
+* [ ] Focal Loss (addresses class imbalance of fg-bg)
+[[paper](https://arxiv.org/abs/1708.02002)]
+* [ ] Feature Pyramid Network (FPN)
+[[paper](https://arxiv.org/abs/1612.03144)]
+[[repo](https://github.com/jwyang/fpn.pytorch)]
+* [ ] Segmentation-Enhanced CycleGAN
+[[paper](https://www.biorxiv.org/content/10.1101/548081v1)] and read this
+[[post](https://ai.googleblog.com/2019/08/an-interactive-automated-3d.html?m=1)]
+[related: "High-precision automated reconstruction of neurons with flood-filling networks" (_Nature Methods_ __2018__)]
+* [ ] Learning Fixed Points in Generative Adversarial Networks:
+From Image-to-Image Translation to Disease Detection and Localization
+[[paper](https://arxiv.org/abs/1908.06965)]
+* [ ] Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data
+[[paper](https://arxiv.org/abs/1909.09148)]
+* [ ] Practical Full Resolution Learned Lossless Image Compression
+[[repo](https://github.com/fab-jul/L3C-PyTorch#citation)]
+* [ ] Learnable Triangulation of Human Pose
+[[paper](https://arxiv.org/abs/1905.05754)]
+* [ ] MONet: Unsupervised Scene Decomposition and Representation
+[[paper](https://arxiv.org/abs/1901.11390)]
+
+### Denoising and DIPs
+* [ ] Deep Image Prior
+[[website](https://dmitryulyanov.github.io/deep_image_prior)]
+* [ ] Double DIP
+[[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)]
+[[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
+[["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
+* [ ] Noise2Self
+[[paper](https://arxiv.org/abs/1901.11365)] and
+[[repo](https://github.com/czbiohub/noise2self)]
+* [ ] pN2V
+[[PN2V repo](https://github.com/juglab/pn2v)] might help to revise
+[[N2V repo](https://github.com/juglab/n2v)] and
+[[N2N repo](https://github.com/NVlabs/noise2noise)]
+[[paper](https://arxiv.org/abs/1803.04189)]
+
+## Generative models
+* [ ] GAN
+[[paper](https://arxiv.org/abs/1406.2661)]
+* [ ] Conditional GAN
+[[paper](https://arxiv.org/abs/1411.1784?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77587488&_hsenc=p2ANqtz--i5nQIm7lOwKMygW3rZvR9W1dgbq-yKtBIuLO0OdAbVFexTcWQvh6d5jHGk0Fj2Et8vhqTYcnuCs9ITplGKwlHIvmXag&_hsmi=77587488)]
+* [ ] CycleGAN
+[[website](https://junyanz.github.io/CycleGAN/)]
+* [ ] StarGAN
+[[paper](https://arxiv.org/abs/1711.09020)]
+[[repo](https://github.com/yunjey/StarGAN)]
+* [ ] PixelCNN++ 
+[[paper](https://openreview.net/pdf?id=BJrFC6ceg)]
+[[repo](https://github.com/openai/pixel-cnn)]
+* [ ] PixelVAE++ 
+[[paper](https://arxiv.org/abs/1908.09948)]
+[[PixelVAE](https://arxiv.org/abs/1702.08658)]
+[repo?]
+* [ ] Progressive Growing of GANs for Improved Quality, Stability, and Variation
+[[paper](https://arxiv.org/abs/1710.10196)]
+* [ ] WaveNet
+[[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
+* "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
+* _See_ Attention (Transformers) in "General Deep Learning" section.
+
+## Differentiable models
+* [ ] Neural reparameterization
+[[paper](https://arxiv.org/abs/1909.04240)]
+
+## Other interesting papers
+* [ ] Extracting 2D surface with PreMosa
+[[PreMosa](https://cblasse.github.io/premosa/example.html)]
+* [ ] Reinforcement Learning, Fast and Slow
+[[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
+
+## General Deep Learning
+* [ ] Highway nets
+[[post](http://people.idsia.ch/~juergen/highway-networks.html)]
+[[paper1](https://arxiv.org/abs/1507.06228)]
+[[paper2](https://arxiv.org/abs/1612.07771)]
+* [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
+* [ ] "A recipe for training neural networks" by A. Karpathy
+[[post](http://karpathy.github.io/2019/04/25/recipe/)]
+* "Compositional Pattern Producing Networks: A Novel Abstraction of Development"
+  * [ ] [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]
+  * [ ] [[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/),
+  [post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
+* Attention ((Transformers):
+  * [ ] Attention is all you need
+  [[paper](https://arxiv.org/abs/1706.03762)]
+  * [ ] Transformer-XL
+  [[paper](https://arxiv.org/abs/1901.02860)]
+* [ ] Image transformer (related to Transformer nets in NLP)
+[[paper](https://arxiv.org/abs/1802.05751)]
+* [ ] "The Building Blocks of Interpretability"
+[[distill](https://distill.pub/2018/building-blocks/)]
+* [ ] "Visualizing memorization in RNNs"
+[[distill](https://distill.pub/2019/memorization-in-rnns/)]
+* [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* 
+[[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
+* [ ] "Exploring Neural Networks with Activation Atlases"
+[[distill](https://distill.pub/2019/activation-atlas/)]
+* [ ] "Human in the Loop: Deep Learning without Wasteful Labelling"
+[[post](https://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)]
+* [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) 
+[[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
+* [ ] "Adversarial Examples Are Not Bugs, They Are Features"
+[[post1](http://gradientscience.org/adv/)]
+[[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)]
+* [ ] "Domain Randomization for Sim2Real Transfer" by L. Weng
+[[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
+  * [ ] "Learning Dexterity"(OpenAI)
+  [[post](https://openai.com/blog/learning-dexterity/)]
+  * [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies"
+  [[website](https://xbpeng.github.io/projects/MCP/)]
+* [ ] Adapting Pretrained Representations to Diverse Tasks
+[[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
+* [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
+* [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet
+[[paper](https://arxiv.org/abs/1904.00760)]
+* [ ] Visual exploration of gaussian processes
+[[distill](https://distill.pub/2019/visual-exploration-gaussian-processes/)]
+* [ ] Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks
+[[paper](https://arxiv.org/abs/1905.11286)]
+* [ ] Rectified Adam
+[[post](https://medium.com/@lessw/new-state-of-the-art-ai-optimizer-rectified-adam-radam-5d854730807b)]
+* [ ] Representer Point Selection for Explaining Deep Neural Networks
+[[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
+* [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
+[[paper](https://arxiv.org/abs/1903.06694)]
+
+## Useful Resources
+* [ ] Pytorch `torch.utils.tensorboard`
+[[docs](https://pytorch.org/docs/stable/tensorboard.html)]
+* [ ] Jupyter notebook version control with jupytext, and automation with papermill
+[[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
+* [ ] IPython websites
+[[repo](https://github.com/stephenslab/ipynb-website)]
+* [ ] Hangar (version control for data)
+[[docs](https://hangar-py.readthedocs.io/en/latest/readme.html)]
+* [ ] Programmatically Building and Managing Training Data
+[[website](https://www.snorkel.org)]
+* Packaging and versioning (python related)
+  * [x] Semantic Versioning [[post](https://semver.org)]
+  * [ ] Pip distribution and packaging
+  [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
+  * [ ] `pip-tools`
+  [[repo](https://github.com/jazzband/pip-tools)]
+
