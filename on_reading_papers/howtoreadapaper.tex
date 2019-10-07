@@ -1,0 +1,91 @@
+% !Mode:: "TeX:UTF-8"
+\documentclass[a4paper]{article}
+
+%\pagestyle{headings}
+\usepackage[hscale=0.7,vscale=0.8]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\pagestyle{fancy}
+
+\setlength{\parindent}{0em}
+
+\title{How to read academic papers}
+\author{Murat Shagirov}
+\date{Latest update: \today}
+
+\begin{document}
+\maketitle
+
+These notes are taken from an article titled ``How to Read a Paper" by S. Keshav (\href{http://ccr.sigcomm.org/online/files/p83-keshavA.pdf}{link})\\
+$[$ACM SIGCOMM Computer Communication Review, Volume 37, Number 3, July 2007$]$
+
+\section{Three passes}
+\label{sec:1}
+$\star$ This section is \textbf{not} about selecting an article to read.\\
+$\star$ They are about \textbf{how to read and summarise} an academic article.\\
+$\star$ To read about literature survey please \textbf{go to} \hyperref[sec:2]{``A Literature survey"} section.\\
+
+Do not read the paper in a start-to-end fashion in one go. Instead, read the paper in 3 passes:
+\renewcommand{\labelenumi}{\textbf{Pass \arabic{enumi}}:}
+\begin{enumerate}
+  \item To learn the framework of the paper, read these in sequence
+  \renewcommand{\labelitemi}{$\square$}
+  \begin{itemize}
+  	\item Abstract
+	\item Introduction and conclusion
+	\item Section headings
+	\item Tables and diagrams (together with their captions)
+  \end{itemize}
+  
+  During 1st pass, \textit{underline any unfamiliar words to look up later}. Ask yourself (or keep these questions in mind):
+  \renewcommand{\labelitemi}{\textbullet}
+  \begin{itemize}
+  	\item What is the point or thesis of this paper?
+	\item What are the main arguments of the paper?
+	\item Why is this paper important?
+	\item How does it contribute to my field of study?
+  \end{itemize}
+  
+  If you have your own questions, don't forget to write them down!\\
+ \textbf{ Main aim of the 1st pass}: In the end of the 1st pass, you need to be able to summarise the paper in 1-2 sentences (\textit{using your own words}).
+  
+  \item Dig deeper into the paper
+  \renewcommand{\labelitemi}{$\square$}
+  	\begin{itemize}
+		\item Pay closer attention to the beginning and ending of each major section
+		\item Also, pay closer attention to the \textit{any highlighted sections from the 1st pass}. If there are still any words or terms you don't understand, look them up.
+	\end{itemize}
+  Try to answer \textit{all the questions} that you wrote down earlier.
+  
+  \item Tie it all together. By this stage you should understand what the paper is trying to say, now its time to look at it critically:
+  \renewcommand{\labelitemi}{$\square$}
+  	\begin{itemize}
+		\item Reflection and analysis. Take notes as you read looking at:
+			\begin{itemize}
+			\item arguments,
+			\item evidence, and
+			\item conclusions
+			\end{itemize}
+	\end{itemize}
+   By the end of this pass, you should have the basis of the paper summary in your own words (well, at least try using your own words). Also, you should be able to ask and answer these types of questions by the end of this pass (details depend on the type of the paper):
+   \renewcommand{\labelitemi}{\textbullet}
+   \begin{itemize}
+   \item Did the authors do what they set out to do?
+   \item Are the methods they used sound?
+   \item Are their arguments coherent and logical?
+   \item What assumptions did they make?
+   \end{itemize}
+
+\end{enumerate}
+
+
+\section{A Literature survey}
+\label{sec:2}
+Search an academic search engine (e.g. Google Scholar, Scopus, \ldots etc.). Choose keywords well, and find 3--5 \emph{recent} papers in the area. Do one pass on each paper, then read their related works sections. If you will find a summary of the recent works, or if you are lucky you will find a pointer to a survey paper. If you can find the survey, then read the survey. Yay!\\
+
+Otherwise, find the shared citations and repeated author names in the bibliography. These are the \emph{key papers and researchers} in that area. Download the key papers and set them aside. Then go to websites of the key researchers and see where they have published recently. That will help you to identify the \emph{top conferences and journals} in that field (the best researchers usually publish in the top conferences and journals).\\
+
+Afterwards, go to the websites of these top conferences/journals and look though their recent proceedings/issues. A quick scan will usually identify recent high-quality related work. These papers, together with the ones you previously set aside, constitude the first version of your survey. Make two passes through these papers. If they all cite a key paper that you did not find earlier, obtain and read it. Iterate through the last step as many times as necessary.
+\end{document}
