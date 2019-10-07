@@ -193,6 +193,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
+* `TensorFlow 2.0` + `Keras` Overview for Deep Learning Researchers
+[[notebook](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=zoDjozMFREDU)]
 * Jupyter notebook version control with jupytext, and automation with papermill
 [[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
 * IPython websites
