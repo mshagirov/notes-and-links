@@ -175,4 +175,5 @@ From Image-to-Image Translation to Disease Detection and Localization
   [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
   * Using _LaTeX_ with Vim
   [[tutorial](https://castel.dev/post/lecture-notes-1/)] 
+* Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
 
