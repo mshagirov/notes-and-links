@@ -212,5 +212,5 @@ From Image-to-Image Translation to Disease Detection and Localization
   * The Not So Short Introduction to  [[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)]
   * Beamer presentation (LaTeX) tutorial
   [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
-  * Using $\textrm{\LaTeX\ }$ with Vim
+  * Using $\text{\LaTeX\ }$ with Vim
   [[tutorial](https://castel.dev/post/lecture-notes-1/)] 
