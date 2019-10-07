@@ -186,23 +186,25 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
 * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
 [[paper](https://arxiv.org/abs/1903.06694)]
+* [ ] Behaviour Suite for Reinforcement Learning
+[[paper](https://arxiv.org/abs/1908.03568)]
 
 ## Useful Resources
-* [ ] Pytorch `torch.utils.tensorboard`
+* Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
-* [ ] Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
-* [ ] Jupyter notebook version control with jupytext, and automation with papermill
+* Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
+* Jupyter notebook version control with jupytext, and automation with papermill
 [[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
-* [ ] IPython websites
+* IPython websites
 [[repo](https://github.com/stephenslab/ipynb-website)]
-* [ ] Hangar (version control for data)
+* Hangar (version control for data)
 [[docs](https://hangar-py.readthedocs.io/en/latest/readme.html)]
-* [ ] Programmatically Building and Managing Training Data
+* Programmatically Building and Managing Training Data
 [[website](https://www.snorkel.org)]
 * Packaging and versioning (python related)
   * [x] Semantic Versioning [[post](https://semver.org)]
   * [ ] Pip distribution and packaging
   [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
-  * [ ] `pip-tools`
-  [[repo](https://github.com/jazzband/pip-tools)]
-
+  * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
+* Regexper regexp "Railroad Diagrams" generator
+[[website](https://regexper.com)] (can be used to interpret regexps)
