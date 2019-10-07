@@ -158,6 +158,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[notebook](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=zoDjozMFREDU)]
 * "Dive Into Python 3"
 [[html-book](https://diveintopython3.problemsolving.io/index.html)]
+* The Modern JavaScript Tutorial [[website](https://javascript.info)]
 * Jupyter notebook version control with jupytext, and automation with papermill
 [[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
 * IPython websites
@@ -180,4 +181,6 @@ From Image-to-Image Translation to Disease Detection and Localization
   * Using _LaTeX_ with Vim
   [[tutorial](https://castel.dev/post/lecture-notes-1/)] 
 * Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
+* Website security etc. tutorials and other readings
+[[hacker101](https://www.hacker101.com/resources)]
 
