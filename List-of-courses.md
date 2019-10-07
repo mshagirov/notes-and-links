@@ -1,5 +1,6 @@
-# Courses and books
+# Courses, tutorials, books, and other useful resources
 ---
+## Courses and books
 * [ ] CS231n: CNNs for Visual Recognition
 [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
 [[website](http://cs231n.stanford.edu)]
@@ -40,3 +41,38 @@
 * [ ] "Information Theory, Pattern Recognition, and Neural Networks" course
 [[website](http://www.inference.org.uk/itprnn_lectures/)]
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
+
+## Useful Resources
+* Pytorch `torch.utils.tensorboard`
+[[docs](https://pytorch.org/docs/stable/tensorboard.html)]
+* Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
+* `TensorFlow 2.0` + `Keras` Overview for Deep Learning Researchers
+[[notebook](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=zoDjozMFREDU)]
+* "Dive Into Python 3"
+[[html-book](https://diveintopython3.problemsolving.io/index.html)]
+* The Modern JavaScript Tutorial [[website](https://javascript.info)]
+* Jupyter notebook version control with jupytext, and automation with papermill
+[[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
+* IPython websites
+[[repo](https://github.com/stephenslab/ipynb-website)]
+* Hangar (version control for data)
+[[docs](https://hangar-py.readthedocs.io/en/latest/readme.html)]
+* Programmatically Building and Managing Training Data
+[[website](https://www.snorkel.org)]
+* Packaging and versioning (python related)
+  * [x] Semantic Versioning [[post](https://semver.org)]
+  * [ ] Pip distribution and packaging
+  [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
+  * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
+* Regexper regexp "Railroad Diagrams" generator
+[[website](https://regexper.com)] (can be used to interpret regexps)
+* _LaTeX_ notes:
+  * The Not So Short Introduction to  [[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)]
+  * Beamer presentation (LaTeX) tutorial
+  [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
+  * Using _LaTeX_ with Vim
+  [[tutorial](https://castel.dev/post/lecture-notes-1/)] 
+* Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
+* Website security etc. tutorials and other readings
+[[hacker101](https://www.hacker101.com/resources)]
+
