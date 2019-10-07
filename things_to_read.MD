@@ -77,17 +77,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
 * _See_ Attention (Transformers) in "General Deep Learning" section.
 
-## Differentiable models
-* [ ] Neural reparameterization
-[[paper](https://arxiv.org/abs/1909.04240)]
-
-## Other interesting papers
-* [ ] Extracting 2D surface with PreMosa
-[[PreMosa](https://cblasse.github.io/premosa/example.html)]
-* [ ] Reinforcement Learning, Fast and Slow
-[[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
-
-## General Deep Learning
+## General Deep Learning, ML and RL
 * [ ] Highway nets
 [[post](http://people.idsia.ch/~juergen/highway-networks.html)]
 [[paper1](https://arxiv.org/abs/1507.06228)]
@@ -149,4 +139,16 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1903.06694)]
 * [ ] Behaviour Suite for Reinforcement Learning
 [[paper](https://arxiv.org/abs/1908.03568)]
+
+## Other interesting papers
+* [ ] Neural reparameterization
+[[paper](https://arxiv.org/abs/1909.04240)]
+* [ ] Reinforcement Learning, Fast and Slow
+[[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
+* [ ] Neural Turtle Graphics for Modeling City Road Layouts
+[[paper](https://arxiv.org/abs/1910.02055)]
+* [ ] Extracting 2D surface with PreMosa
+[[PreMosa](https://cblasse.github.io/premosa/example.html)]
+* [ ] Information Closure Theory of Consciousness
+[[paper](https://arxiv.org/abs/1909.13045)]
 
