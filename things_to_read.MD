@@ -210,7 +210,7 @@ From Image-to-Image Translation to Disease Detection and Localization
   * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
 * Regexper regexp "Railroad Diagrams" generator
 [[website](https://regexper.com)] (can be used to interpret regexps)
-* LaTeX notes:
+* _LaTeX_ notes:
   * The Not So Short Introduction to  [[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)]
   * Beamer presentation (LaTeX) tutorial
   [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
