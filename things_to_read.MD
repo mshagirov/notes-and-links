@@ -108,6 +108,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1802.05751)]
 * [ ] "The Building Blocks of Interpretability"
 [[distill](https://distill.pub/2018/building-blocks/)]
+* "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy
+[[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
 * [ ] "Visualizing memorization in RNNs"
 [[distill](https://distill.pub/2019/memorization-in-rnns/)]
 * [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* 
