@@ -76,3 +76,7 @@
 * Website security etc. tutorials and other readings
 [[hacker101](https://www.hacker101.com/resources)]
 
+## Datasets
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch) [[more about it](https://ai.google/tools/#datasets)]
+* [Fluorescence Microscopy Denoising (FMD) dataset](https://github.com/bmmi/denoising-fluorescence)
+* [FishExplorer](https://github.com/xiuyechen/fishexplorer) (Zebrafish functional imaging data)
