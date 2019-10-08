@@ -45,6 +45,8 @@
 ## Useful Resources
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
+* Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
+[[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
 * `TensorFlow 2.0` + `Keras` Overview for Deep Learning Researchers
 [[notebook](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=zoDjozMFREDU)]
