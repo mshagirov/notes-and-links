@@ -29,6 +29,8 @@
 [[pyro](http://pyro.ai/examples/dmm.html)]
   - The beginners guide to Hamiltonian Monte Carlo
   [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
+* [ ] Interpretability and Explainability in Machine Learning
+[[website](https://interpretable-ml-class.github.io)]
 * [ ] CS224n: Natural Language Processing with Deep Learning
 [[lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
 [[website](http://web.stanford.edu/class/cs224n/)]
