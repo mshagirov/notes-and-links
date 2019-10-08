@@ -71,7 +71,8 @@
   * Beamer presentation (LaTeX) tutorial
   [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
   * Using _LaTeX_ with Vim
-  [[tutorial](https://castel.dev/post/lecture-notes-1/)] 
+  [[tutorial](https://castel.dev/post/lecture-notes-1/)]
+  * [x] Vim cheatsheet [[website](https://vim.rtorr.com)]
 * Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
 * Website security etc. tutorials and other readings
 [[hacker101](https://www.hacker101.com/resources)]
