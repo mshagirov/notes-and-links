@@ -130,8 +130,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[distill](https://distill.pub/2019/visual-exploration-gaussian-processes/)]
 * [ ] Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks
 [[paper](https://arxiv.org/abs/1905.11286)]
-* [ ] Rectified Adam
-[[post](https://medium.com/@lessw/new-state-of-the-art-ai-optimizer-rectified-adam-radam-5d854730807b)]
+* [ ] Self-Normalizing Neural Networks a.k.a "SELU paper"
+[[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 * [ ] Selective-Backprop (e.g. "Accelerating Deep Learning by Focusing on the Biggest Losers")
 * [ ] Representer Point Selection for Explaining Deep Neural Networks
 [[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
