@@ -4,6 +4,8 @@
 * [ ] Differentiable Mask-Matching Network (DMM-net)
 [[repo](https://github.com/ZENGXH/DMM_Net)]
 [[paper](https://www.cs.toronto.edu/~xiaohui/dmm/paper/dmmnet_iccv19.pdf)]
+* [ ] Panoptic segmentation
+[[paper](https://arxiv.org/abs/1801.00868)] (_see detectron2 for implementation_)
 * [ ] Faster R-CNN
 [[paper](https://arxiv.org/abs/1506.01497)]
 [[pytorch](https://github.com/ZENGXH/faster-rcnn.pytorch)]
