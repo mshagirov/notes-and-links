@@ -13,7 +13,7 @@
 * [ ] R-FCN (Region-based Fully Convolutional Networks)
 [[paper](https://arxiv.org/abs/1605.06409)]
 * [ ] Detectron (uses Mask R-CNN and others above)
-[[repo](https://github.com/facebookresearch/Detectron)] [![detectron2](https://github.com/facebookresearch/detectron2/blob/master/.github/Detectron2-Logo-Horz.svg =30x)](https://github.com/facebookresearch/detectron2/blob/master/README.md)
+[[repo](https://github.com/facebookresearch/Detectron)] [![detectron2](https://github.com/facebookresearch/detectron2/blob/master/.github/Detectron2-Logo-Horz.svg=30x)](https://github.com/facebookresearch/detectron2/blob/master/README.md)
 * [ ] Stardist
 [[repo](https://github.com/mpicbg-csbd/stardist)]
 * [ ] Focal Loss (addresses class imbalance of fg-bg)
