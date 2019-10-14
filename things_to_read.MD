@@ -87,6 +87,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
 * [ ] "A recipe for training neural networks" by A. Karpathy
 [[post](http://karpathy.github.io/2019/04/25/recipe/)]
+* [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks
+[[paper](https://arxiv.org/abs/1910.01663)]
 * [ ] "The Building Blocks of Interpretability"
 [[distill](https://distill.pub/2018/building-blocks/)]
 * [ ] Visual exploration of gaussian processes
@@ -96,6 +98,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[on fast.ai forums](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299)]
 (this seems to be the new default activation)
 * Attention ((Transformers):
+  * [ ] Transformers: State-of-the-art Natural Language Processing
+  [[review](https://arxiv.org/abs/1910.03771)]
   * [ ] Attention is all you need
   [[paper](https://arxiv.org/abs/1706.03762)]
   * [ ] Transformer-XL
@@ -129,6 +133,9 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
 * [ ] "Exploring Neural Networks with Activation Atlases"
 [[distill](https://distill.pub/2019/activation-atlas/)]
+* Reinforcement Learning Tutorials:
+  * [ ] Policy gradient algorithms [[pg-is-all-you-need](https://github.com/MrSyee/pg-is-all-you-need)]
+  * [ ] A step-by-step tutorial from DQN to Rainbow [[Rainbow is all you need!](https://github.com/Curt-Park/rainbow-is-all-you-need)]
 * [ ] "The Paths Perspective on Value Learning" (RL subproblem)
 [[article](https://distill.pub/2019/paths-perspective-on-value-learning/)]
 * [ ] "Human in the Loop: Deep Learning without Wasteful Labelling"
