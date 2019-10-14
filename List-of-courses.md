@@ -54,7 +54,6 @@
 [[napari : tutorials](http://napari.org)]
 [[ImagePy : repo](https://github.com/Image-Py/imagepy/)]
 __(check out the `napari`)__
-
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
 * Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups
 [[post](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)]
@@ -91,6 +90,9 @@ __(check out the `napari`)__
 * Website security etc. tutorials and other readings
 [[hacker101](https://www.hacker101.com/resources)]
 * Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
+* Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
+* Deploying JupyterHub with Kubernetes on OpenStack
+[[post](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
 
 ## Datasets
 * [DeepCell](http://deepcell.org/data) cell, and nuclei segmentation and tracking dataset 
