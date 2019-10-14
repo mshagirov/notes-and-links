@@ -49,6 +49,12 @@
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
 [[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
+* napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package)
+[[napari : repo](https://github.com/napari/napari)]
+[[napari : tutorials](http://napari.org)]
+[[ImagePy : repo](https://github.com/Image-Py/imagepy/)]
+__(check out the `napari`)__
+
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
 * Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups
 [[post](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)]
