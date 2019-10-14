@@ -167,6 +167,4 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1910.02055)]
 * [ ] Extracting 2D surface with PreMosa
 [[PreMosa](https://cblasse.github.io/premosa/example.html)]
-* [ ] Information Closure Theory of Consciousness
-[[paper](https://arxiv.org/abs/1909.13045)]
 
