@@ -95,6 +95,7 @@ __(check out the `napari`)__
 ## Datasets
 * [DeepCell](http://deepcell.org/data) cell, and nuclei segmentation and tracking dataset 
 ("Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning" Erick Moen _et al._ 2019) [[biorXiv](https://www.biorxiv.org/content/10.1101/803205v2)]
+[[model repo](https://github.com/vanvalenlab/deepcell-tf)]
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) [[more about it](https://ai.google/tools/#datasets)]
 * [data-science-bowl-2018](https://www.kaggle.com/c/data-science-bowl-2018/data) (Nuclei segmentation)
 * [Fluorescence Microscopy Denoising (FMD) dataset](https://github.com/bmmi/denoising-fluorescence)
