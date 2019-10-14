@@ -82,6 +82,7 @@
 * Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
 * Website security etc. tutorials and other readings
 [[hacker101](https://www.hacker101.com/resources)]
+* Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
 
 ## Datasets
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) [[more about it](https://ai.google/tools/#datasets)]
