@@ -81,6 +81,10 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in "General Deep Learning" section.
 
 ## General Deep Learning, ML and RL
+* [ ] __Mish__: Self Regularized Non-Monotonic Activation Function
+[[Repo with results](https://github.com/digantamisra98/Mish)]
+[[on fast.ai forums](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299)]
+(this seems to be the new default activation)
 * [ ] Highway nets
 [[post](http://people.idsia.ch/~juergen/highway-networks.html)]
 [[paper1](https://arxiv.org/abs/1507.06228)]
