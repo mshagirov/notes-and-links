@@ -1,5 +1,11 @@
 # Courses, tutorials, books, and other useful resources
 ---
+## Contents
+- [Courses and books](#courses-and-books)
+- [Useful Resources](#useful-resources)
+- [Datasets](#datasets)
+
+---
 ## Courses and books
 * [ ] CS231n: CNNs for Visual Recognition
 [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
