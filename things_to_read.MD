@@ -91,7 +91,6 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in "General Deep Learning" section.
 
 ## General Deep Learning, ML and RL
-* [ ] "Adversarial Examples Are Not Bugs, They Are Features" [[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)], [[post1](http://gradientscience.org/adv/)] :white_check_mark:
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
 * [ ] "A recipe for training neural networks" by A. Karpathy
 [[post](http://karpathy.github.io/2019/04/25/recipe/)]
@@ -154,6 +153,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
 * [ ] Behaviour Suite for Reinforcement Learning
 [[paper](https://arxiv.org/abs/1908.03568)]
+* [x] "Adversarial Examples Are Not Bugs, They Are Features" [[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)], [[post1](http://gradientscience.org/adv/)] (post: :white_check_mark:, paper and comments: haven't read)
 
 ## Other interesting papers
 * [ ] Neural reparameterization
