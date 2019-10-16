@@ -43,6 +43,8 @@
 * [ ] "Information Theory, Pattern Recognition, and Neural Networks" course
 [[website](http://www.inference.org.uk/itprnn_lectures/)]
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
+* [ ] For reviewing numerical linear algebra
+[[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 
 ## Useful Resources
 * Pytorch `torch.utils.tensorboard`
