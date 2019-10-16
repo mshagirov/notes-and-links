@@ -3,10 +3,10 @@
 ## Contents
 
 - [Image Analysis and Segmentation](#image-analysis-and-segmentation)
-- [Deep Image Priors (DIPs)](#deep-image-priors)
+ - [Deep Image Priors (DIPs)](#deep-image-priors)
 - [Generative models](#generative-models)
 - [General Deep Learning, ML and RL](#general-deep-learning-ml-and-rl)
-- [Other interesting papers](other-interesting-papers)
+- [Other Interesting Papers](#other-interesting-papers)
 ---
 ## Image Analysis and Segmentation
 * [ ] Differentiable Mask-Matching Network (DMM-net)
