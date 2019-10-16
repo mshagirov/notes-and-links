@@ -47,7 +47,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1905.05754)]
 * [ ] MONet: Unsupervised Scene Decomposition and Representation
 [[paper](https://arxiv.org/abs/1901.11390)]
-* _Related to [DIPs](#deep-image-priors), 
+* _Related to_ [DIPs](#deep-image-priors), 
 * [ ] Noise2Self
 [[paper](https://arxiv.org/abs/1901.11365)] and
 [[repo](https://github.com/czbiohub/noise2self)]
@@ -88,7 +88,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] WaveNet
 [[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
 * "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
-* _See_ Attention (Transformers) in "General Deep Learning" section.
+* _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
 
 ## General Deep Learning, ML and RL
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
