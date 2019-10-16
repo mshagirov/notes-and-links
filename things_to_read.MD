@@ -1,5 +1,13 @@
 # Papers, Blog Posts and Other Resources:
+---
+## Contents
 
+- [Image Analysis and Segmentation](#image-analysis-and-segmentation)
+- [Deep Image Priors (DIPs)](#deep-image-priors)
+- [Generative models](#generative-models)
+- [General Deep Learning, ML and RL](#general-deep-learning-ml-and-rl)
+- [Other interesting papers](other-interesting-papers)
+---
 ## Image Analysis and Segmentation
 * [ ] Differentiable Mask-Matching Network (DMM-net)
 [[repo](https://github.com/ZENGXH/DMM_Net)]
@@ -39,14 +47,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1905.05754)]
 * [ ] MONet: Unsupervised Scene Decomposition and Representation
 [[paper](https://arxiv.org/abs/1901.11390)]
-
-### Denoising and DIPs
-* [ ] Deep Image Prior
-[[website](https://dmitryulyanov.github.io/deep_image_prior)]
-* [ ] Double DIP
-[[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)]
-[[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
-[["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
+* _Related to [DIPs](#deep-image-priors), 
 * [ ] Noise2Self
 [[paper](https://arxiv.org/abs/1901.11365)] and
 [[repo](https://github.com/czbiohub/noise2self)]
@@ -56,12 +57,18 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[N2N repo](https://github.com/NVlabs/noise2noise)]
 [[paper](https://arxiv.org/abs/1803.04189)]
 
+### Deep Image Priors
+* [ ] Deep Image Prior
+[[website](https://dmitryulyanov.github.io/deep_image_prior)]
+* [ ] Double DIP
+[[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)]
+[[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
+[["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
+
+
 ## Generative models
 * [ ] GAN
 [[paper](https://arxiv.org/abs/1406.2661)]
-* [ ] "Adversarial Examples Are Not Bugs, They Are Features"
-[[post1](http://gradientscience.org/adv/)]
-[[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)]
 * [ ] Conditional GAN
 [[paper](https://arxiv.org/abs/1411.1784?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77587488&_hsenc=p2ANqtz--i5nQIm7lOwKMygW3rZvR9W1dgbq-yKtBIuLO0OdAbVFexTcWQvh6d5jHGk0Fj2Et8vhqTYcnuCs9ITplGKwlHIvmXag&_hsmi=77587488)]
 * [ ] CycleGAN
@@ -84,6 +91,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in "General Deep Learning" section.
 
 ## General Deep Learning, ML and RL
+* [ ] "Adversarial Examples Are Not Bugs, They Are Features" [[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)], [[post1](http://gradientscience.org/adv/)] :white_check_mark:
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
 * [ ] "A recipe for training neural networks" by A. Karpathy
 [[post](http://karpathy.github.io/2019/04/25/recipe/)]
@@ -125,8 +133,6 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper"
 [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
-* [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
-[[paper](https://arxiv.org/abs/1903.06694)]
 * [ ] Bayesian Active Learning (Baal) (from ElementAI)
 [[repo with links](https://github.com/ElementAI/baal)]
 [[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
@@ -141,16 +147,6 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[article](https://distill.pub/2019/paths-perspective-on-value-learning/)]
 * [ ] "Human in the Loop: Deep Learning without Wasteful Labelling"
 [[post](https://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)]
-* [ ] Highway nets
-[[post](http://people.idsia.ch/~juergen/highway-networks.html)]
-[[paper1](https://arxiv.org/abs/1507.06228)]
-[[paper2](https://arxiv.org/abs/1612.07771)]
-* "Compositional Pattern Producing Networks: A Novel Abstraction of Development"
-  * [ ] [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]
-  * [ ] [[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/),
-  [post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
-* [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet
-[[paper](https://arxiv.org/abs/1904.00760)]
 * [ ] Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks
 [[paper](https://arxiv.org/abs/1905.11286)]
 * [ ] Selective-Backprop (e.g. "Accelerating Deep Learning by Focusing on the Biggest Losers")
@@ -168,3 +164,15 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1910.02055)]
 * [ ] Extracting 2D surface with PreMosa
 [[PreMosa](https://cblasse.github.io/premosa/example.html)]
+* [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
+[[paper](https://arxiv.org/abs/1903.06694)]
+* [ ] Highway nets
+[[post](http://people.idsia.ch/~juergen/highway-networks.html)]
+[[paper1](https://arxiv.org/abs/1507.06228)]
+[[paper2](https://arxiv.org/abs/1612.07771)]
+* "Compositional Pattern Producing Networks: A Novel Abstraction of Development"
+  * [ ] [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]
+  * [ ] [[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/),
+  [post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
+* [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet
+[[paper](https://arxiv.org/abs/1904.00760)]
