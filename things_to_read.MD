@@ -92,6 +92,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## General Deep Learning, ML and RL
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
+* [ ] On the adequacy of untuned warmup for adaptive optimization [[paper](https://arxiv.org/abs/1910.04209)]
 * [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
 * [x] "A recipe for training neural networks" by A. Karpathy [[post](http://karpathy.github.io/2019/04/25/recipe/)]
 * [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
