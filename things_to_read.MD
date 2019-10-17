@@ -93,87 +93,48 @@ From Image-to-Image Translation to Disease Detection and Localization
 ## General Deep Learning, ML and RL
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
 * [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
-* [x] "A recipe for training neural networks" by A. Karpathy
-[[post](http://karpathy.github.io/2019/04/25/recipe/)]
-* [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks
-[[paper](https://arxiv.org/abs/1910.01663)]
-* [ ] "The Building Blocks of Interpretability"
-[[distill](https://distill.pub/2018/building-blocks/)]
-* [ ] Visual exploration of gaussian processes
-[[distill](https://distill.pub/2019/visual-exploration-gaussian-processes/)]
-* [ ] __Mish__: Self Regularized Non-Monotonic Activation Function
-[[Repo with results](https://github.com/digantamisra98/Mish)]
-[[on fast.ai forums](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299)]
-(this seems to be the new default activation)
-* Attention ((Transformers):
-  * [ ] Transformers: State-of-the-art Natural Language Processing
-  [[review](https://arxiv.org/abs/1910.03771)]
-  * [ ] Tool for analysing transformers [[exBERT](http://exbert.net/)]
-  * [ ] Attention is all you need
-  [[paper](https://arxiv.org/abs/1706.03762)]
-  * [ ] Transformer-XL
-  [[paper](https://arxiv.org/abs/1901.02860)]
-* [ ] Image transformer (related to Transformer nets in NLP)
-[[paper](https://arxiv.org/abs/1802.05751)]
+* [x] "A recipe for training neural networks" by A. Karpathy [[post](http://karpathy.github.io/2019/04/25/recipe/)]
+* [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
+* [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
+* [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
+* [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
+* [ ] Bayesian Active Learning (Baal) (from ElementAI) [[repo with links](https://github.com/ElementAI/baal)]—[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
+* [ ] Possible BN and Dropout incompatibilities are described in this [[paper](https://arxiv.org/abs/1503.02531)]
+* [ ] Visual exploration of gaussian processes [[distill](https://distill.pub/2019/visual-exploration-gaussian-processes/)]
 * Recurrent Neural Networks (RNNs)
-  * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy
-  [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
-  * [ ] "Visualizing memorization in RNNs"
-  [[distill](https://distill.pub/2019/memorization-in-rnns/)]
-* [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) 
-[[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
-* [ ] "Domain Randomization for Sim2Real Transfer" by L. Weng
-[[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
-  * [ ] "Learning Dexterity"(OpenAI)
-  [[post](https://openai.com/blog/learning-dexterity/)]
-  * [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies"
-  [[website](https://xbpeng.github.io/projects/MCP/)]
-* [ ] Adapting Pretrained Representations to Diverse Tasks
-[[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
+  * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
+  * [ ] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
+* [ ] __Mish__: Self Regularized Non-Monotonic Activation Function [[Repo with results](https://github.com/digantamisra98/Mish)]—[[on fast.ai forums](https://forums.fast.ai/t/meet-mish-new-activation-function-possible-successor-to-relu/53299)] (this seems to perform better than ReLU)
+* Attention ((Transformers):
+  * [ ] Transformers: State-of-the-art Natural Language Processing [[review](https://arxiv.org/abs/1910.03771)]
+  * [ ] Tool for analysing transformers [[exBERT](http://exbert.net/)]
+  * [ ] Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)]
+  * [ ] Transformer-XL [[paper](https://arxiv.org/abs/1901.02860)]
+* [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
+* [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
+* [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
+* [ ] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
+  * [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
+  * [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
+* [ ] Adapting Pretrained Representations to Diverse Tasks [[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
 * [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
-* [ ] Self-Normalizing Neural Networks a.k.a "SELU paper"
-[[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
-* [ ] Bayesian Active Learning (Baal) (from ElementAI)
-[[repo with links](https://github.com/ElementAI/baal)]
-[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
-* [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* 
-[[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
-* [ ] "Exploring Neural Networks with Activation Atlases"
-[[distill](https://distill.pub/2019/activation-atlas/)]
 * Reinforcement Learning Tutorials:
   * [ ] Policy gradient algorithms [[pg-is-all-you-need](https://github.com/MrSyee/pg-is-all-you-need)]
   * [ ] A step-by-step tutorial from DQN to Rainbow [[Rainbow is all you need!](https://github.com/Curt-Park/rainbow-is-all-you-need)]
-* [ ] "The Paths Perspective on Value Learning" (RL subproblem)
-[[article](https://distill.pub/2019/paths-perspective-on-value-learning/)]
-* [ ] "Human in the Loop: Deep Learning without Wasteful Labelling"
-[[post](https://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)]
-* [ ] Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks
-[[paper](https://arxiv.org/abs/1905.11286)]
+* [ ] Behaviour Suite for Reinforcement Learning [[paper](https://arxiv.org/abs/1908.03568)]
+* [ ] "The Paths Perspective on Value Learning" (RL subproblem) [[article](https://distill.pub/2019/paths-perspective-on-value-learning/)]
+* [ ] "Human in the Loop: Deep Learning without Wasteful Labelling" [[post](https://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)]
+* [ ] Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks [[paper](https://arxiv.org/abs/1905.11286)]
 * [ ] Selective-Backprop (e.g. "Accelerating Deep Learning by Focusing on the Biggest Losers")
-* [ ] Representer Point Selection for Explaining Deep Neural Networks
-[[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
-* [ ] Behaviour Suite for Reinforcement Learning
-[[paper](https://arxiv.org/abs/1908.03568)]
-* [x] "Adversarial Examples Are Not Bugs, They Are Features" [[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)], [[post1](http://gradientscience.org/adv/)] (post: :white_check_mark:, paper and comments: haven't read)
+* [ ] Representer Point Selection for Explaining Deep Neural Networks [[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
+* [x] "Adversarial Examples Are Not Bugs, They Are Features" [[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)]—[[post1](http://gradientscience.org/adv/)] (post: :white_check_mark:, paper and comments: haven't read)
+* [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[paper](https://arxiv.org/abs/1904.00760)]
+* [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 
 ## Other interesting papers
-* [ ] Neural reparameterization
-[[paper](https://arxiv.org/abs/1909.04240)]
-* [ ] Reinforcement Learning, Fast and Slow
-[[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
-* [ ] Neural Turtle Graphics for Modeling City Road Layouts
-[[paper](https://arxiv.org/abs/1910.02055)]
-* [ ] Extracting 2D surface with PreMosa
-[[PreMosa](https://cblasse.github.io/premosa/example.html)]
-* [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly
-[[paper](https://arxiv.org/abs/1903.06694)]
-* [ ] Highway nets
-[[post](http://people.idsia.ch/~juergen/highway-networks.html)]
-[[paper1](https://arxiv.org/abs/1507.06228)]
-[[paper2](https://arxiv.org/abs/1612.07771)]
-* "Compositional Pattern Producing Networks: A Novel Abstraction of Development"
-  * [ ] [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]
-  * [ ] [[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/),
-  [post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
-* [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet
-[[paper](https://arxiv.org/abs/1904.00760)]
+* [ ] Neural reparameterization [[paper](https://arxiv.org/abs/1909.04240)]
+* [ ] Reinforcement Learning, Fast and Slow [[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
+* [ ] Neural Turtle Graphics for Modeling City Road Layouts [[paper](https://arxiv.org/abs/1910.02055)]
+* [ ] Extracting 2D surface with PreMosa [[PreMosa](https://cblasse.github.io/premosa/example.html)]
+* [ ] Highway nets [[post](http://people.idsia.ch/~juergen/highway-networks.html)]—[[paper1](https://arxiv.org/abs/1507.06228)]—[[paper2](https://arxiv.org/abs/1612.07771)]
+* "Compositional Pattern Producing Networks: A Novel Abstraction of Development" [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]—[[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)—[post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
