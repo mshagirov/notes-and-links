@@ -99,7 +99,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
 * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
 * [ ] Bayesian Active Learning (Baal) (from ElementAI) [[repo with links](https://github.com/ElementAI/baal)]—[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
-* [ ] Possible BN and Dropout incompatibilities are described in this [[paper](https://arxiv.org/abs/1503.02531)]
+* [ ] Possible BN and Dropout incompatibilities are described in this [[paper](https://arxiv.org/abs/1801.05134)]
 * [ ] Visual exploration of gaussian processes [[distill](https://distill.pub/2019/visual-exploration-gaussian-processes/)]
 * Recurrent Neural Networks (RNNs)
   * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
