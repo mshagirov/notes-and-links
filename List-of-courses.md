@@ -1,5 +1,6 @@
 # Courses, tutorials, books, and other useful resources
 ---
+[[Main page](README.md)]
 ## Contents
 - [Courses and books](#courses-and-books)
 - [Useful Resources](#useful-resources)
