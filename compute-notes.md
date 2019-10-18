@@ -1,4 +1,5 @@
 # Useful resources for setting up compute servers, VMs, etc
+[[Main page](README.md)]
 - Deploying JupyterHub with Kubernetes on OpenStack by
 _Loïc Gouarin_ [[:link:](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
 - `jupyter-repo2docker` tool for building, and pushing Docker images from source code repositories.
