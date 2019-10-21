@@ -58,6 +58,7 @@
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
 [[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
+* Botorch—a library for Bayesian Optimization built on PyTorch [[repo](https://github.com/pytorch/botorch)]
 * napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package)
 [[napari : repo](https://github.com/napari/napari)]
 [[napari : tutorials](http://napari.org)]
