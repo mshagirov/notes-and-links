@@ -116,6 +116,7 @@ From Image-to-Image Translation to Disease Detection and Localization
   * [ ] Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)]
   * [ ] Transformer-XL [[paper](https://arxiv.org/abs/1901.02860)]
 * [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
+* [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
 * [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
 * [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
 * [ ] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
