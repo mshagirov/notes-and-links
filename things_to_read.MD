@@ -96,6 +96,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] On the adequacy of untuned warmup for adaptive optimization [[paper](https://arxiv.org/abs/1910.04209)]
 * [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
 * [x] "A recipe for training neural networks" by A. Karpathy [[post](http://karpathy.github.io/2019/04/25/recipe/)]
+* [ ] Weight Uncertainty in Neural Networks [[paper](https://arxiv.org/abs/1505.05424)]
 * [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
 * [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
 * [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
