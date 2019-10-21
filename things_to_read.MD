@@ -100,6 +100,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
 * [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
 * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
+* Bias-Resilient Neural Network [[paper](https://arxiv.org/abs/1910.03676)]
 * [ ] Bayesian Active Learning (Baal) (from ElementAI) [[repo with links](https://github.com/ElementAI/baal)]—[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
 * [ ] Emergent properties of the local geometry of neural loss landscapes [[paper](https://arxiv.org/abs/1910.05929)]
 * [ ] Possible BN and Dropout incompatibilities are described in this [[paper](https://arxiv.org/abs/1801.05134)]
@@ -132,6 +133,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Representer Point Selection for Explaining Deep Neural Networks [[post](https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/)]
 * [x] "Adversarial Examples Are Not Bugs, They Are Features" [[distill-discussion](https://distill.pub/2019/advex-bugs-discussion/)]—[[post1](http://gradientscience.org/adv/)] (post: :white_check_mark:, paper and comments: haven't read)
 * [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[paper](https://arxiv.org/abs/1904.00760)]
+* [ ] Uncertainty Quantification in Deep Learning [[post](https://www.inovex.de/blog/uncertainty-quantification-deep-learning/)]
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 
 ## Other interesting papers
