@@ -70,6 +70,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 ## Generative models
 * [ ] GAN
 [[paper](https://arxiv.org/abs/1406.2661)]
+* [ ] GAN hacks [[post](https://github.com/soumith/ganhacks)]
 * [ ] Conditional GAN
 [[paper](https://arxiv.org/abs/1411.1784?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77587488&_hsenc=p2ANqtz--i5nQIm7lOwKMygW3rZvR9W1dgbq-yKtBIuLO0OdAbVFexTcWQvh6d5jHGk0Fj2Et8vhqTYcnuCs9ITplGKwlHIvmXag&_hsmi=77587488)]
 * [ ] CycleGAN
