@@ -14,6 +14,7 @@
 * [ ] Ancient Secrets of Computer Vision
 [[website](https://pjreddie.com/courses/computer-vision/)]
 * [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
+* [ ] Neural Density Estimation and Likelihood-free Inference (by G. Papamakarios, with tutorials) [[thesis](https://arxiv.org/abs/1910.13233)]
 * [ ] AI course 
 [[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
 [[website](http://ai.berkeley.edu/lecture_videos.html)]
