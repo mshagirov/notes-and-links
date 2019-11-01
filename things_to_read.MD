@@ -140,6 +140,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 
 ## Other interesting papers
+* [ ] AlphaStar [[post](https://www.deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)] [[paper](https://www.nature.com/articles/s41586-019-1724-z)]
 * [ ] Neural reparameterization [[paper](https://arxiv.org/abs/1909.04240)]
 * [ ] Reinforcement Learning, Fast and Slow [[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
 * [ ] Neural Turtle Graphics for Modeling City Road Layouts [[paper](https://arxiv.org/abs/1910.02055)]
