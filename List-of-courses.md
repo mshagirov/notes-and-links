@@ -55,6 +55,7 @@
 [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 
 ## Useful Resources
+* Matplotlib plot annotations [[guide](https://matplotlib.org/3.1.1/tutorials/text/annotations.html#plotting-guide-annotation)]
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
