@@ -1,6 +1,8 @@
-Notes From Daniel Kahneman's "Thinking, Fast and Slow"
+Notes from books
 ---
 [[Main page](../README.md)]
+
+## Notes From Daniel Kahneman's "Thinking, Fast and Slow"
 - Answer(/question) substitution: a common cognitive bias(/error) that arises when individual faces an unknown/difficult task.
     * will this politician win the election? <--> does he look like the winner?
     * will I finish this project in 2 months? <--> did I do well yesterday, or worse, am I feeling happy right now?
