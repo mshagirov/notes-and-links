@@ -1,6 +1,5 @@
-Notes from books
----
 [[Main page](../README.md)]
+# Notes from books
 
 ## Contents
 - ["Thinking, Fast and Slow"](#thinking-fast-and-slow)
