@@ -50,14 +50,10 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] MONet: Unsupervised Scene Decomposition and Representation
 [[paper](https://arxiv.org/abs/1901.11390)]
 * _Related to_ [DIPs](#deep-image-priors), 
-* [ ] Noise2Self
-[[paper](https://arxiv.org/abs/1901.11365)] and
-[[repo](https://github.com/czbiohub/noise2self)]
-* [ ] pN2V
-[[PN2V repo](https://github.com/juglab/pn2v)] might help to revise
-[[N2V repo](https://github.com/juglab/n2v)] and
-[[N2N repo](https://github.com/NVlabs/noise2noise)]
-[[paper](https://arxiv.org/abs/1803.04189)]
+* [ ] Noise2Self [[paper](https://arxiv.org/abs/1901.11365)] and [[repo](https://github.com/czbiohub/noise2self)]
+* [ ] pN2V [[PN2V repo](https://github.com/juglab/pn2v)] might help to revise [[N2V repo](https://github.com/juglab/n2v)] and
+[[N2N repo](https://github.com/NVlabs/noise2noise)] [[paper](https://arxiv.org/abs/1803.04189)]
+* [ ] On Network Design Spaces for Visual Recognition [[paper](https://arxiv.org/abs/1905.13214)] [[repo](https://github.com/facebookresearch/pycls)]
 
 ### Deep Image Priors
 * [ ] Deep Image Prior
