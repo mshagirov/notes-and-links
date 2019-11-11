@@ -70,6 +70,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] GAN hacks [[post](https://github.com/soumith/ganhacks)]
 * [ ] Seeing What a GAN Cannot Generate [[paper](https://arxiv.org/pdf/1910.11626.pdf)]
 * [ ] SinGAN: Learning a Generative Model from a Single Natural Image [[paper](https://arxiv.org/abs/1905.01164)]
+* [ ] On Adversarial Mixup Resynthesis [[video presentation](https://www.youtube.com/watch?v=ezbC3_VZeNY)] [[paper](https://arxiv.org/abs/1903.02709)]
 * [ ] Conditional GAN [[paper](https://arxiv.org/abs/1411.1784?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77587488&_hsenc=p2ANqtz--i5nQIm7lOwKMygW3rZvR9W1dgbq-yKtBIuLO0OdAbVFexTcWQvh6d5jHGk0Fj2Et8vhqTYcnuCs9ITplGKwlHIvmXag&_hsmi=77587488)]
 * [ ] CycleGAN [[website](https://junyanz.github.io/CycleGAN/)]
 * [ ] StarGAN [[paper](https://arxiv.org/abs/1711.09020)] [[repo](https://github.com/yunjey/StarGAN)]
