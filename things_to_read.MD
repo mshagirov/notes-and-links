@@ -94,6 +94,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## General Deep Learning, ML and RL
 * [ ] Self-supervised representation learning (by Lilian Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
+* [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
 * [ ] On the adequacy of untuned warmup for adaptive optimization [[paper](https://arxiv.org/abs/1910.04209)]
 * [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
