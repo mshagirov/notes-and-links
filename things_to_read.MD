@@ -121,6 +121,8 @@ From Image-to-Image Translation to Disease Detection and Localization
   * [ ] Tool for analysing transformers [[exBERT](http://exbert.net/)]
   * [ ] Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)]
   * [ ] Transformer-XL [[paper](https://arxiv.org/abs/1901.02860)]
+  * [ ] Write With Transformer (GTP2-XL) [[website](https://transformer.huggingface.co)] 
+  * [ ] NLP papers from hugging face [[website](https://huggingface.co)]
 * [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
 * [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
 * [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
