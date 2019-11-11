@@ -8,11 +8,9 @@
 
 ---
 ## Courses and books
-* [ ] CS231n: CNNs for Visual Recognition
-[[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
-[[website](http://cs231n.stanford.edu)]
-* [ ] Ancient Secrets of Computer Vision
-[[website](https://pjreddie.com/courses/computer-vision/)]
+* [ ] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
+* [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
+* [ ] Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)]
 * [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
 * [ ] Neural Density Estimation and Likelihood-free Inference (by G. Papamakarios, with tutorials) [[thesis](https://arxiv.org/abs/1910.13233)]
 * [ ] AI course 
