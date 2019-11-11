@@ -7,7 +7,7 @@
  - [Deep Image Priors (DIPs)](#deep-image-priors)
 - [Generative models](#generative-models)
 - [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
-- [Other Interesting Papers in ML](#other-interesting-papers)
+- [Other Interesting Papers in ML](#other-interesting-papers-and-blog-posts)
 - [Force transduction, and mechanobiology](#force-transduction-and-mechanobiology)
 ---
 ## Image Analysis and Segmentation
