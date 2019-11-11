@@ -146,7 +146,10 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Uncertainty Quantification in Deep Learning [[post](https://www.inovex.de/blog/uncertainty-quantification-deep-learning/)]
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 
-## Other interesting papers
+## Other interesting papers and blog posts
+* [ ] Computing Receptive Fields of Convolutional Neural Networks [[post](https://distill.pub/2019/computing-receptive-fields/)]
+* [ ] Understanding UMAP [[post](https://pair-code.github.io/understanding-umap/)]
+* [ ] Loss landscapes and surfaces [[website](https://losslandscape.com/knowledge/)]
 * [ ] AlphaStar [[post](https://www.deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)] [[paper](https://www.nature.com/articles/s41586-019-1724-z)]
 * [ ] Neural reparameterization [[paper](https://arxiv.org/abs/1909.04240)]
 * [ ] Reinforcement Learning, Fast and Slow [[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)]
