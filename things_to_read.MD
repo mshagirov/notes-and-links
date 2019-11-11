@@ -147,6 +147,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[paper](https://arxiv.org/abs/1904.00760)]
 * [ ] Uncertainty Quantification in Deep Learning [[post](https://www.inovex.de/blog/uncertainty-quantification-deep-learning/)]
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
+* [ ] Mathematics of DL (appendix of Dive into deep learning) [[book](http://d2l.ai/chapter_appendix_math/index.html)]
 
 ## Other interesting papers and blog posts
 * [ ] Computing Receptive Fields of Convolutional Neural Networks [[post](https://distill.pub/2019/computing-receptive-fields/)]
