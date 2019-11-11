@@ -69,28 +69,17 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 
 ## Generative models
-* [ ] GAN
-[[paper](https://arxiv.org/abs/1406.2661)]
+* [ ] GAN [[paper](https://arxiv.org/abs/1406.2661)]
 * [ ] GAN hacks [[post](https://github.com/soumith/ganhacks)]
 * [ ] Seeing What a GAN Cannot Generate [[paper](https://arxiv.org/pdf/1910.11626.pdf)]
-* [ ] Conditional GAN
-[[paper](https://arxiv.org/abs/1411.1784?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77587488&_hsenc=p2ANqtz--i5nQIm7lOwKMygW3rZvR9W1dgbq-yKtBIuLO0OdAbVFexTcWQvh6d5jHGk0Fj2Et8vhqTYcnuCs9ITplGKwlHIvmXag&_hsmi=77587488)]
-* [ ] CycleGAN
-[[website](https://junyanz.github.io/CycleGAN/)]
-* [ ] StarGAN
-[[paper](https://arxiv.org/abs/1711.09020)]
-[[repo](https://github.com/yunjey/StarGAN)]
-* [ ] PixelCNN++ 
-[[paper](https://openreview.net/pdf?id=BJrFC6ceg)]
-[[repo](https://github.com/openai/pixel-cnn)]
-* [ ] PixelVAE++ 
-[[paper](https://arxiv.org/abs/1908.09948)]
-[[PixelVAE](https://arxiv.org/abs/1702.08658)]
-[repo?]
-* [ ] Progressive Growing of GANs for Improved Quality, Stability, and Variation
-[[paper](https://arxiv.org/abs/1710.10196)]
-* [ ] WaveNet
-[[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
+* [ ] SinGAN: Learning a Generative Model from a Single Natural Image [[paper](https://arxiv.org/abs/1905.01164)]
+* [ ] Conditional GAN [[paper](https://arxiv.org/abs/1411.1784?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=77587488&_hsenc=p2ANqtz--i5nQIm7lOwKMygW3rZvR9W1dgbq-yKtBIuLO0OdAbVFexTcWQvh6d5jHGk0Fj2Et8vhqTYcnuCs9ITplGKwlHIvmXag&_hsmi=77587488)]
+* [ ] CycleGAN [[website](https://junyanz.github.io/CycleGAN/)]
+* [ ] StarGAN [[paper](https://arxiv.org/abs/1711.09020)] [[repo](https://github.com/yunjey/StarGAN)]
+* [ ] PixelCNN++ [[paper](https://openreview.net/pdf?id=BJrFC6ceg)] [[repo](https://github.com/openai/pixel-cnn)]
+* [ ] PixelVAE++ [[paper](https://arxiv.org/abs/1908.09948)] [[PixelVAE](https://arxiv.org/abs/1702.08658)] [repo?]
+* [ ] Progressive Growing of GANs for Improved Quality, Stability, and Variation [[paper](https://arxiv.org/abs/1710.10196)]
+* [ ] WaveNet [[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
 * "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
 
