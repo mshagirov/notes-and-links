@@ -76,6 +76,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] PixelCNN++ [[paper](https://openreview.net/pdf?id=BJrFC6ceg)] [[repo](https://github.com/openai/pixel-cnn)]
 * [ ] PixelVAE++ [[paper](https://arxiv.org/abs/1908.09948)] [[PixelVAE](https://arxiv.org/abs/1702.08658)] [repo?]
 * [ ] Progressive Growing of GANs for Improved Quality, Stability, and Variation [[paper](https://arxiv.org/abs/1710.10196)]
+* [ ] Few-shot Video-to-Video Synthesis [[website with links](https://nvlabs.github.io/few-shot-vid2vid/)]
 * [ ] WaveNet [[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
 * "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
@@ -83,6 +84,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 ## General Deep Learning, ML and RL
 * [ ] Why re-sampling imbalanced data isn’t always the best idea [[post](https://stroemer.cc/resample-imbalanced-data/)]
 * [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
+* [ ] DiffTaichi: Differentiable Programming for Physical Simulation [[paper](https://arxiv.org/abs/1910.00935)]
 * [ ] (SGD and mini-batch sizes) Parallelizing Stochastic Gradient Descent for Least Squares Regression: mini-batching, averaging, and model misspecification [[paper](https://arxiv.org/abs/1610.03774)]
 * [ ] Self-supervised representation learning (by Lilian Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
 * [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
