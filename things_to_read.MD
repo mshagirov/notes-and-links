@@ -94,6 +94,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
 
 ## General Deep Learning, ML and RL
+* [ ] (SGD and mini-batch sizes) Parallelizing Stochastic Gradient Descent for Least Squares Regression: mini-batching, averaging, and model misspecification [[paper](https://arxiv.org/abs/1610.03774)]
 * [ ] Self-supervised representation learning (by Lilian Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
 * [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
 * [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
