@@ -6,8 +6,9 @@
 - [Image Analysis and Segmentation](#image-analysis-and-segmentation)
  - [Deep Image Priors (DIPs)](#deep-image-priors)
 - [Generative models](#generative-models)
-- [General Deep Learning, ML and RL](#general-deep-learning-ml-and-rl)
-- [Other Interesting Papers](#other-interesting-papers)
+- [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
+- [Other Interesting Papers in ML](#other-interesting-papers)
+- [Force transduction, and mechanobiology](#force-transduction-and-mechanobiology)
 ---
 ## Image Analysis and Segmentation
 * [ ] Differentiable Mask-Matching Network (DMM-net)
@@ -149,3 +150,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Extracting 2D surface with PreMosa [[PreMosa](https://cblasse.github.io/premosa/example.html)]
 * [ ] Highway nets [[post](http://people.idsia.ch/~juergen/highway-networks.html)]—[[paper1](https://arxiv.org/abs/1507.06228)]—[[paper2](https://arxiv.org/abs/1612.07771)]
 * "Compositional Pattern Producing Networks: A Novel Abstraction of Development" [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]—[[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)—[post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
+
+## Force transduction, and mechanobiology
+* [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
+* [ ] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)]
+
