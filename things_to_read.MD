@@ -154,6 +154,6 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## Force transduction, and mechanobiology
 * [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
-* [ ] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)]
+* [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)]
 * [ ] Force networks, torque balance and Airy stress in the planar vertex model of a confluent epithelium [[paper](https://arxiv.org/pdf/1910.10799.pdf)]
 
