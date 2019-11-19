@@ -9,6 +9,7 @@
 ---
 ## Courses and books
 * [ ] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
+* [ ] Machine Learning (Tom Mitchell), slides and video lectures [[website](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)]
 * [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
 * [ ] Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)]
 * [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
