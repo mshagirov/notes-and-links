@@ -143,6 +143,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## Other interesting papers and blog posts
 * [ ] Computing Receptive Fields of Convolutional Neural Networks [[post](https://distill.pub/2019/computing-receptive-fields/)]
+* [ ] 3D Ken Burns Effect from a Single Image [[paper](https://arxiv.org/abs/1909.05483)]
 * [ ] Understanding UMAP [[post](https://pair-code.github.io/understanding-umap/)]
 * [ ] Loss landscapes and surfaces [[website](https://losslandscape.com/knowledge/)]
 * [ ] AlphaStar [[post](https://www.deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)] [[paper](https://www.nature.com/articles/s41586-019-1724-z)]
