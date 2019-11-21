@@ -65,6 +65,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
 [["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
 
+## Graph Neural Networks
+* [ ] A Comprehensive Survey on Graph Neural Networks [[paper](https://arxiv.org/abs/1901.00596)]
 
 ## Generative models
 * [ ] Learning Implicit Generative Models by Matching Perceptual Features [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/dos_Santos_Learning_Implicit_Generative_Models_by_Matching_Perceptual_Features_ICCV_2019_paper.html)]
