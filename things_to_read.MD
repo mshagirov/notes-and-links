@@ -142,7 +142,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 * [ ] Mathematics of DL (appendix of Dive into deep learning) [[book](http://d2l.ai/chapter_appendix_math/index.html)]
 ## Data Augmentation
-* * Video explaining RandAugment and comparing it to other augmentation methods [[video](https://youtu.be/Zzt9i3gDueE)]
+* Video explaining RandAugment and comparing it to other augmentation methods [[video](https://youtu.be/Zzt9i3gDueE)]
 * [ ] RandAugment: Practical automated data augmentation with a reduced search space [[paper](https://arxiv.org/abs/1909.13719)]
 * [ ] AutoAugment: Learning Augmentation Policies from Data [[paper](https://arxiv.org/abs/1805.09501)]
 * [ ] A survey on Image Data Augmentation for Deep Learning [[paper](https://link.springer.com/article/10.1186/s40537-019-0197-0)]
