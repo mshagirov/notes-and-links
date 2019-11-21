@@ -5,6 +5,7 @@
 
 - [Image Analysis and Segmentation](#image-analysis-and-segmentation)
  - [Deep Image Priors (DIPs)](#deep-image-priors)
+- [Graph Neural Networks](#graph-neural-networks)
 - [Generative models](#generative-models)
 - [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
 - [Data Augmentation](#data-augmentation)
@@ -67,6 +68,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## Graph Neural Networks
 * [ ] A Comprehensive Survey on Graph Neural Networks [[paper](https://arxiv.org/abs/1901.00596)]
+* [ ] Neural Message Passing for Quantum Chemistry [[paper](https://arxiv.org/abs/1704.01212)]
 
 ## Generative models
 * [ ] Learning Implicit Generative Models by Matching Perceptual Features [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/dos_Santos_Learning_Implicit_Generative_Models_by_Matching_Perceptual_Features_ICCV_2019_paper.html)]
