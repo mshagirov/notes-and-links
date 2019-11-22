@@ -13,6 +13,7 @@
 - [Force transduction, and mechanobiology](#force-transduction-and-mechanobiology)
 ---
 ## Image Analysis and Segmentation
+* [ ] EfficientDet: Scalable and Efficient Object Detection [[paper](https://arxiv.org/abs/1911.09070)]
 * [ ] Differentiable Mask-Matching Network (DMM-net)
 [[repo](https://github.com/ZENGXH/DMM_Net)]
 [[paper](https://www.cs.toronto.edu/~xiaohui/dmm/paper/dmmnet_iccv19.pdf)]
