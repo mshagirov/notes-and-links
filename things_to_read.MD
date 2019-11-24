@@ -91,6 +91,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
 
 ## General Deep Learning, ML and RL
+* [ ] See abstracts and references in [http://bayesiandeeplearning.org](http://bayesiandeeplearning.org) (2016-19 workshops)
 * [ ] Self-training with Noisy Student improves ImageNet classification [[paper](https://arxiv.org/abs/1911.04252)]
 * [ ] Meta-Learning Deep Energy-Based Memory Models [[paper](https://arxiv.org/abs/1910.02720)]
 * [ ] Why re-sampling imbalanced data isn’t always the best idea [[post](https://stroemer.cc/resample-imbalanced-data/)]
