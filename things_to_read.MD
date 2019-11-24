@@ -72,6 +72,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Neural Message Passing for Quantum Chemistry [[paper](https://arxiv.org/abs/1704.01212)]
 
 ## Generative models
+* [ ] Continual Unsupervised Representation Learning [[paper](https://arxiv.org/abs/1910.14481)][[repo](https://github.com/deepmind/deepmind-research/tree/master/curl)]
 * [ ] Learning Implicit Generative Models by Matching Perceptual Features [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/dos_Santos_Learning_Implicit_Generative_Models_by_Matching_Perceptual_Features_ICCV_2019_paper.html)]
 * [ ] GAN [[paper](https://arxiv.org/abs/1406.2661)]
 * [ ] GAN hacks [[post](https://github.com/soumith/ganhacks)]
