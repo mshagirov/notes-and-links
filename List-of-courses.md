@@ -23,7 +23,7 @@
   - A Comprehensive Guide to Machine Learning (Berkeley University) (Nasiriany _et al._)
   - Elements of Statistical Learning (Hastie *et al.*)
   - Pattern Recognition and Machine Learning (Bishop)
-  - Machine Learning A Probabilistic Perspective (Murphy)
+  - Machine Learning A Probabilistic Perspective (Murphy) [[notebook repo](https://github.com/probml/pyprobml/)]
   - Learning from data (book or course)
   [[website](https://work.caltech.edu/lectures.html#lectures)]
   - Information Theory, Inference, and Learning Algorithms (MacKay)
