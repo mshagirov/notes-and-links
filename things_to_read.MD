@@ -62,7 +62,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 ### Deep Image Priors
 * [ ] Deep Image Prior
 [[website](https://dmitryulyanov.github.io/deep_image_prior)]
-* [ ] Double DIP
+* [x] Double DIP
 [[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)]
 [[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
 [["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
