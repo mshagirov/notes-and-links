@@ -2,6 +2,7 @@
 ---
 [[Main page](README.md)]
 ## Code-Fu resources
+- `nbdev` for development in  notebook environment --> [[getting-started](https://nbdev.fast.ai/#Getting-Started)]
 - [Python how-tos](https://docs.python.org/3.7/howto/index.html), e.g. [decriptors](https://docs.python.org/3.7/howto/descriptor.html) and more on decorators—property decorator [(stackoverflow)](https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work)
 - Adding (/verifying) remote URL in `git` [help](https://help.github.com/en/github/using-git/adding-a-remote)
 - Colab tricks (set of links to useful colab resources) [[repo](https://github.com/shawwn/colab-tricks)]
