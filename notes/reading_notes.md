@@ -2,9 +2,10 @@
 # Notes from books
 
 ## Contents
-- ["Thinking, Fast and Slow"](#thinking-fast-and-slow)
+1. ["Thinking, Fast and Slow"](#thinking-fast-and-slow)
 
-### Thinking, Fast and Slow
+## Thinking, Fast and Slow
+[[Contents](#contents)]
 - Answer(/question) substitution: a common cognitive bias(/error) that arises when individual faces an unknown/difficult task, or sets it as an ill-defined question.
     * Will this politician win the election? <--> does he look like the winner?
     * Will I finish this project in 2 months? <--> did I do well yesterday, or worse, am I feeling happy right now?
