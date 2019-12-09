@@ -2,17 +2,17 @@
 ---
 [[Main page](README.md)]
 ## Contents
-
-- [Image Analysis and Segmentation](#image-analysis-and-segmentation)
- - [Deep Image Priors (DIPs)](#deep-image-priors)
-- [Graph Neural Networks](#graph-neural-networks)
-- [Generative models](#generative-models)
-- [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
-- [Data Augmentation](#data-augmentation)
-- [Other Interesting Papers in ML](#other-interesting-papers-and-blog-posts)
-- [Force transduction, and mechanobiology](#force-transduction-and-mechanobiology)
+1. [Image Analysis and Segmentation](#image-analysis-and-segmentation)
+ 1. [Deep Image Priors (DIPs)](#deep-image-priors)
+1. [Graph Neural Networks](#graph-neural-networks)
+1. [Generative models](#generative-models)
+1. [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
+1. [Data Augmentation](#data-augmentation)
+1. [Other Interesting Papers in ML](#other-interesting-papers-and-blog-posts)
+1. [Force transduction, and mechanobiology](#force-transduction-and-mechanobiology)
 ---
 ## Image Analysis and Segmentation
+[[Contents](#contents)]
 * [ ] EfficientDet: Scalable and Efficient Object Detection [[paper](https://arxiv.org/abs/1911.09070)]
 * [ ] Differentiable Mask-Matching Network (DMM-net)
 [[repo](https://github.com/ZENGXH/DMM_Net)]
@@ -60,6 +60,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] On Network Design Spaces for Visual Recognition [[paper](https://arxiv.org/abs/1905.13214)] [[repo](https://github.com/facebookresearch/pycls)]
 
 ### Deep Image Priors
+[[Contents](#contents)]
 * [ ] Deep Image Prior
 [[website](https://dmitryulyanov.github.io/deep_image_prior)]
 * [x] Double DIP
@@ -68,10 +69,12 @@ From Image-to-Image Translation to Disease Detection and Localization
 [["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
 
 ## Graph Neural Networks
+[[Contents](#contents)]
 * [ ] A Comprehensive Survey on Graph Neural Networks [[paper](https://arxiv.org/abs/1901.00596)]
 * [ ] Neural Message Passing for Quantum Chemistry [[paper](https://arxiv.org/abs/1704.01212)]
 
 ## Generative models
+[[Contents](#contents)]
 * [ ] Continual Unsupervised Representation Learning [[paper](https://arxiv.org/abs/1910.14481)][[repo](https://github.com/deepmind/deepmind-research/tree/master/curl)]
 * [ ] Learning Implicit Generative Models by Matching Perceptual Features [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/dos_Santos_Learning_Implicit_Generative_Models_by_Matching_Perceptual_Features_ICCV_2019_paper.html)]
 * [ ] GAN [[paper](https://arxiv.org/abs/1406.2661)]
@@ -91,6 +94,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
 
 ## General Deep Learning, ML and RL
+[[Contents](#contents)]
 * [ ] See abstracts and references in [http://bayesiandeeplearning.org](http://bayesiandeeplearning.org) (2016-19 workshops)
 * [ ] Self-training with Noisy Student improves ImageNet classification [[paper](https://arxiv.org/abs/1911.04252)]
 * [ ] Meta-Learning Deep Energy-Based Memory Models [[paper](https://arxiv.org/abs/1910.02720)]
@@ -149,11 +153,13 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" [[paper](https://arxiv.org/abs/1706.02515)] (SELU: scaled exponential linear unit)
 * [ ] Mathematics of DL (appendix of Dive into deep learning) [[book](http://d2l.ai/chapter_appendix_math/index.html)]
 ## Data Augmentation
+[[Contents](#contents)]
 * Video explaining RandAugment and comparing it to other augmentation methods [[video](https://youtu.be/Zzt9i3gDueE)]
 * [ ] RandAugment: Practical automated data augmentation with a reduced search space [[paper](https://arxiv.org/abs/1909.13719)]
 * [ ] AutoAugment: Learning Augmentation Policies from Data [[paper](https://arxiv.org/abs/1805.09501)]
 * [ ] A survey on Image Data Augmentation for Deep Learning [[paper](https://link.springer.com/article/10.1186/s40537-019-0197-0)]
 ## Other interesting papers and blog posts
+[[Contents](#contents)]
 * [ ] Computing Receptive Fields of Convolutional Neural Networks [[post](https://distill.pub/2019/computing-receptive-fields/)]
 * [ ] 3D Ken Burns Effect from a Single Image [[paper](https://arxiv.org/abs/1909.05483)]
 * [ ] Understanding UMAP [[post](https://pair-code.github.io/understanding-umap/)]
@@ -167,6 +173,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * "Compositional Pattern Producing Networks: A Novel Abstraction of Development" [[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)]—[[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)—[post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)]
 
 ## Force transduction, and mechanobiology
+[[Contents](#contents)]
 * [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
 * [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
 * [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)] [[repo](https://github.com/AllenCellModeling/DLITE)]
