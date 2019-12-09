@@ -8,6 +8,7 @@
 
 ---
 ## Courses and books
+[[Contents](#contents)]
 * [ ] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
 * [ ] Machine Learning (Tom Mitchell) [[website](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)] [[lectures](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)]
 * [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
@@ -54,6 +55,7 @@
 [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 
 ## Useful Resources
+[[Contents](#contents)]
 * Matplotlib plot annotations [[guide](https://matplotlib.org/3.1.1/tutorials/text/annotations.html#plotting-guide-annotation)]
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
@@ -106,6 +108,7 @@ __(check out the `napari`)__
 [[post](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
 
 ## Datasets
+[[Contents](#contents)]
 * [DeepCell](http://deepcell.org/data) cell, and nuclei segmentation and tracking dataset 
 ("Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning" Erick Moen _et al._ 2019) [[biorXiv](https://www.biorxiv.org/content/10.1101/803205v2)]
 [[model repo](https://github.com/vanvalenlab/deepcell-tf)]
