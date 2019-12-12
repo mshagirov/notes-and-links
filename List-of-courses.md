@@ -2,17 +2,26 @@
 ---
 [[Main page](README.md)]
 ## Contents
-- [Courses and books](#courses-and-books)
+- [Tissue Mechanics](#tissue-mechanics)
+  - [Mechanics Courses](#mechanics-courses)
+- [ML Courses and books](#ml-courses-and-books)
 - [Useful Resources](#useful-resources)
   - [Pytorch](#pytorch)
-  - [Miscellaneous](#miscellaneous)
   - [Python and Computer Vision](#python-and-cv)
   - [LaTeX and Vim](#latex-and-vim)
   - [Containers (e.g. Docker)](#containers-eg-Docker)
+  - [Miscellaneous](#miscellaneous)
 - [Datasets](#datasets)
 
 ---
-## Courses and books
+
+## Tissue Mechanics
+[[Contents](#contents)]
+### Mechanics Courses
+[up](#tissue-mechanics)
+* [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)] 
+
+## ML Courses and books
 [[Contents](#contents)]
 * [ ] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
 * [ ] Machine Learning (Tom Mitchell) [[website](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)] [[lectures](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)]
@@ -78,11 +87,6 @@
 [[docs](https://hangar-py.readthedocs.io/en/latest/readme.html)]
 * Programmatically Building and Managing Training Data
 [[website](https://www.snorkel.org)]
-### Miscellaneous
-[up](#useful-resources)
-* The Modern JavaScript Tutorial [[website](https://javascript.info)]
-* Regexper regexp "Railroad Diagrams" generator
-[[website](https://regexper.com)] (can be used to interpret regexps)
 ### Python and CV
 [up](#useful-resources)
 * "Dive Into Python 3" [[html-book](https://diveintopython3.problemsolving.io/index.html)]
@@ -109,6 +113,11 @@
 * Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
 * Deploying JupyterHub with Kubernetes on OpenStack [[post](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
 * Website security etc. tutorials and other readings [[hacker101](https://www.hacker101.com/resources)]
+### Miscellaneous
+[up](#useful-resources)
+* The Modern JavaScript Tutorial [[website](https://javascript.info)]
+* Regexper regexp "Railroad Diagrams" generator
+[[website](https://regexper.com)] (can be used to interpret regexps)
 
 ## Datasets
 [[Contents](#contents)]
