@@ -8,7 +8,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Python and Computer Vision](#python-and-cv)
   - [LaTeX and Vim](#latex-and-vim)
-  - [Containers (e.g. Docker)](#containers-e.g.-Docker)
+  - [Containers (e.g. Docker)](#containers-eg-Docker)
 - [Datasets](#datasets)
 
 ---
