@@ -4,6 +4,11 @@
 ## Contents
 - [Courses and books](#courses-and-books)
 - [Useful Resources](#useful-resources)
+  - [Pytorch](#pytorch)
+  - [Miscellaneous](#miscellaneous)
+  - [Python and Computer Vision](#python-and-cv)
+  - [LaTeX and Vim](#latex-and-vim)
+  - [Containers (e.g. Docker)](#containers-e-g-Docker))
 - [Datasets](#datasets)
 
 ---
@@ -56,56 +61,53 @@
 
 ## Useful Resources
 [[Contents](#contents)]
-* Matplotlib plot annotations [[guide](https://matplotlib.org/3.1.1/tutorials/text/annotations.html#plotting-guide-annotation)]
+### Pytorch
+[up](#useful-resources)
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
+* Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
 [[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
 * Botorch—a library for Bayesian Optimization built on PyTorch [[repo](https://github.com/pytorch/botorch)]
-* napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package)
-[[napari : repo](https://github.com/napari/napari)]
-[[napari : tutorials](http://napari.org)]
-[[ImagePy : repo](https://github.com/Image-Py/imagepy/)]
-__(check out the `napari`)__
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
 * Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups
 [[post](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)]
 * `TensorFlow 2.0` + `Keras` Overview for Deep Learning Researchers
 [[notebook](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=zoDjozMFREDU)]
-* "Dive Into Python 3"
-[[html-book](https://diveintopython3.problemsolving.io/index.html)]
-* Computer Vision, Deep Learning, and OpenCV on `PyImageSearch`
-[[tutorial](https://www.pyimagesearch.com/start-here/)] (_includes details on environment set up, hardware, and dataset preparation_)
-* The Modern JavaScript Tutorial [[website](https://javascript.info)]
-* Jupyter notebook version control with jupytext, and automation with papermill
-[[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
-* IPython websites
-[[repo](https://github.com/stephenslab/ipynb-website)]
 * Hangar (version control for data)
 [[docs](https://hangar-py.readthedocs.io/en/latest/readme.html)]
 * Programmatically Building and Managing Training Data
 [[website](https://www.snorkel.org)]
-* Packaging and versioning (python related)
-  * [x] Semantic Versioning [[post](https://semver.org)]
-  * [ ] Pip distribution and packaging
-  [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
-  * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
+### Miscellaneous
+[up](#useful-resources)
+* The Modern JavaScript Tutorial [[website](https://javascript.info)]
 * Regexper regexp "Railroad Diagrams" generator
 [[website](https://regexper.com)] (can be used to interpret regexps)
+### Python and CV
+[up](#useful-resources)
+* "Dive Into Python 3" [[html-book](https://diveintopython3.problemsolving.io/index.html)]
+* napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package) [[napari : repo](https://github.com/napari/napari)] [[napari : tutorials](http://napari.org)] [[ImagePy : repo](https://github.com/Image-Py/imagepy/)] __(check out the `napari`)__
+* Matplotlib plot annotations [[guide](https://matplotlib.org/3.1.1/tutorials/text/annotations.html#plotting-guide-annotation)]
+* Computer Vision, Deep Learning, and OpenCV on `PyImageSearch` [[tutorial](https://www.pyimagesearch.com/start-here/)] (_includes details on environment set up, hardware, and dataset preparation_)
+* Jupyter notebook version control with jupytext, and automation with papermill [[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
+* IPython websites [[repo](https://github.com/stephenslab/ipynb-website)]
+* Packaging and versioning (python related)
+  * [x] Semantic Versioning [[post](https://semver.org)]
+  * [ ] Pip distribution and packaging [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
+  * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
+* Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
+### LaTeX and Vim
+[up](#useful-resources)
 * _LaTeX_ notes:
   * The Not So Short Introduction to  [[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)]
-  * Beamer presentation (LaTeX) tutorial
-  [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
-  * Using _LaTeX_ with Vim
-  [[tutorial](https://castel.dev/post/lecture-notes-1/)]
+  * Beamer presentation (LaTeX) tutorial [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
+  * Using _LaTeX_ with Vim [[tutorial](https://castel.dev/post/lecture-notes-1/)]
   * [x] Vim cheatsheet [[website](https://vim.rtorr.com)]
-* Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
-* Website security etc. tutorials and other readings
-[[hacker101](https://www.hacker101.com/resources)]
+### Containers (e.g. Docker)
+[up](#useful-resources)
 * Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
-* Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
-* Deploying JupyterHub with Kubernetes on OpenStack
-[[post](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
+* Deploying JupyterHub with Kubernetes on OpenStack [[post](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
+* Website security etc. tutorials and other readings [[hacker101](https://www.hacker101.com/resources)]
 
 ## Datasets
 [[Contents](#contents)]
