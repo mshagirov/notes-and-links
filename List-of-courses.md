@@ -3,7 +3,7 @@
 [[Main page](README.md)]
 ## Contents
 - [Tissue Mechanics](#tissue-mechanics)
-  - [Mechanics Courses](#mechanics-courses)
+  - [Tissue Mechanics Courses](#tissue-mechanics-courses-and-books)
   - [Tissue Mechanics Tools](#tissue-mechanics-tools)
 - [ML Courses and books](#ml-courses-and-books)
 - [Useful Resources](#useful-resources)
@@ -18,8 +18,9 @@
 
 ## Tissue Mechanics
 [[Contents](#contents)]
-### Mechanics Courses
+### Tissue Mechanics Courses and Books
 [up](#tissue-mechanics)
+* [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*
 * [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)]
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
