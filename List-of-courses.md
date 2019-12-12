@@ -19,7 +19,8 @@
 [[Contents](#contents)]
 ### Mechanics Courses
 [up](#tissue-mechanics)
-* [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)] 
+* [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)]
+* [ ] Finite Elements (PDE solver) Python implementation [[SfePy](http://sfepy.org/doc/development.html)] [[SfePy repo](https://github.com/sfepy/sfepy)]
 
 ## ML Courses and books
 [[Contents](#contents)]
@@ -89,6 +90,7 @@
 [[website](https://www.snorkel.org)]
 ### Python and CV
 [up](#useful-resources)
+* `itkwidgets` for Jupyter (__2D,3D data visualisation__) [[repo with instructions](https://github.com/InsightSoftwareConsortium/itkwidgets)]
 * "Dive Into Python 3" [[html-book](https://diveintopython3.problemsolving.io/index.html)]
 * napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package) [[napari : repo](https://github.com/napari/napari)] [[napari : tutorials](http://napari.org)] [[ImagePy : repo](https://github.com/Image-Py/imagepy/)] __(check out the `napari`)__
 * Matplotlib plot annotations [[guide](https://matplotlib.org/3.1.1/tutorials/text/annotations.html#plotting-guide-annotation)]
