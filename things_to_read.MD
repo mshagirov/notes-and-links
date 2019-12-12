@@ -99,6 +99,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 ## General Deep Learning, ML and RL
 [[Contents](#contents)]
 * [ ] Causality for Machine Learning [[paper](https://arxiv.org/abs/1911.10500)]
+* [ ] Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One [[paper](https://arxiv.org/abs/1912.03263)]
 * [ ] Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks [[paper](https://arxiv.org/abs/1911.09737)]
 * [ ] See abstracts and references in [http://bayesiandeeplearning.org](http://bayesiandeeplearning.org) (2016-19 workshops)
 * [ ] Self-training with Noisy Student improves ImageNet classification [[paper](https://arxiv.org/abs/1911.04252)]
