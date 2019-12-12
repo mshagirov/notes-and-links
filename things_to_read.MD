@@ -58,6 +58,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] pN2V [[PN2V repo](https://github.com/juglab/pn2v)] might help to revise [[N2V repo](https://github.com/juglab/n2v)] and
 [[N2N repo](https://github.com/NVlabs/noise2noise)] [[paper](https://arxiv.org/abs/1803.04189)]
 * [ ] On Network Design Spaces for Visual Recognition [[paper](https://arxiv.org/abs/1905.13214)] [[repo](https://github.com/facebookresearch/pycls)]
+* [ ] (Learning) "Neural Voxel Renderer" [[project website](http://www.krematas.com/nvr/index.html)]
 
 ### Deep Image Priors
 [[Contents](#contents)]
