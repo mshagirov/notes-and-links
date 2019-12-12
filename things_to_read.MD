@@ -99,6 +99,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[Contents](#contents)]
 * [ ] See abstracts and references in [http://bayesiandeeplearning.org](http://bayesiandeeplearning.org) (2016-19 workshops)
 * [ ] Self-training with Noisy Student improves ImageNet classification [[paper](https://arxiv.org/abs/1911.04252)]
+* [ ] Lottery Ticket Hypothesis [blog post with references](https://ai.facebook.com/blog/understanding-the-generalization-of-lottery-tickets-in-neural-networks/)
 * [ ] Meta-Learning Deep Energy-Based Memory Models [[paper](https://arxiv.org/abs/1910.02720)]
 * [ ] Why re-sampling imbalanced data isn’t always the best idea [[post](https://stroemer.cc/resample-imbalanced-data/)]
 * [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
