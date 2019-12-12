@@ -60,6 +60,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] On Network Design Spaces for Visual Recognition [[paper](https://arxiv.org/abs/1905.13214)] [[repo](https://github.com/facebookresearch/pycls)]
 * [ ] (Learning) "Neural Voxel Renderer" [[project website](http://www.krematas.com/nvr/index.html)]
 * [ ] Geometric Capsule Autoencoders for 3D Point Clouds [[paper](https://arxiv.org/abs/1912.03310)]
+* [ ] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization [[paper](https://arxiv.org/abs/1912.02314)]
 
 ### Deep Image Priors
 [[Contents](#contents)]
