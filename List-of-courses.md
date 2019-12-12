@@ -96,6 +96,7 @@
   * [ ] Pip distribution and packaging [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
   * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
 * Advanced numpy [[notebook](https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)]
+* Guided filter (He et al.) python implement-n [[repo](https://github.com/swehrwein/python-guided-filter)]
 ### LaTeX and Vim
 [up](#useful-resources)
 * _LaTeX_ notes:
