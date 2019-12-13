@@ -25,7 +25,7 @@
 * [ ] "Intermolecular and Surface Forces" by Israelachvili (_Chs 9(partially), 11, partially 13 and 14, __17__(Adhesion and wetting, start with this, I guess), partially 20 and 21_).
 * [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)]
 * [ ] Surface Evolver these examples:{[5pb](http://facstaff.susqu.edu/brakke/evolver/downloads/5pb.fe), [loops](http://facstaff.susqu.edu/brakke/evolver/downloads/loops.fe), and more [examples](http://facstaff.susqu.edu/brakke/evolver/examples/examples.htm)}, and [tutorial](http://facstaff.susqu.edu/brakke/evolver/html/tutorial.htm) (included in the manual, can learn a lot about surface physical models from SE's *tutorial and these examples*).
-* [ ] <a name="fenics">FEniCS</a> _introduction tutorial_ [link](https://fenicsproject.org/pub/tutorial/sphinx1/index.html) and _book_ (python library for solving PDEs with finite element methods)
+* [ ] <a name="fenics">FEniCS</a> [_introduction tutorial_](https://fenicsproject.org/pub/tutorial/sphinx1/index.html), and _book_ (python library for solving PDEs with finite element methods).
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
 * Tissue Analyzer plugin for Fiji [[repo](https://github.com/mpicbg-scicomp/tissue_miner/blob/master/MovieProcessing.md#TissueAnalyzer)]
