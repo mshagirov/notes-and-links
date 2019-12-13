@@ -25,7 +25,7 @@
 * [ ] Surface Evolver these examples:{[5pb](http://facstaff.susqu.edu/brakke/evolver/downloads/5pb.fe), [loops](http://facstaff.susqu.edu/brakke/evolver/downloads/loops.fe), and more [examples](http://facstaff.susqu.edu/brakke/evolver/examples/examples.htm)}, and [tutorial](http://facstaff.susqu.edu/brakke/evolver/html/tutorial.htm) (included in the manual, can learn a lot about surface physical models from SE's *tutorial and these examples*).
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
-* [ ] FEniCS _introduction tutorial_ [link](https://fenicsproject.org/pub/tutorial/sphinx1/index.html) and _book_
+* [ ] FEniCS _introduction tutorial_ [link](https://fenicsproject.org/pub/tutorial/sphinx1/index.html) and _book_ (python library for solving PDEs with finite element methods)
 * [ ] Tissue Analyzer plugin for Fiji [[repo](https://github.com/mpicbg-scicomp/tissue_miner/blob/master/MovieProcessing.md#TissueAnalyzer)]
 * [ ] Finite Elements (PDE solver) Python implementation [[SfePy](http://sfepy.org/doc/development.html)] [[SfePy repo](https://github.com/sfepy/sfepy)]
 
