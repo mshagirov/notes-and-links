@@ -28,8 +28,8 @@
 * [ ] <a name="fenics">FEniCS</a> _introduction tutorial_ [link](https://fenicsproject.org/pub/tutorial/sphinx1/index.html) and _book_ (python library for solving PDEs with finite element methods)
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
-* FEniCS (for introduction tutorial and manual see [above](#fenics))
 * Tissue Analyzer plugin for Fiji [[repo](https://github.com/mpicbg-scicomp/tissue_miner/blob/master/MovieProcessing.md#TissueAnalyzer)]
+* FEniCS (for introduction tutorial and manual see [FEniCS entry above](#fenics))
 * Finite Elements (PDE solver) Python implementation [[SfePy](http://sfepy.org/doc/development.html)] [[SfePy repo](https://github.com/sfepy/sfepy)]
 
 ## ML Courses and books
