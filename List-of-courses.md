@@ -20,7 +20,9 @@
 [[Contents](#contents)]
 ### Tissue Mechanics Courses and Books
 [up](#tissue-mechanics)
-* [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*
+* [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*.
+* [ ] "Mechanics of the Cell" by David Boal (_Chs 2,5,6,8,9,10,12_).
+* [ ] "Intermolecular and Surface Forces" by Israelachvili (_Chs 9(partially), 11, partially 13 and 14, __17__(Adhesion and wetting, start with this, I guess), partially 20 and 21_).
 * [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)]
 * [ ] Surface Evolver these examples:{[5pb](http://facstaff.susqu.edu/brakke/evolver/downloads/5pb.fe), [loops](http://facstaff.susqu.edu/brakke/evolver/downloads/loops.fe), and more [examples](http://facstaff.susqu.edu/brakke/evolver/examples/examples.htm)}, and [tutorial](http://facstaff.susqu.edu/brakke/evolver/html/tutorial.htm) (included in the manual, can learn a lot about surface physical models from SE's *tutorial and these examples*).
 ### Tissue Mechanics Tools
