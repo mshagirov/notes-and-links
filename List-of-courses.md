@@ -22,11 +22,12 @@
 [up](#tissue-mechanics)
 * [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*
 * [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)]
-* [ ] Surface Evolver these examples:{[5pb](http://facstaff.susqu.edu/brakke/evolver/downloads/5pb.fe), [loops](http://facstaff.susqu.edu/brakke/evolver/downloads/loops.fe), and more [examples](http://facstaff.susqu.edu/brakke/evolver/examples/examples.htm)}, and [tutorial](http://facstaff.susqu.edu/brakke/evolver/html/tutorial.htm) (included in the manual, can learn a lot about surface physical models from SE's *tutorial and these examples*). 
+* [ ] Surface Evolver these examples:{[5pb](http://facstaff.susqu.edu/brakke/evolver/downloads/5pb.fe), [loops](http://facstaff.susqu.edu/brakke/evolver/downloads/loops.fe), and more [examples](http://facstaff.susqu.edu/brakke/evolver/examples/examples.htm)}, and [tutorial](http://facstaff.susqu.edu/brakke/evolver/html/tutorial.htm) (included in the manual, can learn a lot about surface physical models from SE's *tutorial and these examples*).
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
-* [ ] Finite Elements (PDE solver) Python implementation [[SfePy](http://sfepy.org/doc/development.html)] [[SfePy repo](https://github.com/sfepy/sfepy)]
+* [ ] FEniCS _introduction tutorial_ [link](https://fenicsproject.org/pub/tutorial/sphinx1/index.html) and _book_
 * [ ] Tissue Analyzer plugin for Fiji [[repo](https://github.com/mpicbg-scicomp/tissue_miner/blob/master/MovieProcessing.md#TissueAnalyzer)]
+* [ ] Finite Elements (PDE solver) Python implementation [[SfePy](http://sfepy.org/doc/development.html)] [[SfePy repo](https://github.com/sfepy/sfepy)]
 
 ## ML Courses and books
 [[Contents](#contents)]
