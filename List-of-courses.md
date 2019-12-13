@@ -21,11 +21,12 @@
 ### Tissue Mechanics Courses and Books
 [up](#tissue-mechanics)
 * [ ] "Biological Physics of the Developing Embryo" by Forgacs _et al._
-* [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*.
 * [ ] "Mechanics of the Cell" by David Boal (_Chs 2,5,6,8,9,10,12_).
 * [ ] "Intermolecular and Surface Forces" by Israelachvili (_Chs 9(partially), 11, partially 13 and 14, __17__(Adhesion and wetting, start with this, I guess), partially 20 and 21_).
 * [ ] Python-based CFD course (basics) [[lecture notes with codes](http://ohllab.org/CFD_course/index.html)]
 * [ ] Surface Evolver these examples:{[5pb](http://facstaff.susqu.edu/brakke/evolver/downloads/5pb.fe), [loops](http://facstaff.susqu.edu/brakke/evolver/downloads/loops.fe), and more [examples](http://facstaff.susqu.edu/brakke/evolver/examples/examples.htm)}, and [tutorial](http://facstaff.susqu.edu/brakke/evolver/html/tutorial.htm) (included in the manual, can learn a lot about surface physical models from SE's *tutorial and these examples*).
+* [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*.
+* [ ] "Random Walks in  Biology" by H.C. Berg.
 * [ ] <a name="fenics">FEniCS</a>: python library for solving PDEs with finite element methods. [_Introduction tutorial_](https://fenicsproject.org/pub/tutorial/sphinx1/index.html), and _book_.
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
