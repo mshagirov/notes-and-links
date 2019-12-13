@@ -20,6 +20,7 @@
 [[Contents](#contents)]
 ### Tissue Mechanics Courses and Books
 [up](#tissue-mechanics)
+* [ ] "Biological Physics of the Developing Embryo" by Forgacs _et al._
 * [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*.
 * [ ] "Mechanics of the Cell" by David Boal (_Chs 2,5,6,8,9,10,12_).
 * [ ] "Intermolecular and Surface Forces" by Israelachvili (_Chs 9(partially), 11, partially 13 and 14, __17__(Adhesion and wetting, start with this, I guess), partially 20 and 21_).
