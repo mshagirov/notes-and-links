@@ -52,7 +52,6 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[paper](https://arxiv.org/abs/1905.05754)]
 * [ ] MONet: Unsupervised Scene Decomposition and Representation
 [[paper](https://arxiv.org/abs/1901.11390)]
-* _Related to_ [DIPs](#deep-image-priors), 
 * [ ] High-Quality Self-Supervised Deep Image Denoising [[repo w/ paper](https://github.com/NVlabs/selfsupervised-denoising)]
 * [ ] Noise2Self [[paper](https://arxiv.org/abs/1901.11365)] and [[repo](https://github.com/czbiohub/noise2self)]
 * [ ] pN2V [[PN2V repo](https://github.com/juglab/pn2v)] might help to revise [[N2V repo](https://github.com/juglab/n2v)] and
@@ -60,7 +59,6 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] On Network Design Spaces for Visual Recognition [[paper](https://arxiv.org/abs/1905.13214)] [[repo](https://github.com/facebookresearch/pycls)]
 * [ ] (Learning) "Neural Voxel Renderer" [[project website](http://www.krematas.com/nvr/index.html)]
 * [ ] Geometric Capsule Autoencoders for 3D Point Clouds [[paper](https://arxiv.org/abs/1912.03310)]
-* [ ] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization [[paper](https://arxiv.org/abs/1912.02314)]
 
 ### Deep Image Priors
 [[Contents](#contents)]
@@ -70,6 +68,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)]
 [[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
 [["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
+* [ ] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization [[paper](https://arxiv.org/abs/1912.02314)]
 
 ## Graph Neural Networks
 [[Contents](#contents)]
