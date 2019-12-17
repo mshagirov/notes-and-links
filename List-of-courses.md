@@ -81,6 +81,7 @@
 [[website](http://www.inference.org.uk/itprnn_lectures/)]
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
 * [x] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
+* [ ] "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
 
 ## Useful Resources
 [[Contents](#contents)]
