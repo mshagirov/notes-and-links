@@ -96,6 +96,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
 
 ## General Deep Learning, ML and RL
+(not sorted or read yet)
 [[Contents](#contents)]
 * [ ] A Benchmark for Interpretability Methods in Deep Neural Networks [[paper](https://arxiv.org/abs/1806.10758)]
 * [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
@@ -103,6 +104,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Causality for Machine Learning [[paper](https://arxiv.org/abs/1911.10500)]
 * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
 * Recurrent Neural Networks (RNNs)
+  * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
   * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
   * [ ] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
 * Attention ((Transformers):
