@@ -72,6 +72,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## Graph Neural Networks
 [[Contents](#contents)]
+* [ ] Deep Graph Infomax [[paper](https://arxiv.org/abs/1809.10341)]
 * [ ] A Comprehensive Survey on Graph Neural Networks [[paper](https://arxiv.org/abs/1901.00596)]
 * [ ] Neural Message Passing for Quantum Chemistry [[paper](https://arxiv.org/abs/1704.01212)]
 
