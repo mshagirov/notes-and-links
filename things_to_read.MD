@@ -64,13 +64,13 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[Contents](#contents)]
 * [ ] Deep Image Prior
 [[website](https://dmitryulyanov.github.io/deep_image_prior)]
+* [ ] A Bayesian Perspective on the Deep Image Prior [[paper](https://arxiv.org/abs/1904.07457)]
 * [x] Double DIP
 [[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)]
 [[repo](https://github.com/yossigandelsman/DoubleDIP)] might need
 [["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)]
 * [ ] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization [[paper](https://arxiv.org/abs/1912.02314)]
 * [ ] Compressed Sensing with Deep Image Prior and Learned Regularization [[paper](https://arxiv.org/abs/1806.06438)]
-* [ ] A Bayesian Perspective on the Deep Image Prior [[paper](https://arxiv.org/abs/1904.07457)]
 
 ## Graph Neural Networks
 [[Contents](#contents)]
