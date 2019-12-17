@@ -30,6 +30,7 @@
 * [ ] <a name="fenics">FEniCS</a>: python library for solving PDEs with finite element methods. [_Introduction tutorial_](https://fenicsproject.org/pub/tutorial/sphinx1/index.html), and _book_.
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
+* `Tyssue` vertex model-based python package (API) [[repo](https://github.com/DamCB/tyssue)] [[docs](https://tyssue.readthedocs.io/en/latest/index.html)]
 * Tissue Analyzer plugin for Fiji [[repo](https://github.com/mpicbg-scicomp/tissue_miner/blob/master/MovieProcessing.md#TissueAnalyzer)]
 * FEniCS (for introduction tutorial and manual see [FEniCS entry above](#fenics))
 * Finite Elements (PDE solver) Python implementation [[SfePy](http://sfepy.org/doc/development.html)] [[SfePy repo](https://github.com/sfepy/sfepy)]
