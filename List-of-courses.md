@@ -37,7 +37,7 @@
 
 ## ML Courses and books
 [[Contents](#contents)]
-* [ ] NIPS2019 Bayesian Deep Learning [talk1](https://slideslive.com/38921874/bayesian-deep-learning-1) [talk2](https://slideslive.com/38921875/bayesian-deep-learning-2) [talk3](https://slideslive.com/38921876/bayesian-deep-learning-3) [talk4](https://slideslive.com/38921877/bayesian-deep-learning-4)
+* [ ] "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
 * [ ] (!) Linear Algebra
 [[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
 * [ ] For reviewing numerical linear algebra
@@ -51,6 +51,7 @@
   [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
 * [ ] __Fast.ai__'s Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)]
 * [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
+* [ ] NIPS2019 Bayesian Deep Learning [talk1](https://slideslive.com/38921874/bayesian-deep-learning-1) [talk2](https://slideslive.com/38921875/bayesian-deep-learning-2) [talk3](https://slideslive.com/38921876/bayesian-deep-learning-3) [talk4](https://slideslive.com/38921877/bayesian-deep-learning-4)
 * [ ] "Computer Vision: A Modern Approach by Forsyth & Ponce" and related courses
 [[CS131](http://vision.stanford.edu/teaching/cs131_fall1920/syllabus.html)] and
 [[CS231A](http://web.stanford.edu/class/cs231a/course_notes.html)]
@@ -82,7 +83,7 @@
 [[website](http://www.inference.org.uk/itprnn_lectures/)]
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
 * [x] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
-* [ ] "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
+* [ ] "How Decision Trees Work" [[post](https://brohrer.github.io/how_decision_trees_work.html)] 
 
 ## Useful Resources
 [[Contents](#contents)]
