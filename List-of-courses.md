@@ -114,6 +114,7 @@
 * "Dive Into Python 3" [[html-book](https://diveintopython3.problemsolving.io/index.html)]
 * napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package) [[napari : repo](https://github.com/napari/napari)] [[napari : tutorials](http://napari.org)] [[ImagePy : repo](https://github.com/Image-Py/imagepy/)] __(check out the `napari`)__
 * Matplotlib plot annotations [[guide](https://matplotlib.org/3.1.1/tutorials/text/annotations.html#plotting-guide-annotation)]
+* Scipy [[tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)]
 * Computer Vision, Deep Learning, and OpenCV on `PyImageSearch` [[tutorial](https://www.pyimagesearch.com/start-here/)] (_includes details on environment set up, hardware, and dataset preparation_)
 * Jupyter notebook version control with jupytext, and automation with papermill [[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
 * IPython websites [[repo](https://github.com/stephenslab/ipynb-website)]
