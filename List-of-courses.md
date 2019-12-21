@@ -95,6 +95,7 @@
 * Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
 [[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
+* Migrating code from PyTorch to fast.ai [[example](https://github.com/fastai/fastai2/blob/master/nbs/migrating.ipynb)]
 * Botorch—a library for Bayesian Optimization built on PyTorch [[repo](https://github.com/pytorch/botorch)]
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
 * Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups
