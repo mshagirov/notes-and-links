@@ -40,6 +40,7 @@
 * [ ] "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
 * [ ] (!) Linear Algebra
 [[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
+* [ ] (!) Multivariable Calculus [[ocw](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)]
 * [ ] For reviewing numerical linear algebra
 [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 * [ ] (!) Computational Probability and Inference
