@@ -97,6 +97,7 @@
 [[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
 * Migrating code from PyTorch to fast.ai [[example](https://github.com/fastai/fastai2/blob/master/nbs/migrating.ipynb)]
 * Botorch—a library for Bayesian Optimization built on PyTorch [[repo](https://github.com/pytorch/botorch)]
+* Pyro-probabilistic programming library built on PyTorch [[pyro.ai](http://pyro.ai)] [[repo](https://github.com/pyro-ppl/numpyro)] or a numpy based NumPyro [[repo](https://github.com/pyro-ppl/numpyro)]
 * Hydra--a framework for configuring complex applications [[link](https://cli.dev/docs/intro)], _e.g. use this to sweep parameters for models_.
 * Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups
 [[post](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)]
