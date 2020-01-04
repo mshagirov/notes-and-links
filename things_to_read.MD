@@ -101,6 +101,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## Bayesian Approach to Deep Learning
 [[Contents](#contents)]
+
 *Theory and review*:
 * [ ] A Practical Bayesian Framework for Backpropagation Networks (uses Laplace approximation) [[paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1992.4.3.448)]
 * [ ] Bayesian Learning via Stochastic Dynamics (uses Hamiltonian Monte Carlo sampling) [[paper](https://papers.nips.cc/paper/613-bayesian-learning-via-stochastic-dynamics)]
@@ -110,8 +111,9 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Bayesian Learning via Stochastic Gradient Langevin Dynamics [[paper](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)] (**very easy to implement with traditional SGD**)
 
 ## General Deep Learning, ML and RL
-(not sorted or read yet)
 [[Contents](#contents)]
+
+(*not sorted or read yet*)
 * [ ] A Benchmark for Interpretability Methods in Deep Neural Networks [[paper](https://arxiv.org/abs/1806.10758)]
 * [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
 * [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
