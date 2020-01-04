@@ -107,6 +107,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Bayesian Learning via Stochastic Dynamics (uses Hamiltonian Monte Carlo sampling) [[paper](https://papers.nips.cc/paper/613-bayesian-learning-via-stochastic-dynamics)]
 * [ ] Another complementary approach to the two above is the "Variational Bayes" approach.
 * [ ] Uncertainty in Deep Learning (PhD Thesis, 2016) [[blog w/ Thesis PDF links](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] (**reviews all of the above**)
+
 *Implementations*:
 * [ ] Bayesian Learning via Stochastic Gradient Langevin Dynamics [[paper](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)] (**very easy to implement with traditional SGD**)
 
