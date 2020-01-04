@@ -6,6 +6,7 @@
  1. [Deep Image Priors (DIPs)](#deep-image-priors)
 1. [Graph Neural Networks](#graph-neural-networks)
 1. [Generative models](#generative-models)
+1. [Bayesian Approach to Deep Learning](#bayesian-approach-to-deep-learning)
 1. [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
 1. [Data Augmentation](#data-augmentation)
 1. [Other Interesting Papers in ML](#other-interesting-papers-and-blog-posts)
@@ -97,6 +98,12 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] WaveNet [[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
 * "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
 * _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
+
+## Bayesian Approach to Deep Learning
+[[Contents](#contents)]
+* [ ] A Practical Bayesian Framework for Backpropagation Networks (uses Laplace approximation) [[paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1992.4.3.448)]
+* [ ] Bayesian Learning via Stochastic Dynamics (uses Hamiltonian Monte Carlo sampling) [[paper](https://papers.nips.cc/paper/613-bayesian-learning-via-stochastic-dynamics)]
+* [ ] Uncertainty in Deep Learning (PhD Thesis, 2016) [[blog w/ Thesis PDF links](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] (**reviews all of the above**)
 
 ## General Deep Learning, ML and RL
 (not sorted or read yet)
