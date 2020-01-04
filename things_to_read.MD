@@ -110,6 +110,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 *Implementations*:
 * [ ] Bayesian Learning via Stochastic Gradient Langevin Dynamics [[paper](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)] (**very easy to implement with traditional SGD**)
+* [ ] Pyro (and NumPyro), or Botorch.
 
 ## General Deep Learning, ML and RL
 [[Contents](#contents)]
