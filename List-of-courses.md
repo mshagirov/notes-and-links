@@ -110,6 +110,7 @@
 ### Python and CV
 [up](#useful-resources)
 * `itkwidgets` for Jupyter (__2D,3D data visualisation__) [[repo with instructions](https://github.com/InsightSoftwareConsortium/itkwidgets)]
+* `mpld3` brindges `matplotlib` with `d3js` [[mpld3](https://mpld3.github.io/index.html)] *interactive plots, plots to html, etc.*
 * Altair (declarative statistical visualization library) [[website](https://altair-viz.github.io)]
 * "Dive Into Python 3" [[html-book](https://diveintopython3.problemsolving.io/index.html)]
 * napari : a tool for browsing, annotating, and analyzing large multi-dimensional images (python package) [[napari : repo](https://github.com/napari/napari)] [[napari : tutorials](http://napari.org)] [[ImagePy : repo](https://github.com/Image-Py/imagepy/)] __(check out the `napari`)__
