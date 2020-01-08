@@ -187,6 +187,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 ## Other interesting papers and blog posts
 [[Contents](#contents)]
 * [ ] Computing Receptive Fields of Convolutional Neural Networks [[post](https://distill.pub/2019/computing-receptive-fields/)]
+* [ ] Wave Physics as an Analog Recurrent Neural Network [[paper](https://arxiv.org/abs/1904.12831)] code:[[wavetorch](https://github.com/fancompute/wavetorch)]
 * [ ] 3D Ken Burns Effect from a Single Image [[paper](https://arxiv.org/abs/1909.05483)]
 * [ ] Understanding UMAP [[post](https://pair-code.github.io/understanding-umap/)]
 * [ ] Loss landscapes and surfaces [[website](https://losslandscape.com/knowledge/)]
