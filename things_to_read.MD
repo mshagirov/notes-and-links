@@ -107,30 +107,48 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Bayesian Learning via Stochastic Dynamics (uses Hamiltonian Monte Carlo sampling) [[paper](https://papers.nips.cc/paper/613-bayesian-learning-via-stochastic-dynamics)]
 * [ ] Another complementary approach to the two above is the "Variational Bayes" approach.
 * [ ] Uncertainty in Deep Learning (PhD Thesis, 2016) [[blog w/ Thesis PDF links](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] (**reviews all of the above**)
+* [ ] See abstracts and references in [http://bayesiandeeplearning.org](http://bayesiandeeplearning.org) (2016-19 workshops)
 
 *Implementations*:
 * [ ] Bayesian Learning via Stochastic Gradient Langevin Dynamics [[paper](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)] (**very easy to implement with traditional SGD**)
 * [ ] Pyro (and NumPyro), or Botorch.
+* [ ] Bayesian Active Learning (Baal) (from ElementAI) [[repo with links](https://github.com/ElementAI/baal)]—[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
 
 ## General Deep Learning, ML and RL
 [[Contents](#contents)]
+* General
+  * [x] "A recipe for training neural networks" by A. Karpathy [[post](http://karpathy.github.io/2019/04/25/recipe/)]
+  * [ ] A Benchmark for Interpretability Methods in Deep Neural Networks [[paper](https://arxiv.org/abs/1806.10758)]
+  * [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
+  * [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
+  * [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
+  * [ ] Weight Uncertainty in Neural Networks [[paper](https://arxiv.org/abs/1505.05424)]
+  * [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
+  * Bias-Resilient Neural Network [[paper](https://arxiv.org/abs/1910.03676)]
+  * [ ] Causality for Machine Learning [[paper](https://arxiv.org/abs/1911.10500)]
+  * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
+  * [x] An intriguing failing of convolutional neural networks and the CoordConv solution
+  * [ ] On the adequacy of untuned warmup for adaptive optimization [[paper](https://arxiv.org/abs/1910.04209)]
 
-**Sim2Real**
-* [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
-* [x] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
-* [ ] "Meta-Learning: Learning to Learn Fast" by L. Weng [[post](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#define-the-meta-learning-problem)]
-* [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
+* Sim2Real and transfer learning
+  * [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
+  * [ ] DiffTaichi: Differentiable Programming for Physical Simulation [[paper](https://arxiv.org/abs/1910.00935)]
+  * [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
+  * [x] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
+  * [ ] "Meta-Learning: Learning to Learn Fast" by L. Weng [[post](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#define-the-meta-learning-problem)]
+  * [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
+  * [ ] Adapting Pretrained Representations to Diverse Tasks [[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
+  * [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
+  * [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
+  * [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
+  * [ ] Self-supervised representation learning (by L. Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
+  * [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
 
-(*not sorted or read yet*)
-* [ ] A Benchmark for Interpretability Methods in Deep Neural Networks [[paper](https://arxiv.org/abs/1806.10758)]
-* [ ] "The Building Blocks of Interpretability" [[distill](https://distill.pub/2018/building-blocks/)]
-* [ ] "Exploring Neural Networks with Activation Atlases" [[distill](https://distill.pub/2019/activation-atlas/)]
-* [ ] Causality for Machine Learning [[paper](https://arxiv.org/abs/1911.10500)]
-* [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
 * Recurrent Neural Networks (RNNs)
   * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
   * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
   * [ ] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
+
 * Attention ((Transformers):
   * [ ] Transformers: State-of-the-art Natural Language Processing [[review](https://arxiv.org/abs/1910.03771)]
   * [ ] Tool for analysing transformers [[exBERT](http://exbert.net/)]
@@ -138,32 +156,17 @@ From Image-to-Image Translation to Disease Detection and Localization
   * [ ] Transformer-XL [[paper](https://arxiv.org/abs/1901.02860)]
   * [ ] Write With Transformer (GTP2-XL) [[website](https://transformer.huggingface.co)] 
   * [ ] NLP papers from hugging face [[website](https://huggingface.co)]
-* [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
-* [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
-* [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
-* [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
-* [ ] Adapting Pretrained Representations to Diverse Tasks [[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
-* [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
+  * [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
+  * [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
+
+(*not sorted or read yet*)
 * [ ] Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One [[paper](https://arxiv.org/abs/1912.03263)]
 * [ ] Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks [[paper](https://arxiv.org/abs/1911.09737)]
-* [ ] See abstracts and references in [http://bayesiandeeplearning.org](http://bayesiandeeplearning.org) (2016-19 workshops)
 * [ ] Self-training with Noisy Student improves ImageNet classification [[paper](https://arxiv.org/abs/1911.04252)]
 * [ ] Lottery Ticket Hypothesis [blog post with references](https://ai.facebook.com/blog/understanding-the-generalization-of-lottery-tickets-in-neural-networks/)
 * [ ] Meta-Learning Deep Energy-Based Memory Models [[paper](https://arxiv.org/abs/1910.02720)]
 * [ ] Why re-sampling imbalanced data isn’t always the best idea [[post](https://stroemer.cc/resample-imbalanced-data/)]
-* [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
-* [ ] DiffTaichi: Differentiable Programming for Physical Simulation [[paper](https://arxiv.org/abs/1910.00935)]
 * [ ] (SGD and mini-batch sizes) Parallelizing Stochastic Gradient Descent for Least Squares Regression: mini-batching, averaging, and model misspecification [[paper](https://arxiv.org/abs/1610.03774)]
-* [ ] Self-supervised representation learning (by Lilian Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
-* [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
-* [ ] An intriguing failing of convolutional neural networks and the CoordConv solution
-* [ ] On the adequacy of untuned warmup for adaptive optimization [[paper](https://arxiv.org/abs/1910.04209)]
-* [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
-* [x] "A recipe for training neural networks" by A. Karpathy [[post](http://karpathy.github.io/2019/04/25/recipe/)]
-* [ ] Weight Uncertainty in Neural Networks [[paper](https://arxiv.org/abs/1505.05424)]
-* [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
-* Bias-Resilient Neural Network [[paper](https://arxiv.org/abs/1910.03676)]
-* [ ] Bayesian Active Learning (Baal) (from ElementAI) [[repo with links](https://github.com/ElementAI/baal)]—[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
 * [ ] Emergent properties of the local geometry of neural loss landscapes [[paper](https://arxiv.org/abs/1910.05929)]
 * [ ] Possible BN and Dropout incompatibilities are described in this [[paper](https://arxiv.org/abs/1801.05134)]
 * [ ] Visual exploration of gaussian processes [[distill](https://distill.pub/2019/visual-exploration-gaussian-processes/)]
