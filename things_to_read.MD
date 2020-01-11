@@ -124,7 +124,7 @@ From Image-to-Image Translation to Disease Detection and Localization
   * [ ] Distilling the Knowledge in a Neural Network [[paper](https://arxiv.org/abs/1503.02531)]
   * [ ] Weight Uncertainty in Neural Networks [[paper](https://arxiv.org/abs/1505.05424)]
   * [ ] "Bias and Generalization in Deep Generative Models" by Zhao *et al.* [[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)]
-  * Bias-Resilient Neural Network [[paper](https://arxiv.org/abs/1910.03676)]
+  * [ ] Bias-Resilient Neural Network [[paper](https://arxiv.org/abs/1910.03676)]
   * [ ] Causality for Machine Learning [[paper](https://arxiv.org/abs/1911.10500)]
   * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
   * [x] An intriguing failing of convolutional neural networks and the CoordConv solution
