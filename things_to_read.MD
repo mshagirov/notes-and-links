@@ -136,9 +136,9 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
 * [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
 * [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
-* [ ] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
-  * [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
-  * [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
+* [x] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
+* [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
+* [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
 * [ ] Adapting Pretrained Representations to Diverse Tasks [[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
 * [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
 * [ ] Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One [[paper](https://arxiv.org/abs/1912.03263)]
