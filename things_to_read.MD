@@ -7,6 +7,9 @@
 1. [Graph Neural Networks](#graph-neural-networks)
 1. [Generative models](#generative-models)
 1. [Bayesian Approach to Deep Learning](#bayesian-approach-to-deep-learning)
+1. [Sim2Real and transfer learning](#sim2real-and-transfer-learning)
+1. [Recurrent Neural Networks](#recurrent-neural-networks)
+1. [Attention, Transformers](#attention-transformers)
 1. [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
 1. [Data Augmentation](#data-augmentation)
 1. [Other Interesting Papers in ML](#other-interesting-papers-and-blog-posts)
@@ -114,6 +117,40 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Pyro (and NumPyro), or Botorch.
 * [ ] Bayesian Active Learning (Baal) (from ElementAI) [[repo with links](https://github.com/ElementAI/baal)]—[[docs with a list of bayesian active learning papers](https://baal.readthedocs.io/en/latest/)].
 
+## Sim2Real and transfer learning
+[[Contents](#contents)]
+* [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
+* [ ] DiffTaichi: Differentiable Programming for Physical Simulation [[paper](https://arxiv.org/abs/1910.00935)]
+* [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
+* [x] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
+* [ ] "Meta-Learning: Learning to Learn Fast" by L. Weng [[post](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#define-the-meta-learning-problem)]
+* [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
+* [ ] Adapting Pretrained Representations to Diverse Tasks [[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
+* [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
+* [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
+* [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
+* [ ] Self-supervised representation learning (by L. Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
+* [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
+
+## Recurrent Neural Networks
+[[Contents](#contents)]
+* [ ] Generating Sequences With Recurrent Neural Networks A. Graves [[paper](https://arxiv.org/abs/1308.0850)]
+* [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
+* [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
+* [x] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
+
+## Attention, Transformers
+[[Contents](#contents)]
+* [ ] Transformers: State-of-the-art Natural Language Processing [[review](https://arxiv.org/abs/1910.03771)]
+* [ ] Tool for analysing transformers [[exBERT](http://exbert.net/)]
+* [ ] Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)]
+* [ ] Transformer-XL [[paper](https://arxiv.org/abs/1901.02860)]
+* [ ] Write With Transformer (GTP2-XL) [[website](https://transformer.huggingface.co)] 
+* [ ] NLP papers from hugging face [[website](https://huggingface.co)]
+* [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
+* [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
+
+
 ## General Deep Learning, ML and RL
 [[Contents](#contents)]
 * General
@@ -129,36 +166,6 @@ From Image-to-Image Translation to Disease Detection and Localization
   * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly [[paper](https://arxiv.org/abs/1903.06694)]
   * [x] An intriguing failing of convolutional neural networks and the CoordConv solution
   * [ ] On the adequacy of untuned warmup for adaptive optimization [[paper](https://arxiv.org/abs/1910.04209)]
-
-* Sim2Real and transfer learning
-  * [ ] Neocortical plasticity (about unsupervised learning in neocortex)[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)]
-  * [ ] DiffTaichi: Differentiable Programming for Physical Simulation [[paper](https://arxiv.org/abs/1910.00935)]
-  * [ ] Domain-Adversarial Training of Neural Networks (Ganin Yaroslav, _et al._) [[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)]
-  * [x] "Domain Randomization for Sim2Real Transfer" by L. Weng [[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)]
-  * [ ] "Meta-Learning: Learning to Learn Fast" by L. Weng [[post](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#define-the-meta-learning-problem)]
-  * [ ] "Learning Dexterity"(OpenAI) [[post](https://openai.com/blog/learning-dexterity/)]
-  * [ ] Adapting Pretrained Representations to Diverse Tasks [[transfer learning](https://arxiv.org/pdf/1903.05987.pdf)]
-  * [ ] [World Models-- Can agents learn inside of their own dreams?](https://worldmodels.github.io)
-  * [ ] Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks [[paper](https://arxiv.org/abs/1910.01663)]
-  * [ ] "MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies" [[website](https://xbpeng.github.io/projects/MCP/)]
-  * [ ] Self-supervised representation learning (by L. Weng) [[post](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)]
-  * [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
-
-* Recurrent Neural Networks (RNNs)
-  * [ ] Generating Sequences With Recurrent Neural Networks A. Graves [[arXiv](https://arxiv.org/abs/1308.0850)]
-  * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
-  * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
-  * [x] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
-
-* Attention ((Transformers):
-  * [ ] Transformers: State-of-the-art Natural Language Processing [[review](https://arxiv.org/abs/1910.03771)]
-  * [ ] Tool for analysing transformers [[exBERT](http://exbert.net/)]
-  * [ ] Attention is all you need [[paper](https://arxiv.org/abs/1706.03762)]
-  * [ ] Transformer-XL [[paper](https://arxiv.org/abs/1901.02860)]
-  * [ ] Write With Transformer (GTP2-XL) [[website](https://transformer.huggingface.co)] 
-  * [ ] NLP papers from hugging face [[website](https://huggingface.co)]
-  * [ ] Image transformer (related to Transformer nets in NLP) [[paper](https://arxiv.org/abs/1802.05751)]
-  * [ ] Stabilizing Transformers for Reinforcement Learning [[paper](https://arxiv.org/abs/1910.06764)]
 
 (*not sorted or read yet*)
 * [ ] Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One [[paper](https://arxiv.org/abs/1912.03263)]
