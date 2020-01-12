@@ -147,7 +147,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * Recurrent Neural Networks (RNNs)
   * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
   * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
-  * [ ] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
+  * [x] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
 
 * Attention ((Transformers):
   * [ ] Transformers: State-of-the-art Natural Language Processing [[review](https://arxiv.org/abs/1910.03771)]
