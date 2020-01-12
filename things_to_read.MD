@@ -100,7 +100,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] Few-shot Video-to-Video Synthesis [[website with links](https://nvlabs.github.io/few-shot-vid2vid/)]
 * [ ] WaveNet [[website](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)]
 * "Generating Large Images from Latent Vectors" _see_ "Compositional Pattern Producing Networks" in "General Deep Learning" section.
-* _See_ Attention (Transformers) in ["General Deep Learning"](#general-deep-learning-ml-and-rl) section.
+* _also see_ ["Attention, Transformers"](#attention-transformers), and ["RNN"](#recurrent-neural-networks)sections.
 
 ## Bayesian Approach to Deep Learning
 [[Contents](#contents)]
