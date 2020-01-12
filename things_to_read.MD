@@ -145,6 +145,7 @@ From Image-to-Image Translation to Disease Detection and Localization
   * [ ] (Model discovery) Data-driven discovery of coordinates and governing equations [[paper](https://www.pnas.org/content/116/45/22445)]
 
 * Recurrent Neural Networks (RNNs)
+  * [ ] Generating Sequences With Recurrent Neural Networks A. Graves [[arXiv](https://arxiv.org/abs/1308.0850)]
   * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
   * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy [[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
   * [x] "Visualizing memorization in RNNs" [[distill](https://distill.pub/2019/memorization-in-rnns/)]
