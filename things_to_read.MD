@@ -134,7 +134,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 
 ## Recurrent Neural Networks
 [[Contents](#contents)]
-* [ ] Generating Sequences With Recurrent Neural Networks A. Graves [[paper](https://arxiv.org/abs/1308.0850)] (used in "Four Experiments in Handwriting with a Neural Network" [[paper](https://distill.pub/2016/handwriting/)])
+* [ ] Generating Sequences With Recurrent Neural Networks A. Graves [[paper](https://arxiv.org/abs/1308.0850)] (used in "Four Experiments in Handwriting with a Neural Network" [[paper](https://distill.pub/2016/handwriting/)]) w/ implementation explained in a blog post [[post](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)]
 * [ ] Understanding LSTM Networks by C. Olah [[post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
 * [ ] Attention and Augmented Recurrent Neural Networks [[paper](https://distill.pub/2016/augmented-rnns/)]
 * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/abs/1611.01368)] (*measuring compositional learning*)
