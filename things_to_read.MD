@@ -80,6 +80,8 @@ From Image-to-Image Translation to Disease Detection and Localization
 [[Contents](#contents)]
 * [ ] Graph Convolutional Networks (T. Kipf) [[post](http://tkipf.github.io/graph-convolutional-networks/)][[paper](https://arxiv.org/abs/1609.02907)][[repo(pytorch)](https://github.com/tkipf/pygcn)]
 * [ ] GraphSAGE: Inductive Representation Learning on Large Graphs [[website](http://snap.stanford.edu/graphsage/)] [[paper](https://arxiv.org/abs/1706.02216)] (__graph embedding__)
+* [ ] tutorials (by B. Knyazev) [[GNN introduction](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)][[spectral GCN tutorial](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801)][[spectral GCN application paper](https://arxiv.org/abs/1811.09595)]
+* [ ] Understanding Attention and Generalization in Graph Neural Networks [[paper](https://arxiv.org/abs/1905.02850)]
 * [ ] Deep Graph Infomax [[paper](https://arxiv.org/abs/1809.10341)]
 * [ ] A Comprehensive Survey on Graph Neural Networks [[paper](https://arxiv.org/abs/1901.00596)]
 * [ ] Neural Message Passing for Quantum Chemistry [[paper](https://arxiv.org/abs/1704.01212)]
