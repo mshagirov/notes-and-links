@@ -37,12 +37,20 @@
 
 ## ML Courses and books
 [[Contents](#contents)]
-* [ ] "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
+* [ ] __CS224n__: Natural Language Processing with Deep Learning
+[[lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
+[[website](http://web.stanford.edu/class/cs224n/)]
+* [ ] __Fast.ai__'s Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)]
+* [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
+* [ ] Deep RL (UC Berkeley)
+[[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
+[[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
+* [ ] AI course 
+[[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
+[[website](http://ai.berkeley.edu/lecture_videos.html)]
 * [ ] (!) Linear Algebra
 [[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
 * [ ] (!) Multivariable Calculus [[ocw](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)]
-* [ ] For reviewing numerical linear algebra
-[[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 * [ ] (!) Computational Probability and Inference
 [[Edx](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/wiki/MITx.6.008.1x.3T2016/)]
 * [ ] Probabilistic Programming and Bayesian Methods for Hackers
@@ -50,7 +58,9 @@
 [[pyro](http://pyro.ai/examples/dmm.html)]
   - The beginners guide to Hamiltonian Monte Carlo
   [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
-* [ ] __Fast.ai__'s Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)]
+* __Ref. materials__:
+  - "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
+  - For reviewing numerical linear algebra [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 * [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
 * [ ] NIPS2019 Bayesian Deep Learning [talk1](https://slideslive.com/38921874/bayesian-deep-learning-1) [talk2](https://slideslive.com/38921875/bayesian-deep-learning-2) [talk3](https://slideslive.com/38921876/bayesian-deep-learning-3) [talk4](https://slideslive.com/38921877/bayesian-deep-learning-4)
 * [ ] "Computer Vision: A Modern Approach by Forsyth & Ponce" and related courses
@@ -59,11 +69,7 @@
 * [ ] Machine Learning (Tom Mitchell) [[website](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)] [[lectures](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)]
 * [ ] Interpretability and Explainability in Machine Learning
 [[website](https://interpretable-ml-class.github.io)]
-* [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
 * [ ] Neural Density Estimation and Likelihood-free Inference (by G. Papamakarios, with tutorials) [[thesis](https://arxiv.org/abs/1910.13233)]
-* [ ] AI course 
-[[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
-[[website](http://ai.berkeley.edu/lecture_videos.html)]
 * [ ] (ML)
   - A Comprehensive Guide to Machine Learning (Berkeley University) (Nasiriany _et al._)
   - Elements of Statistical Learning (Hastie *et al.*)
@@ -74,12 +80,6 @@
   - Information Theory, Inference, and Learning Algorithms (MacKay)
   - Guided Tour of Machine Learning in Finance (set of courses)
   [[coursera](https://www.coursera.org/learn/guided-tour-machine-learning-finance/home/welcome)]
-* [ ] CS224n: Natural Language Processing with Deep Learning
-[[lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
-[[website](http://web.stanford.edu/class/cs224n/)]
-* [ ] Deep RL (UC Berkeley)
-[[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
-[[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
 * [ ] "Information Theory, Pattern Recognition, and Neural Networks" course
 [[website](http://www.inference.org.uk/itprnn_lectures/)]
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
