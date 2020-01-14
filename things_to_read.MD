@@ -82,7 +82,7 @@ From Image-to-Image Translation to Disease Detection and Localization
 * [ ] node2vec: Scalable Feature Learning for Networks [[paper](https://arxiv.org/abs/1607.00653)]
 * [ ] GraphSAGE: Inductive Representation Learning on Large Graphs [[website](http://snap.stanford.edu/graphsage/)] [[paper](https://arxiv.org/abs/1706.02216)][[pytorch repo](https://github.com/williamleif/graphsage-simple/)] (__graph embedding__)
 * **Tutorials** :
-  * [ ] Representation Learning on Networks (e.g. GraphSAGE) [[slides](http://snap.stanford.edu/proj/embeddings-www/)]
+  * [ ] Representation Learning on Networks (e.g. GraphSAGE) [[slides](http://snap.stanford.edu/proj/embeddings-www/)] [[video from a related talk](https://www.youtube.com/watch?v=YrhBZUtgG4E)]
   * [ ] (by B. Knyazev) [[GNN introduction](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d), [pytorch implementation examples](https://github.com/bknyaz/examples/blob/master/fc_vs_graph_train.py)] [[spectral GCN tutorial](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801), [spectral GCN application paper](https://arxiv.org/abs/1811.09595)] [Image Classification with Hierarchical Multigraph Networks [(paper w/ blog and repo)](https://github.com/bknyaz/bmvc_2019)] 
 * [ ] Understanding Attention and Generalization in Graph Neural Networks [[paper](https://arxiv.org/abs/1905.02850)]
 * [ ] Deep Graph Infomax [[paper](https://arxiv.org/abs/1809.10341)]
