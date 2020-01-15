@@ -133,6 +133,7 @@
   * Beamer presentation (LaTeX) tutorial [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
   * Using _LaTeX_ with Vim [[tutorial](https://castel.dev/post/lecture-notes-1/)]
   * [x] Vim cheatsheet [[website](https://vim.rtorr.com)]
+  * ctrlp.vim (Vim plugin) [[docs](http://ctrlpvim.github.io/ctrlp.vim/)]
 ### Containers (e.g. Docker)
 [up](#useful-resources)
 * Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
