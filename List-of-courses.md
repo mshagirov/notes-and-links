@@ -132,8 +132,10 @@
   * The Not So Short Introduction to  [[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)]
   * Beamer presentation (LaTeX) tutorial [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
   * Using _LaTeX_ with Vim [[tutorial](https://castel.dev/post/lecture-notes-1/)]
+* Using Vim:
   * [x] Vim cheatsheet [[website](https://vim.rtorr.com)]
   * ctrlp.vim (Vim plugin) [[docs](http://ctrlpvim.github.io/ctrlp.vim/)]
+  * browsing API code with Vim (using `ctags`) [[How to Browse Fastai Source Code Using Vim](https://medium.com/@mck.workman/how-to-browse-fastai-source-code-using-vim-87d9ef595ce1)]
 ### Containers (e.g. Docker)
 [up](#useful-resources)
 * Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
