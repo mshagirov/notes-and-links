@@ -1,6 +1,6 @@
 # Papers, Blog Posts and Other Resources:
 
-\[[Main page](./)\]
+\[[Main page](./README.md)\]
 
 ## Contents
 
