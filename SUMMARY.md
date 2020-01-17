@@ -5,5 +5,5 @@
 * [compute-notes](compute-notes.md)
 * [notes](notes/README.md)
   * [reading\_notes](notes/reading_notes.md)
-* [Papers, Blog Posts and Other Resources:](things_to_read.MD)
+* [Papers, Blog Posts and Other Resources:](things_to_read.md)
 
