@@ -27,7 +27,7 @@
 * [ ] Faster R-CNN \[[paper](https://arxiv.org/abs/1506.01497)\] \[[pytorch](https://github.com/ZENGXH/faster-rcnn.pytorch)\]
 * [ ] Mask R-CNN \[[paper](https://arxiv.org/abs/1703.06870)\] \[[repo](https://github.com/facebookresearch/maskrcnn-benchmark)\]
 * [ ] R-FCN \(Region-based Fully Convolutional Networks\) \[[paper](https://arxiv.org/abs/1605.06409)\]
-* [ ] Detectron \(uses Mask R-CNN and others above, w/ _new ver. detectron2_\) \[[repo](https://github.com/facebookresearch/Detectron)\] \[🤖[detectron2\_repo](https://github.com/facebookresearch/detectron2/blob/master/README.md)\]
+* [ ] Detectron \(uses Mask R-CNN and others above, w/ _new ver. detectron2_\) \[[repo](https://github.com/facebookresearch/Detectron)\] \[:robot:[detectron2\_repo](https://github.com/facebookresearch/detectron2/blob/master/README.md)\]
 * [ ] Stardist \[[repo](https://github.com/mpicbg-csbd/stardist)\]
 * [ ] Focal Loss \(addresses class imbalance of fg-bg\) \[[paper](https://arxiv.org/abs/1708.02002)\]
 * [ ] Feature Pyramid Network \(FPN\) \[[paper](https://arxiv.org/abs/1612.03144)\] \[[repo](https://github.com/jwyang/fpn.pytorch)\]
