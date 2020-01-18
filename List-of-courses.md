@@ -90,6 +90,7 @@
 [[Contents](#contents)]
 ### Pytorch
 [up](#useful-resources)
+* Visdom (live data tool for creating, organizing, and sharing visualizations; supports pytorch, numpy) [[repo](https://github.com/facebookresearch/visdom)]
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
 * Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
