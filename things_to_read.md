@@ -59,16 +59,16 @@
 \[[Contents](things_to_read.md#contents)\]
 
 * [ ] Graph Convolutional Networks \(T. Kipf\) \[[post](http://tkipf.github.io/graph-convolutional-networks/)\]\[[paper](https://arxiv.org/abs/1609.02907)\]\[[repo\(pytorch\)](https://github.com/tkipf/pygcn)\]
+* [ ] Neural Relational Inference for Interacting Systems [[paper](https://arxiv.org/abs/1802.04687)]
 * [ ] PyTorch BigGraph (graph embedding) [[repo](https://github.com/facebookresearch/PyTorch-BigGraph)] [[docs](https://torchbiggraph.readthedocs.io/en/latest/)] [[paper](https://arxiv.org/abs/1903.12287)]
-* [ ] node2vec: Scalable Feature Learning for Networks \[[paper](https://arxiv.org/abs/1607.00653)\]
-* [ ] GraphSAGE: Inductive Representation Learning on Large Graphs \[[website](http://snap.stanford.edu/graphsage/)\] \[[paper](https://arxiv.org/abs/1706.02216)\]\[[pytorch repo](https://github.com/williamleif/graphsage-simple/)\] \(**graph embedding**\)
-* **Tutorials** :
-  * [ ] Representation Learning on Networks \(e.g. GraphSAGE\) \[[slides](http://snap.stanford.edu/proj/embeddings-www/)\] \[[video from a related talk](https://www.youtube.com/watch?v=YrhBZUtgG4E)\]
-  * [ ] \(by B. Knyazev\) \[[GNN introduction](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d), [pytorch implementation examples](https://github.com/bknyaz/examples/blob/master/fc_vs_graph_train.py)\] \[[spectral GCN tutorial](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801), [spectral GCN application paper](https://arxiv.org/abs/1811.09595)\] \[Image Classification with Hierarchical Multigraph Networks [\(paper w/ blog and repo\)](https://github.com/bknyaz/bmvc_2019)\] 
 * [ ] Understanding Attention and Generalization in Graph Neural Networks \[[paper](https://arxiv.org/abs/1905.02850)\]
+* [ ] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
 * [ ] Deep Graph Infomax \[[paper](https://arxiv.org/abs/1809.10341)\]
 * [ ] A Comprehensive Survey on Graph Neural Networks \[[paper](https://arxiv.org/abs/1901.00596)\]
-* [ ] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
+* **Tutorials** :
+  * [ ] Representation Learning on Networks \(e.g. GraphSAGE\) \[[slides](http://snap.stanford.edu/proj/embeddings-www/)\] \[[video from a related talk](https://www.youtube.com/watch?v=YrhBZUtgG4E)\]
+  * [ ] \(by B. Knyazev\) \[[GNN introduction](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d), [pytorch implementation examples](https://github.com/bknyaz/examples/blob/master/fc_vs_graph_train.py)\] \[[spectral GCN tutorial](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801), [spectral GCN application paper](https://arxiv.org/abs/1811.09595)\] \[Image Classification with Hierarchical Multigraph Networks [\(paper w/ blog and repo\)](https://github.com/bknyaz/bmvc_2019)\]
+
 
 ## Generative models
 
