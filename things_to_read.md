@@ -59,6 +59,7 @@
 \[[Contents](things_to_read.md#contents)\]
 
 * [ ] Graph Convolutional Networks \(T. Kipf\) \[[post](http://tkipf.github.io/graph-convolutional-networks/)\]\[[paper](https://arxiv.org/abs/1609.02907)\]\[[repo\(pytorch\)](https://github.com/tkipf/pygcn)\]
+* [ ] PyTorch BigGraph (graph embedding) [[repo](https://github.com/facebookresearch/PyTorch-BigGraph)] [[docs](https://torchbiggraph.readthedocs.io/en/latest/)] [[paper](https://arxiv.org/abs/1903.12287)]
 * [ ] node2vec: Scalable Feature Learning for Networks \[[paper](https://arxiv.org/abs/1607.00653)\]
 * [ ] GraphSAGE: Inductive Representation Learning on Large Graphs \[[website](http://snap.stanford.edu/graphsage/)\] \[[paper](https://arxiv.org/abs/1706.02216)\]\[[pytorch repo](https://github.com/williamleif/graphsage-simple/)\] \(**graph embedding**\)
 * **Tutorials** :
