@@ -93,6 +93,7 @@
 * Visdom (live data tool for creating, organizing, and sharing visualizations; supports pytorch, numpy) [[repo](https://github.com/facebookresearch/visdom)]
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
+* Deep Graph Library (for pytorch) [[website](https://www.dgl.ai)]
 * Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
 [[docs](https://skorch.readthedocs.io/)] (i.e. pytorch with scikit-learn's high level functionality)
