@@ -132,9 +132,10 @@ _Implementations_:
 
 \[[Contents](things_to_read.md#contents)\]
 
+* [ ] Attention and Augmented Recurrent Neural Networks \[[paper](https://distill.pub/2016/augmented-rnns/)\]
+* [ ] Lilian Weng's blog post about attention[[post](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#whats-wrong-with-seq2seq-model)]
 * [ ] Generating Sequences With Recurrent Neural Networks A. Graves \[[paper](https://arxiv.org/abs/1308.0850)\] \(used in "Four Experiments in Handwriting with a Neural Network" \[[paper](https://distill.pub/2016/handwriting/)\]\) w/ implementation explained in a blog post \[[post](http://blog.otoro.net/2015/12/12/handwriting-generation-demo-in-tensorflow/)\]
 * [ ] Understanding LSTM Networks by C. Olah \[[post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\]
-* [ ] Attention and Augmented Recurrent Neural Networks \[[paper](https://distill.pub/2016/augmented-rnns/)\]
 * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies \[[paper](https://arxiv.org/abs/1611.01368)\] \(_measuring compositional learning_\)
 * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy \[[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)\]
 * [x] "Visualizing memorization in RNNs" \[[distill](https://distill.pub/2019/memorization-in-rnns/)\]
@@ -152,6 +153,7 @@ _Implementations_:
 * [ ] Image transformer \(related to Transformer nets in NLP\) \[[paper](https://arxiv.org/abs/1802.05751)\]
 * [ ] Stabilizing Transformers for Reinforcement Learning \[[paper](https://arxiv.org/abs/1910.06764)\]
 * Attention and Augmented Recurrent Neural Networks \(go to [RNN section](things_to_read.md#recurrent-neural-networks)\)
+* Lilian Weng's blog post about attention \(go to [RNN section](things_to_read.md#recurrent-neural-networks)\)
 
 ## General Deep Learning, ML and RL
 
