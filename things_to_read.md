@@ -230,8 +230,9 @@ _Implementations_:
 
 \[[Contents](things_to_read.md#contents)\]
 
-* [ ] Experimental validation of force inference in epithelia from cell to tissue scale \[[paper](https://www.nature.com/articles/s41598-019-50690-3)\]
-* [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging \[[paper](https://elifesciences.org/articles/44522)\]
-* [x] DLITE \[[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)\] \[[repo](https://github.com/AllenCellModeling/DLITE)\]
-* [ ] Force networks, torque balance and Airy stress in the planar vertex model of a confluent epithelium \[[paper](https://arxiv.org/pdf/1910.10799.pdf)\]
-
+* [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
+* [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
+* [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)] [[repo](https://github.com/AllenCellModeling/DLITE)]
+* [ ] Force networks, torque balance and Airy stress in the planar vertex model of a confluent epithelium [[paper](https://arxiv.org/pdf/1910.10799.pdf)]
+* [ ] Hydra Regeneration: Closing the Loop with Mechanical Processes in Morphogenesis (Braun E. _et al._) [[paper](https://www.ncbi.nlm.nih.gov/pubmed/29869336)]
+* [ ] Electric-induced reversal of morphogenesis in Hydra (Braun E. _et al._) [[paper](https://arxiv.org/abs/1904.03625)]
