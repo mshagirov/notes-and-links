@@ -236,3 +236,5 @@ _Implementations_:
 * [ ] Force networks, torque balance and Airy stress in the planar vertex model of a confluent epithelium [[paper](https://arxiv.org/pdf/1910.10799.pdf)]
 * [ ] Hydra Regeneration: Closing the Loop with Mechanical Processes in Morphogenesis (Braun E. _et al._) [[paper](https://www.ncbi.nlm.nih.gov/pubmed/29869336)]
 * [ ] Electric-induced reversal of morphogenesis in Hydra (Braun E. _et al._) [[paper](https://arxiv.org/abs/1904.03625)]
+* [ ] A scalable pipeline for designing reconfigurable organisms [[paper](https://www.pnas.org/content/early/2020/01/07/1910837117)]
+* [ ] Bioelectrical domain walls in homogeneous tissues [[paper](https://www.nature.com/articles/s41567-019-0765-4)]
