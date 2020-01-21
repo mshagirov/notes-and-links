@@ -13,9 +13,7 @@
 6. [Recurrent Neural Networks](things_to_read.md#recurrent-neural-networks)
 7. [Attention, Transformers](things_to_read.md#attention-transformers)
 8. [General Deep Learning, and RL](things_to_read.md#general-deep-learning-ml-and-rl)
-9. [Data Augmentation](things_to_read.md#data-augmentation)
-10. [Other Interesting Papers in ML](things_to_read.md#other-interesting-papers-and-blog-posts)
-11. [Force transduction, and mechanobiology](things_to_read.md#force-transduction-and-mechanobiology)
+9. [Force transduction, and mechanobiology](things_to_read.md#force-transduction-and-mechanobiology)
 
 ## Image Analysis and Segmentation
 
@@ -199,8 +197,9 @@ _Implementations_:
 * [ ] Uncertainty Quantification in Deep Learning \[[post](https://www.inovex.de/blog/uncertainty-quantification-deep-learning/)\]
 * [ ] Self-Normalizing Neural Networks a.k.a "SELU paper" \[[paper](https://arxiv.org/abs/1706.02515)\] \(SELU: scaled exponential linear unit\)
 * [ ] Mathematics of DL \(appendix of Dive into deep learning\) \[[book](http://d2l.ai/chapter_appendix_math/index.html)\]
+* [ ] AlphaStar [[post](https://www.deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)\] \[[paper](https://www.nature.com/articles/s41586-019-1724-z)]
 
-  **Data Augmentation**
+*  **Data Augmentation**
 
   \[[Contents](things_to_read.md#contents)\]
 
@@ -209,18 +208,17 @@ _Implementations_:
 * [ ] AutoAugment: Learning Augmentation Policies from Data \[[paper](https://arxiv.org/abs/1805.09501)\]
 * [ ] A survey on Image Data Augmentation for Deep Learning \[[paper](https://link.springer.com/article/10.1186/s40537-019-0197-0)\]
 
-  **Other interesting papers and blog posts**
+*  **Other interesting papers and blog posts**
 
-  \[[Contents](things_to_read.md#contents)\]
+[[Contents](things_to_read.md#contents)]
 
-* [ ] Computing Receptive Fields of Convolutional Neural Networks \[[post](https://distill.pub/2019/computing-receptive-fields/)\]
-* [ ] Wave Physics as an Analog Recurrent Neural Network \[[paper](https://arxiv.org/abs/1904.12831)\] code:\[[wavetorch](https://github.com/fancompute/wavetorch)\]
-* [ ] 3D Ken Burns Effect from a Single Image \[[paper](https://arxiv.org/abs/1909.05483)\]
-* [ ] Understanding UMAP \[[post](https://pair-code.github.io/understanding-umap/)\]
-* [ ] Loss landscapes and surfaces \[[website](https://losslandscape.com/knowledge/)\]
-* [ ] AlphaStar \[[post](https://www.deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)\] \[[paper](https://www.nature.com/articles/s41586-019-1724-z)\]
-* [ ] Neural reparameterization \[[paper](https://arxiv.org/abs/1909.04240)\]
-* [ ] Reinforcement Learning, Fast and Slow \[\[paper\]\([https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(19\)30061-0](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2819%2930061-0)\)\]
+* [ ] Computing Receptive Fields of Convolutional Neural Networks [[post](https://distill.pub/2019/computing-receptive-fields/)]
+* [ ] Wave Physics as an Analog Recurrent Neural Network [[paper](https://arxiv.org/abs/1904.12831)] code:[[wavetorch](https://github.com/fancompute/wavetorch)]
+* [ ] 3D Ken Burns Effect from a Single Image [[paper](https://arxiv.org/abs/1909.05483)]
+* [ ] Understanding UMAP [[post](https://pair-code.github.io/understanding-umap/)]
+* [ ] Loss landscapes and surfaces [[website](https://losslandscape.com/knowledge/)]
+* [ ] Neural reparameterization [[paper](https://arxiv.org/abs/1909.04240)]
+* [ ] Reinforcement Learning, Fast and Slow [[paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2819%2930061-0)]
 * [ ] Neural Turtle Graphics for Modeling City Road Layouts \[[paper](https://arxiv.org/abs/1910.02055)\]
 * [ ] Extracting 2D surface with PreMosa \[[PreMosa](https://cblasse.github.io/premosa/example.html)\]
 * [ ] Highway nets \[[post](http://people.idsia.ch/~juergen/highway-networks.html)\]—\[[paper1](https://arxiv.org/abs/1507.06228)\]—\[[paper2](https://arxiv.org/abs/1612.07771)\]
@@ -228,7 +226,7 @@ _Implementations_:
 
 ## Force transduction, and mechanobiology
 
-\[[Contents](things_to_read.md#contents)\]
+[[Contents](things_to_read.md#contents)]
 
 * [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
 * [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
