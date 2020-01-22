@@ -64,6 +64,9 @@
 * [ ] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
 * [ ] Deep Graph Infomax \[[paper](https://arxiv.org/abs/1809.10341)\]
 * [ ] A Comprehensive Survey on Graph Neural Networks \[[paper](https://arxiv.org/abs/1901.00596)\]
+* **Expressive power of GNNs**:
+  * [ ] Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction [[paper](https://arxiv.org/abs/1802.05451)]
+  * [ ] Deep Sets [[paper](https://arxiv.org/abs/1703.06114)]
 * **Tutorials** :
   * [ ] Representation Learning on Networks \(e.g. GraphSAGE\) \[[slides](http://snap.stanford.edu/proj/embeddings-www/)\] \[[video from a related talk](https://www.youtube.com/watch?v=YrhBZUtgG4E)\]
   * [ ] \(by B. Knyazev\) \[[GNN introduction](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d), [pytorch implementation examples](https://github.com/bknyaz/examples/blob/master/fc_vs_graph_train.py)\] \[[spectral GCN tutorial](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801), [spectral GCN application paper](https://arxiv.org/abs/1811.09595)\] \[Image Classification with Hierarchical Multigraph Networks [\(paper w/ blog and repo\)](https://github.com/bknyaz/bmvc_2019)\]
