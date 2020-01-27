@@ -232,10 +232,10 @@ _Implementations_:
 [[Contents](things_to_read.md#contents)]
 
 * Tissue mechanics formalism:
+   * [ ] Unified quantitative characterization of epithelial tissue development [[paper](https://elifesciences.org/articles/08519)] <a name="unified-quantitative-boris">(also inference)</a>
    * [ ] A texture tensor to quantify deformations [[paper](https://link.springer.com/article/10.1007%2Fs10035-003-0126-x)]
    * [ ] Colloquium: Mechanical formalisms for tissue dynamics [[paper](https://link.springer.com/article/10.1140%2Fepje%2Fi2015-15033-4)]
    * [ ] Active dynamics of tissue shear flow [[paper](https://iopscience.iop.org/article/10.1088/1367-2630/aa5756)]
-   * [ ] Unified quantitative characterization of epithelial tissue development [[paper](https://elifesciences.org/articles/08519)] <a name="unified-quantitative-boris">(also inference)</a>
 * Force inference:
    * [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
    * [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)] [[repo](https://github.com/AllenCellModeling/DLITE)]
