@@ -235,11 +235,13 @@ _Implementations_:
    * [ ] A texture tensor to quantify deformations [[paper](https://link.springer.com/article/10.1007%2Fs10035-003-0126-x)]
    * [ ] Colloquium: Mechanical formalisms for tissue dynamics [[paper](https://link.springer.com/article/10.1140%2Fepje%2Fi2015-15033-4)]
    * [ ] Active dynamics of tissue shear flow [[paper](https://iopscience.iop.org/article/10.1088/1367-2630/aa5756)]
-   * [ ] Unified quantitative characterization of epithelial tissue development [[paper](https://elifesciences.org/articles/08519)]
-* [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
-* [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
-* [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)] [[repo](https://github.com/AllenCellModeling/DLITE)]
+   * [ ] Unified quantitative characterization of epithelial tissue development [[paper](https://elifesciences.org/articles/08519)] <a name="unified-quantitative-boris">(also inference)</a>
+* Force inference:
+   * [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
+   * [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)] [[repo](https://github.com/AllenCellModeling/DLITE)]
+   * ["Unified quantitative characterization" paper above](#unified-quantitative-boris).
 * [ ] Force networks, torque balance and Airy stress in the planar vertex model of a confluent epithelium [[paper](https://arxiv.org/pdf/1910.10799.pdf)]
+* [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
 * [ ] Hydra Regeneration: Closing the Loop with Mechanical Processes in Morphogenesis (Braun E. _et al._) [[paper](https://www.ncbi.nlm.nih.gov/pubmed/29869336)]
 * [ ] Electric-induced reversal of morphogenesis in Hydra (Braun E. _et al._) [[paper](https://arxiv.org/abs/1904.03625)]
 * [ ] A scalable pipeline for designing reconfigurable organisms [[paper](https://www.pnas.org/content/early/2020/01/07/1910837117)]
