@@ -231,6 +231,10 @@ _Implementations_:
 
 [[Contents](things_to_read.md#contents)]
 
+* Active tissue physics:
+   * [ ] Bittig T. *et al.* Dynamics of anisotropic tissue growth [[New J.Phys.2008](https://iopscience.iop.org/article/10.1088/1367-2630/10/6/063001)].
+   * [ ] Ranft J. *et al.* Fluidization of tissues by cell division and apoptosis [[PNAS2010](https://www.pnas.org/content/107/49/20863)].
+   * [ ] Delarue M. *et al.* Stress distributions and cell flows in a growing cell aggregate [[InterfaceFocus2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4213449/)]. 
 * Tissue mechanics formalism:
    * [ ] Unified quantitative characterization of epithelial tissue development [[paper](https://elifesciences.org/articles/08519)] <a name="unified-quantitative-boris">(also inference)</a>
    * [ ] A texture tensor to quantify deformations [[paper](https://link.springer.com/article/10.1007%2Fs10035-003-0126-x)]
