@@ -28,6 +28,7 @@
 * [ ] "Physical Biology of the Cell" by Rob Phillips *et al.*.
 * [ ] "Random Walks in  Biology" by H.C. Berg.
 * [ ] <a name="fenics">FEniCS</a>: python library for solving PDEs with finite element methods. [_Introduction tutorial_](https://fenicsproject.org/pub/tutorial/sphinx1/index.html), and _book_.
+* [ ] Differential Geometry: a beginner's course [[playlist](https://www.youtube.com/watch?v=_mvjOoTieTk&list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)]
 ### Tissue Mechanics Tools
 [up](#tissue-mechanics)
 * `Tyssue` vertex model-based python package (API) [[repo](https://github.com/DamCB/tyssue)] [[docs](https://tyssue.readthedocs.io/en/latest/index.html)]
