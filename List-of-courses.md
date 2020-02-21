@@ -61,6 +61,7 @@
   [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
 * __Ref. materials__:
   - "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
+  - Probability Theory (For Scientists and Engineers) M. Betancourt [[post](https://betanalpha.github.io/assets/case_studies/probability_theory.html)]; A Conceptual Introduction to Hamiltonian Monte Carlo [[paper](https://arxiv.org/abs/1701.02434)]; [[case study](https://betanalpha.github.io/assets/case_studies/falling.html#1_experimental_design)]
   - For reviewing numerical linear algebra [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 * [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
 * [ ] NIPS2019 Bayesian Deep Learning [talk1](https://slideslive.com/38921874/bayesian-deep-learning-1) [talk2](https://slideslive.com/38921875/bayesian-deep-learning-2) [talk3](https://slideslive.com/38921876/bayesian-deep-learning-3) [talk4](https://slideslive.com/38921877/bayesian-deep-learning-4)
