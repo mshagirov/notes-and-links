@@ -139,6 +139,7 @@ _Implementations_:
 * [ ] Understanding LSTM Networks by C. Olah \[[post](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\]
 * [ ] Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies \[[paper](https://arxiv.org/abs/1611.01368)\] \(_measuring compositional learning_\)
 * [ ] "The Unreasonable Effectiveness of Recurrent Neural Networks" by A. Karpathy \[[post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)\]
+* [ ] "Inferring single-trial neural population dynamics using sequential auto-encoders" \[[paper](https://www.nature.com/articles/s41592-018-0109-9)\] <a name="rnn-dynamical-system-nature">(RNNs to approximate neuron firing described as nonlinear dynamical systems)</a>
 * [x] "Visualizing memorization in RNNs" \[[distill](https://distill.pub/2019/memorization-in-rnns/)\]
 
 ## Attention, Transformers
@@ -250,3 +251,4 @@ _Implementations_:
 * [ ] Electric-induced reversal of morphogenesis in Hydra (Braun E. _et al._) [[paper](https://arxiv.org/abs/1904.03625)]
 * [ ] A scalable pipeline for designing reconfigurable organisms [[paper](https://www.pnas.org/content/early/2020/01/07/1910837117)]
 * [ ] Bioelectrical domain walls in homogeneous tissues [[paper](https://www.nature.com/articles/s41567-019-0765-4)]
+* [ ] (_See in RNN_) Neuron firing dynamics [approximated as dynamical system described by an RNN](#rnn-dynamical-system-nature).
