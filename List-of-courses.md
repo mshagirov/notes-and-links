@@ -49,6 +49,7 @@
 * [ ] AI course 
 [[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
 [[website](http://ai.berkeley.edu/lecture_videos.html)]
+* [ ] Computer science theory toolkit[[playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX&app=desktop)] (brief overview of CS theory)
 * [ ] (!) Linear Algebra
 [[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
 * [ ] (!) Multivariable Calculus [[ocw](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)]
