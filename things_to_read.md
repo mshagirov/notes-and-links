@@ -4,16 +4,16 @@
 
 ## Contents
 
-1. [Image Analysis and Segmentation](things_to_read.md#image-analysis-and-segmentation)
-   1. [Deep Image Priors \(DIPs\)](things_to_read.md#deep-image-priors)
-2. [Graph Neural Networks](things_to_read.md#graph-neural-networks)
-3. [Generative models](things_to_read.md#generative-models)
-4. [Bayesian Approach to Deep Learning](things_to_read.md#bayesian-approach-to-deep-learning)
-5. [Sim2Real and transfer learning](things_to_read.md#sim2real-and-transfer-learning)
-6. [Recurrent Neural Networks](things_to_read.md#recurrent-neural-networks)
-7. [Attention, Transformers](things_to_read.md#attention-transformers)
-8. [General Deep Learning, and RL](things_to_read.md#general-deep-learning-ml-and-rl)
-9. [Force transduction, and mechanobiology](things_to_read.md#force-transduction-and-mechanobiology)
+1. [Image Analysis and Segmentation](#image-analysis-and-segmentation)
+   1. [Deep Image Priors \(DIPs\)](#deep-image-priors)
+2. [Graph Neural Networks](#graph-neural-networks)
+3. [Generative models](#generative-models)
+4. [Bayesian Approach to Deep Learning](#bayesian-approach-to-deep-learning)
+5. [Sim2Real and transfer learning](#sim2real-and-transfer-learning)
+6. [Recurrent Neural Networks](#recurrent-neural-networks)
+7. [Attention, Transformers](#attention-transformers)
+8. [General Deep Learning, and RL](#general-deep-learning-ml-and-rl)
+9. [Force transduction, mechanobiology, and simulating physical systems](#force-transduction-mechanobiology-and-simulating-physical-systems)
 
 ## Image Analysis and Segmentation
 
@@ -62,6 +62,7 @@
 * [ ] PyTorch BigGraph (graph embedding) [[repo](https://github.com/facebookresearch/PyTorch-BigGraph)] [[docs](https://torchbiggraph.readthedocs.io/en/latest/)] [[paper](https://arxiv.org/abs/1903.12287)]
 * [ ] Understanding Attention and Generalization in Graph Neural Networks \[[paper](https://arxiv.org/abs/1905.02850)\]
 * [ ] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
+* [ ] Molecule Attention Transformer [[paper](https://arxiv.org/abs/2002.08264)]
 * [ ] Deep Graph Infomax \[[paper](https://arxiv.org/abs/1809.10341)\]
 * [ ] A Comprehensive Survey on Graph Neural Networks \[[paper](https://arxiv.org/abs/1901.00596)\]
 * **Expressive power of GNNs**:
@@ -228,7 +229,7 @@ _Implementations_:
 * [ ] Highway nets \[[post](http://people.idsia.ch/~juergen/highway-networks.html)\]—\[[paper1](https://arxiv.org/abs/1507.06228)\]—\[[paper2](https://arxiv.org/abs/1612.07771)\]
 * "Compositional Pattern Producing Networks: A Novel Abstraction of Development" \[[paper](https://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)\]—\[[post1](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)—[post2](http://blog.otoro.net/2016/06/02/generating-large-images-from-latent-vectors-part-two/)\]
 
-## Force transduction, and mechanobiology
+## Force transduction, mechanobiology, and simulating physical systems
 
 [[Contents](things_to_read.md#contents)]
 
@@ -252,3 +253,5 @@ _Implementations_:
 * [ ] A scalable pipeline for designing reconfigurable organisms [[paper](https://www.pnas.org/content/early/2020/01/07/1910837117)]
 * [ ] Bioelectrical domain walls in homogeneous tissues [[paper](https://www.nature.com/articles/s41567-019-0765-4)]
 * [ ] "Inferring single-trial neural population dynamics using sequential auto-encoders" (_See_ in RNN section; Neuron firing dynamics approximated as a [dynamical system described by RNNs](#rnn-dynamical-system-nature)).
+* [ ] "Up to two billion times acceleration of scientific simulations with deep neural architecture search" [[paper](https://arxiv.org/abs/2001.08055)]
+
