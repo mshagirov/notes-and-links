@@ -251,4 +251,4 @@ _Implementations_:
 * [ ] Electric-induced reversal of morphogenesis in Hydra (Braun E. _et al._) [[paper](https://arxiv.org/abs/1904.03625)]
 * [ ] A scalable pipeline for designing reconfigurable organisms [[paper](https://www.pnas.org/content/early/2020/01/07/1910837117)]
 * [ ] Bioelectrical domain walls in homogeneous tissues [[paper](https://www.nature.com/articles/s41567-019-0765-4)]
-* [ ] (_See in RNN_) Neuron firing dynamics [approximated as dynamical system described by an RNN](#rnn-dynamical-system-nature).
+* [ ] "Inferring single-trial neural population dynamics using sequential auto-encoders" (_See_ in RNN section; Neuron firing dynamics approximated as a [dynamical system described by RNNs](#rnn-dynamical-system-nature)).
