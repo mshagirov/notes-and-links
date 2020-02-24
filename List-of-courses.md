@@ -137,6 +137,7 @@
 * _LaTeX_ notes:
   * The Not So Short Introduction to  [[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)]
   * Beamer presentation (LaTeX) tutorial [[link](https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)—Getting_Started)]
+  * BayesNet—TikZ library for drawing Bayesian networks, and graphical models [[repo](https://github.com/jluttine/tikz-bayesnet)]
   * Using _LaTeX_ with Vim [[tutorial](https://castel.dev/post/lecture-notes-1/)]
 * Using Vim:
   * [x] Vim cheatsheet [[website](https://vim.rtorr.com)]
