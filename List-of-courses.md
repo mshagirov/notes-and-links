@@ -92,6 +92,7 @@
 [[Contents](#contents)]
 ### Pytorch
 [up](#useful-resources)
+* Introducing Label Studio, a swiss army knife of data labeling [[post](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)]
 * Visdom (live data tool for creating, organizing, and sharing visualizations; supports pytorch, numpy) [[repo](https://github.com/facebookresearch/visdom)]
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
