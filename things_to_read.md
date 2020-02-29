@@ -147,9 +147,9 @@ _Implementations_:
 
 \[[Contents](things_to_read.md#contents)\]
 
+* [ ] Attention is all you need \[[paper](https://arxiv.org/abs/1706.03762)\] \[[__annotated transformer__](http://nlp.seas.harvard.edu/2018/04/03/attention.html)\]
 * [ ] Transformers: State-of-the-art Natural Language Processing \[[review](https://arxiv.org/abs/1910.03771)\]
 * [ ] Tool for analysing transformers \[[exBERT](http://exbert.net/)\]
-* [ ] Attention is all you need \[[paper](https://arxiv.org/abs/1706.03762)\]
 * [ ] Transformer-XL \[[paper](https://arxiv.org/abs/1901.02860)\]
 * [ ] Write With Transformer \(GTP2-XL\) \[[website](https://transformer.huggingface.co)\] 
 * [ ] NLP papers from hugging face \[[website](https://huggingface.co)\]
