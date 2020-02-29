@@ -118,7 +118,7 @@ _Implementations_:
 \[[Contents](things_to_read.md#contents)\]
 
 * [ ] Neocortical plasticity \(about unsupervised learning in neocortex\)\[[paper](https://openreview.net/pdf?id=S1g_N7FIUS)\]
-* [ ] DiffTaichi: Differentiable Programming for Physical Simulation \[[paper](https://arxiv.org/abs/1910.00935)\]
+* [ ] DiffTaichi: Differentiable Programming for Physical Simulation \[[paper](https://arxiv.org/abs/1910.00935)\] \[[colab](https://colab.research.google.com/github/znah/notebooks/blob/master/taichi_colab.ipynb#scrollTo=pEsqVKCXCpfV)\]
 * [ ] Domain-Adversarial Training of Neural Networks \(Ganin Yaroslav, _et al._\) \[[paper1](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf)\]
 * [x] "Domain Randomization for Sim2Real Transfer" by L. Weng \[[post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)\]
 * [ ] "Meta-Learning: Learning to Learn Fast" by L. Weng \[[post](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#define-the-meta-learning-problem)\]
