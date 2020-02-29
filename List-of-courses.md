@@ -93,10 +93,9 @@
 [[Contents](#contents)]
 ### Pytorch
 [up](#useful-resources)
-* Introducing Label Studio, a swiss army knife of data labeling [[post](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)]
-* Visdom (live data tool for creating, organizing, and sharing visualizations; supports pytorch, numpy) [[repo](https://github.com/facebookresearch/visdom)]
 * Pytorch `torch.utils.tensorboard`
 [[docs](https://pytorch.org/docs/stable/tensorboard.html)]
+* Pytorch Lightning-- structured pytorch code [[post](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)]
 * Deep Graph Library (for pytorch) [[website](https://www.dgl.ai)]
 * Pytorch on TPUs [[colab notebooks](https://github.com/pytorch/xla)]
 * Skorch--A scikit-learn compatible neural network library that wraps PyTorch 
@@ -115,6 +114,8 @@
 [[website](https://www.snorkel.org)]
 ### Python and CV
 [up](#useful-resources)
+* Introducing Label Studio, a swiss army knife of data labeling [[post](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)]
+* Visdom (live data tool for creating, organizing, and sharing visualizations; supports pytorch, numpy) [[repo](https://github.com/facebookresearch/visdom)]
 * `itkwidgets` for Jupyter (__2D,3D data visualisation__) [[repo with instructions](https://github.com/InsightSoftwareConsortium/itkwidgets)]
 * `mpld3` brindges `matplotlib` with `d3js` [[mpld3](https://mpld3.github.io/index.html)] *interactive plots, plots to html, etc.*
 * Altair (declarative statistical visualization library) [[website](https://altair-viz.github.io)]
