@@ -41,7 +41,7 @@
 * [ ] __CS224n__: Natural Language Processing with Deep Learning
 [[lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
 [[website](http://web.stanford.edu/class/cs224n/)]
-* [ ] __Fast.ai__'s Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)]
+* [ ] __Fast.ai__'s Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)] [[fastbook](https://github.com/fastai/fastbook)]
 * [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
 * [ ] Deep RL (UC Berkeley)
 [[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
