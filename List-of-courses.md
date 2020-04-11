@@ -149,12 +149,10 @@
 [up](#useful-resources)
 * Getting started with Docker containers [[link](https://docs.docker.com/get-started/)]
 * Deploying JupyterHub with Kubernetes on OpenStack [[post](https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1)]
-* Website security etc. tutorials and other readings [[hacker101](https://www.hacker101.com/resources)]
 ### Miscellaneous
 [up](#useful-resources)
 * Regexper regexp "Railroad Diagrams" generator
 [[website](https://regexper.com)] (can be used to interpret regexps)
-
 ### Security
 * References:
   * [[Hacker101 resources](https://www.hacker101.com/resources#2)] and [[Hacker101 videos](https://www.hacker101.com/videos)]
