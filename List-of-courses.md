@@ -12,6 +12,7 @@
   - [LaTeX and Vim](#latex-and-vim)
   - [Containers (e.g. Docker)](#containers-eg-Docker)
   - [Miscellaneous](#miscellaneous)
+  - [Security](#security)
 - [Datasets](#datasets)
 
 ---
@@ -151,9 +152,14 @@
 * Website security etc. tutorials and other readings [[hacker101](https://www.hacker101.com/resources)]
 ### Miscellaneous
 [up](#useful-resources)
-* The Modern JavaScript Tutorial [[website](https://javascript.info)]
 * Regexper regexp "Railroad Diagrams" generator
 [[website](https://regexper.com)] (can be used to interpret regexps)
+
+### Security
+* References:
+  * [[Hacker101 resources](https://www.hacker101.com/resources#2)] and [[Hacker101 videos](https://www.hacker101.com/videos)]
+  * [[The Modern JavaScript Tutorial](https://javascript.info)]
+  * [[Networking terminology](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)]  and [[List of common port numbers](https://www.utilizewindows.com/list-of-common-network-port-numbers/)]
 
 ## Datasets
 [[Contents](#contents)]
