@@ -154,6 +154,7 @@
 * Regexper regexp "Railroad Diagrams" generator
 [[website](https://regexper.com)] (can be used to interpret regexps)
 ### Security
+[up](#useful-resources)
 * References:
   * [[Hacker101 resources](https://www.hacker101.com/resources#2)] and [[Hacker101 videos](https://www.hacker101.com/videos)]
   * [[The Modern JavaScript Tutorial](https://javascript.info)]
