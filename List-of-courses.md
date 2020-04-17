@@ -6,6 +6,11 @@
   - [Tissue Mechanics Courses and Books](#tissue-mechanics-courses-and-books)
   - [Tissue Mechanics Tools](#tissue-mechanics-tools)
 - [ML Courses and books](#ml-courses-and-books)
+- [AI, Probability, Complexity and Computation](#ai-probability-complexity-and-computation)
+  - [AI](#ai)
+  - [Probability and Mathematics](#probability-and-mathematics)
+  - [Information](#information)
+  - [Complexity](#complexity)
 - [Useful Resources](#useful-resources)
   - [Pytorch](#pytorch)
   - [Python and Computer Vision](#python-and-cv)
@@ -47,20 +52,6 @@
 * [ ] Deep RL (UC Berkeley)
 [[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
 [[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
-* [ ] AI course 
-[[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
-[[website](http://ai.berkeley.edu/lecture_videos.html)]
-* [ ] Computer science theory toolkit[[playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX&app=desktop)] (brief overview of CS theory)
-* [ ] (!) Linear Algebra
-[[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
-* [ ] (!) Multivariable Calculus [[ocw](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)]
-* [ ] (!) Computational Probability and Inference
-[[Edx](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/wiki/MITx.6.008.1x.3T2016/)]
-* [ ] Probabilistic Programming and Bayesian Methods for Hackers
-[[website](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)]
-[[pyro](http://pyro.ai/examples/dmm.html)]
-  - The beginners guide to Hamiltonian Monte Carlo
-  [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
 * __Ref. materials__:
   - "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
   - Probability Theory (For Scientists and Engineers) M. Betancourt [[post](https://betanalpha.github.io/assets/case_studies/probability_theory.html)]; A Conceptual Introduction to Hamiltonian Monte Carlo [[paper](https://arxiv.org/abs/1701.02434)]; [[case study](https://betanalpha.github.io/assets/case_studies/falling.html#1_experimental_design)]
@@ -89,6 +80,33 @@
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
 * [x] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
 * [ ] "How Decision Trees Work" [[post](https://brohrer.github.io/how_decision_trees_work.html)] 
+
+## AI, Probability, Complexity and Computation
+[[Contents](#contents)]
+### AI
+[[up](#ai-probability-complexity-and-computation)]
+* [ ] AI course 
+[[Edx](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)]
+[[website](http://ai.berkeley.edu/lecture_videos.html)]
+* [ ] Computer science theory toolkit[[playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX&app=desktop)] (brief overview of CS theory)
+
+### Probability and Mathematics
+[[up](#ai-probability-complexity-and-computation)]
+* Linear Algebra
+[[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
+* Multivariable Calculus [[ocw](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)]
+* Computational Probability and Inference
+[[Edx](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/wiki/MITx.6.008.1x.3T2016/)]
+* Probabilistic Programming and Bayesian Methods for Hackers
+[[website](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)]
+[[pyro](http://pyro.ai/examples/dmm.html)]
+  - The beginners guide to Hamiltonian Monte Carlo
+  [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
+* The Fat Tails Statistical Project (N.N. Taleb) [[website](https://www.fooledbyrandomness.com/FatTails.html)]
+### Information
+[[up](#ai-probability-complexity-and-computation)]
+### Complexity
+[[up](#ai-probability-complexity-and-computation)]
 
 ## Useful Resources
 [[Contents](#contents)]
