@@ -56,16 +56,13 @@
   - "Mathematics For Machine Learning" [[book repo](https://github.com/mml-book/mml-book.github.io)]
   - Probability Theory (For Scientists and Engineers) M. Betancourt [[post](https://betanalpha.github.io/assets/case_studies/probability_theory.html)]; A Conceptual Introduction to Hamiltonian Monte Carlo [[paper](https://arxiv.org/abs/1701.02434)]; [[case study](https://betanalpha.github.io/assets/case_studies/falling.html#1_experimental_design)]
   - For reviewing numerical linear algebra [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
-* [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
 * [ ] NIPS2019 Bayesian Deep Learning [talk1](https://slideslive.com/38921874/bayesian-deep-learning-1) [talk2](https://slideslive.com/38921875/bayesian-deep-learning-2) [talk3](https://slideslive.com/38921876/bayesian-deep-learning-3) [talk4](https://slideslive.com/38921877/bayesian-deep-learning-4)
-* [ ] "Computer Vision: A Modern Approach by Forsyth & Ponce" and related courses
-[[CS131](http://vision.stanford.edu/teaching/cs131_fall1920/syllabus.html)] and
-[[CS231A](http://web.stanford.edu/class/cs231a/course_notes.html)]
 * [ ] Machine Learning (Tom Mitchell) [[website](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)] [[lectures](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)]
 * [ ] Interpretability and Explainability in Machine Learning
 [[website](https://interpretable-ml-class.github.io)]
 * [ ] Neural Density Estimation and Likelihood-free Inference (by G. Papamakarios, with tutorials) [[thesis](https://arxiv.org/abs/1910.13233)]
-* [ ] (ML)
+* ML
+  - _also see_ [[information](#information)]
   - A Comprehensive Guide to Machine Learning (Berkeley University) (Nasiriany _et al._)
   - Elements of Statistical Learning (Hastie *et al.*)
   - Pattern Recognition and Machine Learning (Bishop)
@@ -75,11 +72,13 @@
   - Information Theory, Inference, and Learning Algorithms (MacKay)
   - Guided Tour of Machine Learning in Finance (set of courses)
   [[coursera](https://www.coursera.org/learn/guided-tour-machine-learning-finance/home/welcome)]
-* [ ] "Information Theory, Pattern Recognition, and Neural Networks" course
-[[website](http://www.inference.org.uk/itprnn_lectures/)]
 * [ ] Fundamentals of RL [[coursera](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)]
+* [ ] "How Decision Trees Work" [[post](https://brohrer.github.io/how_decision_trees_work.html)]
 * [x] CS231n: CNNs for Visual Recognition [[lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[website](http://cs231n.stanford.edu)]
-* [ ] "How Decision Trees Work" [[post](https://brohrer.github.io/how_decision_trees_work.html)] 
+* [ ] Ancient Secrets of Computer Vision [[website](https://pjreddie.com/courses/computer-vision/)]
+* [ ] "Computer Vision: A Modern Approach by Forsyth & Ponce" and related courses
+[[CS131](http://vision.stanford.edu/teaching/cs131_fall1920/syllabus.html)] and
+[[CS231A](http://web.stanford.edu/class/cs231a/course_notes.html)]
 
 ## AI, Probability, Complexity and Computation
 [[Contents](#contents)]
@@ -105,6 +104,8 @@
 * The Fat Tails Statistical Project (N.N. Taleb) [[website](https://www.fooledbyrandomness.com/FatTails.html)]
 ### Information
 [[up](#ai-probability-complexity-and-computation)]
+* "Information Theory, Pattern Recognition, and Neural Networks" course
+[[website](http://www.inference.org.uk/itprnn_lectures/)]
 ### Complexity
 [[up](#ai-probability-complexity-and-computation)]
 
