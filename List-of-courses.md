@@ -48,7 +48,7 @@
 [[lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)]
 [[website](http://web.stanford.edu/class/cs224n/)]
 * [ ] __Fast.ai__'s Practical Deep Learning for Coders, v3 [[website](https://course.fast.ai)] [[fastbook](https://github.com/fastai/fastbook)]
-* [ ] Deep Unsupervised Learning [[cs294-158-sp19](https://sites.google.com/view/berkeley-cs294-158-sp19/home)]
+* [ ] __cs294__: Deep Unsupervised Learning [[spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)] [[spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)]
 * [ ] Deep RL (UC Berkeley)
 [[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
 [[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
