@@ -10,7 +10,7 @@
   - [AI](#ai)
   - [Probability and Mathematics](#probability-and-mathematics)
   - [Information](#information)
-  - [Complexity (From Finance and Economics to Fractals)](#complexity)
+  - [Complexity (From Finance and Economics to Fractals and Artificial Life)](#complexity)
 - [Useful Resources](#useful-resources)
   - [Pytorch](#pytorch)
   - [Python and Computer Vision](#python-and-cv)
