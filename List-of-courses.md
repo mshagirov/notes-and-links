@@ -111,6 +111,15 @@
 ### Complexity
 [[up](#ai-probability-complexity-and-computation)]
 
+__Finance and Economics__
+* Complexity Economics [W. Brian Arthur (SFI)](http://tuvalu.santafe.edu/~wbarthur/)
+* "Fractals and Scaling in Finance" by Benoit B. Mandelbrot
+
+__Artificial Life__
+* Introduction to Artificial Life [(post)](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/)
+
+
+
 ## Useful Resources
 [[Contents](#contents)]
 ### Pytorch
