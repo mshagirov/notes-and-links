@@ -95,6 +95,8 @@
 [[up](#ai-probability-complexity-and-computation)]
 * Linear Algebra
 [[ocw](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)]
+* Linear Algebra and Differential Equations [[Linear Diff Eqns, ocw](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm)]
+* Matrix Methods in Data Analysis, Signal Processing, and Machine Learning [[ocw](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)]
 * Multivariable Calculus [[ocw](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)]
 * Computational Probability and Inference
 [[Edx](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/wiki/MITx.6.008.1x.3T2016/)]
