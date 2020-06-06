@@ -188,6 +188,8 @@ __Artificial Life__
 [up](#useful-resources)
 * Regexper regexp "Railroad Diagrams" generator
 [[website](https://regexper.com)] (can be used to interpret regexps)
+* [Peer Review](https://masterclasses.nature.com/online-course-on-peer-review/16507836) (free online course by Nature masterclasses)
+
 ### Security
 [up](#useful-resources)
 * References:
