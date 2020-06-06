@@ -107,6 +107,7 @@
 [[pyro](http://pyro.ai/examples/dmm.html)]
   - The beginners guide to Hamiltonian Monte Carlo
   [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
+* Introduction to Time Series Analysis [[NIST Engin and Stats Handbook Ch6](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)]
 * The Fat Tails Statistical Project (N.N. Taleb) [[website](https://www.fooledbyrandomness.com/FatTails.html)]
 ### Information
 [[up](#ai-probability-complexity-and-computation)]
