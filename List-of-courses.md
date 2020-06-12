@@ -17,7 +17,7 @@
   - [LaTeX and Vim](#latex-and-vim)
   - [Containers (e.g. Docker)](#containers-eg-Docker)
   - [Miscellaneous](#miscellaneous)
-  - [Security](#security)
+  - [Web and Networking](#web-and-networking)
 - [Datasets](#datasets)
 
 ---
@@ -164,6 +164,7 @@ __Artificial Life__
 * Jupyter notebook version control with jupytext, and automation with papermill [[post](https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330)]
 * IPython websites [[repo](https://github.com/stephenslab/ipynb-website)]
 * Packaging and versioning (python related)
+  * [ ] [Sharing Your Labor of Love: PyPI Quick and Dirty](https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
   * [x] Semantic Versioning [[post](https://semver.org)]
   * [ ] Pip distribution and packaging [[docs](https://packaging.python.org/guides/distributing-packages-using-setuptools/#choosing-a-versioning-scheme)]
   * `pip-tools`[[repo](https://github.com/jazzband/pip-tools)]
@@ -190,7 +191,7 @@ __Artificial Life__
 [[website](https://regexper.com)] (can be used to interpret regexps)
 * [Peer Review](https://masterclasses.nature.com/online-course-on-peer-review/16507836) (free online course by Nature masterclasses)
 
-### Security
+### Web and Networking
 [up](#useful-resources)
 * References:
   * [[Hacker101 resources](https://www.hacker101.com/resources#2)] and [[Hacker101 videos](https://www.hacker101.com/videos)]
