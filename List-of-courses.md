@@ -54,6 +54,7 @@
 * Open AI Gym:
   * [Getting started](https://youtu.be/8MC3y7ASoPs) by `TheComputerScientist`
   * [Intro to Q-Learning](https://youtu.be/wN3rxIKmMgE) by `TheComputerScientist`
+  * [Spinning Up in Deep RL (Open AI)](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
 * [ ] Deep RL (UC Berkeley)
 [[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
 [[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
