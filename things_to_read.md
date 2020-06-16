@@ -19,6 +19,9 @@
 
 \[[Contents](things_to_read.md#contents)\]
 
+* [ ] (pix2vertex) Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation
+\[[pytorch repo](https://github.com/eladrich/pix2vertex.pytorch)\]
+\[[paper](https://arxiv.org/abs/1703.10131)\]
 * [ ] EfficientDet: Scalable and Efficient Object Detection \[[paper](https://arxiv.org/abs/1911.09070)\]
 * [ ] Differentiable Mask-Matching Network \(DMM-net\) \[[repo](https://github.com/ZENGXH/DMM_Net)\] \[[paper](https://www.cs.toronto.edu/~xiaohui/dmm/paper/dmmnet_iccv19.pdf)\]
 * [ ] Panoptic segmentation \[[paper](https://arxiv.org/abs/1801.00868)\] \(_see detectron2 for implementation_\)
@@ -56,6 +59,7 @@
 
 \[[Contents](things_to_read.md#contents)\]
 
+* [ ] Learning to Simulate Complex Physics with Graph Networks [[paper](https://arxiv.org/abs/2002.09405)]
 * [ ] Graph Convolutional Networks \(T. Kipf\) \[[post](http://tkipf.github.io/graph-convolutional-networks/)\]\[[paper](https://arxiv.org/abs/1609.02907)\]\[[repo\(pytorch\)](https://github.com/tkipf/pygcn)\]
 * [ ] Neural Relational Inference for Interacting Systems [[paper](https://arxiv.org/abs/1802.04687)]
 * [ ] Relational inductive biases, deep learning, and graph networks [[paper](https://arxiv.org/abs/1806.01261)]
