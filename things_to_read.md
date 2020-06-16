@@ -247,6 +247,8 @@ _Implementations_:
    * [ ] Experimental validation of force inference in epithelia from cell to tissue scale [[paper](https://www.nature.com/articles/s41598-019-50690-3)]
    * [x] DLITE [[paper](https://www.sciencedirect.com/science/article/pii/S0006349519308215)] [[repo](https://github.com/AllenCellModeling/DLITE)]
    * ["Unified quantitative characterization" paper above](#unified-quantitative-boris).
+* Physical Simulation:
+   * [ ] [VIPER: Volume Invariant Position-based Elastic Rods](https://arxiv.org/abs/1906.05260) (paper talks about a nice way to quantify fiber-based dynamics, i.e. can be applied as a quantification method in many migration and transport problems along curved trajec-s, e.g. F-actin dynamics in cells with curved geom-s,in addition to detailed derivations of the eqn-s)
 * [ ] Force networks, torque balance and Airy stress in the planar vertex model of a confluent epithelium [[paper](https://arxiv.org/pdf/1910.10799.pdf)]
 * [ ] Optical estimation of absolute membrane potential using fluorescence lifetime imaging [[paper](https://elifesciences.org/articles/44522)]
 * [ ] Hydra Regeneration: Closing the Loop with Mechanical Processes in Morphogenesis (Braun E. _et al._) [[paper](https://www.ncbi.nlm.nih.gov/pubmed/29869336)]
