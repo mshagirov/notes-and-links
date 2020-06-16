@@ -51,6 +51,9 @@
 * [ ] Deep learning (w/ Pytorch, NYU) [[repo](https://github.com/Atcold/pytorch-Deep-Learning)] [[website](https://atcold.github.io/pytorch-Deep-Learning/)]
 * [ ] __CS294__: Deep Unsupervised Learning [[spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)] [[spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)]
 * [ ] __CS224__: Machine Learning with Graphs [[website](http://web.stanford.edu/class/cs224w/index.html)]
+* Open AI Gym:
+  * [Getting started](https://youtu.be/8MC3y7ASoPs) by `TheComputerScientist`
+  * [Intro to Q-Learning](https://youtu.be/wN3rxIKmMgE) by `TheComputerScientist`
 * [ ] Deep RL (UC Berkeley)
 [[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
 [[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
