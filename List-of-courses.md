@@ -55,6 +55,7 @@
   * [Getting started](https://youtu.be/8MC3y7ASoPs) by `TheComputerScientist`
   * [Intro to Q-Learning](https://youtu.be/wN3rxIKmMgE) by `TheComputerScientist`
   * [Spinning Up in Deep RL (Open AI)](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
+* [ ] RL course, David Silver UCL \[[website](https://www.davidsilver.uk/teaching/), [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)\] \(Deep learning and Deep RL, Deepmind courses: [DL](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc) and [Deep RL](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)\)
 * [ ] Deep RL (UC Berkeley)
 [[lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&app=desktop)]
 [[website](http://rail.eecs.berkeley.edu/deeprlcourse/)]
