@@ -19,40 +19,32 @@
 
 \[[Contents](things_to_read.md#contents)\]
 
-* [ ] (pix2vertex) Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation
+* [ ] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+* [ ] iGPT: [Generative Pretraining from Pixels](https://openai.com/blog/image-gpt/) 
+* [ ] [pix2vertex: Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation](https://arxiv.org/abs/1703.10131)
 \[[pytorch repo](https://github.com/eladrich/pix2vertex.pytorch)\]
-\[[paper](https://arxiv.org/abs/1703.10131)\]
-* [ ] EfficientDet: Scalable and Efficient Object Detection \[[paper](https://arxiv.org/abs/1911.09070)\]
-* [ ] Differentiable Mask-Matching Network \(DMM-net\) \[[repo](https://github.com/ZENGXH/DMM_Net)\] \[[paper](https://www.cs.toronto.edu/~xiaohui/dmm/paper/dmmnet_iccv19.pdf)\]
 * [ ] Panoptic segmentation \[[paper](https://arxiv.org/abs/1801.00868)\] \(_see detectron2 for implementation_\)
 * [ ] Faster R-CNN \[[paper](https://arxiv.org/abs/1506.01497)\] \[[pytorch](https://github.com/ZENGXH/faster-rcnn.pytorch)\]
 * [ ] Mask R-CNN \[[paper](https://arxiv.org/abs/1703.06870)\] \[[repo](https://github.com/facebookresearch/maskrcnn-benchmark)\]
 * [ ] R-FCN \(Region-based Fully Convolutional Networks\) \[[paper](https://arxiv.org/abs/1605.06409)\]
 * [ ] Detectron \(uses Mask R-CNN and others above, w/ _new ver. detectron2_\) \[[repo](https://github.com/facebookresearch/Detectron)\] \[:robot:[detectron2\_repo](https://github.com/facebookresearch/detectron2/blob/master/README.md)\]
-* [ ] Stardist \[[repo](https://github.com/mpicbg-csbd/stardist)\]
 * [ ] Focal Loss \(addresses class imbalance of fg-bg\) \[[paper](https://arxiv.org/abs/1708.02002)\]
 * [ ] Feature Pyramid Network \(FPN\) \[[paper](https://arxiv.org/abs/1612.03144)\] \[[repo](https://github.com/jwyang/fpn.pytorch)\]
-* [ ] Segmentation-Enhanced CycleGAN \[[paper](https://www.biorxiv.org/content/10.1101/548081v1)\] and read this \[[post](https://ai.googleblog.com/2019/08/an-interactive-automated-3d.html?m=1)\] \[related: "High-precision automated reconstruction of neurons with flood-filling networks" \(_Nature Methods_ **2018**\)\]
-* [ ] Learning Fixed Points in Generative Adversarial Networks: From Image-to-Image Translation to Disease Detection and Localization \[[paper](https://arxiv.org/abs/1908.06965)\]
-* [ ] Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data \[[paper](https://arxiv.org/abs/1909.09148)\]
-* [ ] Practical Full Resolution Learned Lossless Image Compression \[[repo](https://github.com/fab-jul/L3C-PyTorch#citation)\]
+* [ ] "High-precision automated reconstruction of neurons with flood-filling networks" \(_Nature Methods_ **2018**\)
 * [ ] Learnable Triangulation of Human Pose [[website](https://saic-violet.github.io/learnable-triangulation)] [[paper](https://arxiv.org/abs/1905.05754)] [[repo](https://github.com/karfly/learnable-triangulation-pytorch/tree/master/mvn)]
-* [ ] Semantic Graph Convolutional Networks for 3D Human Pose Regression [[paper](https://arxiv.org/abs/1904.03345)] [[repo](https://github.com/garyzhao/SemGCN/tree/master/models)]
 * [ ] High-Quality Self-Supervised Deep Image Denoising \[[repo w/ paper](https://github.com/NVlabs/selfsupervised-denoising)\]
 * [ ] Noise2Self \[[paper](https://arxiv.org/abs/1901.11365)\] and \[[repo](https://github.com/czbiohub/noise2self)\]
 * [ ] pN2V \[[PN2V repo](https://github.com/juglab/pn2v)\] might help to revise \[[N2V repo](https://github.com/juglab/n2v)\] and \[[N2N repo](https://github.com/NVlabs/noise2noise)\] \[[paper](https://arxiv.org/abs/1803.04189)\]
 * [ ] On Network Design Spaces for Visual Recognition \[[paper](https://arxiv.org/abs/1905.13214)\] \[[repo](https://github.com/facebookresearch/pycls)\]
-* [ ] \(Learning\) "Neural Voxel Renderer" \[[project website](http://www.krematas.com/nvr/index.html)\]
-* [ ] Geometric Capsule Autoencoders for 3D Point Clouds \[[paper](https://arxiv.org/abs/1912.03310)\]
 
 ### Deep Image Priors
 
 \[[Contents](things_to_read.md#contents)\]
 
-* [ ] Deep Image Prior \[[website](https://dmitryulyanov.github.io/deep_image_prior)\]
+* [x] Deep Image Prior \[[website](https://dmitryulyanov.github.io/deep_image_prior)\]
 * [ ] A Bayesian Perspective on the Deep Image Prior \[[paper](https://arxiv.org/abs/1904.07457)\]
 * [x] Double DIP \[[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)\] \[[repo](https://github.com/yossigandelsman/DoubleDIP)\] might need \[["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)\]
-* [ ] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization \[[paper](https://arxiv.org/abs/1912.02314)\]
+* [x] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization \[[paper](https://arxiv.org/abs/1912.02314)\]
 * [ ] Compressed Sensing with Deep Image Prior and Learned Regularization \[[paper](https://arxiv.org/abs/1806.06438)\]
 
 ## Graph Neural Networks
@@ -64,6 +56,7 @@
 * [ ] Neural Relational Inference for Interacting Systems [[paper](https://arxiv.org/abs/1802.04687)]
 * [ ] Relational inductive biases, deep learning, and graph networks [[paper](https://arxiv.org/abs/1806.01261)]
 * [ ] PyTorch BigGraph (graph embedding) [[repo](https://github.com/facebookresearch/PyTorch-BigGraph)] [[docs](https://torchbiggraph.readthedocs.io/en/latest/)] [[paper](https://arxiv.org/abs/1903.12287)]
+* [ ] Semantic Graph Convolutional Networks for 3D Human Pose Regression [[paper](https://arxiv.org/abs/1904.03345)] [[repo](https://github.com/garyzhao/SemGCN/tree/master/models)]
 * [ ] Understanding Attention and Generalization in Graph Neural Networks \[[paper](https://arxiv.org/abs/1905.02850)\]
 * [ ] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
 * [ ] Molecule Attention Transformer [[paper](https://arxiv.org/abs/2002.08264)]
