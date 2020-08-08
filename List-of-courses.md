@@ -65,6 +65,7 @@
   - For reviewing numerical linear algebra [[Online Book](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)]
 * [ ] NIPS2019 Bayesian Deep Learning [talk1](https://slideslive.com/38921874/bayesian-deep-learning-1) [talk2](https://slideslive.com/38921875/bayesian-deep-learning-2) [talk3](https://slideslive.com/38921876/bayesian-deep-learning-3) [talk4](https://slideslive.com/38921877/bayesian-deep-learning-4)
 * [ ] Machine Learning (Tom Mitchell) [[website](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)] [[lectures](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)]
+* [ ] [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q) (video lectures).
 * [ ] Interpretability and Explainability in Machine Learning
 [[website](https://interpretable-ml-class.github.io)]
 * [ ] Neural Density Estimation and Likelihood-free Inference (by G. Papamakarios, with tutorials) [[thesis](https://arxiv.org/abs/1910.13233)]
