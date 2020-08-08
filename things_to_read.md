@@ -54,6 +54,7 @@
 * [ ] Learning to Simulate Complex Physics with Graph Networks [[paper](https://arxiv.org/abs/2002.09405)]
 * [ ] Graph Convolutional Networks \(T. Kipf\) \[[post](http://tkipf.github.io/graph-convolutional-networks/)\]\[[paper](https://arxiv.org/abs/1609.02907)\]\[[repo\(pytorch\)](https://github.com/tkipf/pygcn)\]
 * [ ] Neural Relational Inference for Interacting Systems [[paper](https://arxiv.org/abs/1802.04687)]
+* [ ] [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://astroautomata.com//paper/symbolic-neural-nets/) [paper](https://arxiv.org/abs/2006.11287)
 * [ ] Relational inductive biases, deep learning, and graph networks [[paper](https://arxiv.org/abs/1806.01261)]
 * [ ] PyTorch BigGraph (graph embedding) [[repo](https://github.com/facebookresearch/PyTorch-BigGraph)] [[docs](https://torchbiggraph.readthedocs.io/en/latest/)] [[paper](https://arxiv.org/abs/1903.12287)]
 * [ ] Semantic Graph Convolutional Networks for 3D Human Pose Regression [[paper](https://arxiv.org/abs/1904.03345)] [[repo](https://github.com/garyzhao/SemGCN/tree/master/models)]
