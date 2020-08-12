@@ -168,6 +168,7 @@ _Implementations_:
       * deep NNs ( f(x|W) ) do not have Lipschitz continuous gradients in practice (Lipschitz: df/dW magnitude is limited) , which is assumed when using quadratic penalty on the weights (W^2 regul-n, "quadratic trust region")
       * for deep NNs "trust region" is quasi-exponential and depends on relative strengths of perturbations to each layer (e.g. in SGD it's df/dW).
       * the [proposed optimiser](https://github.com/jxbz/fromage) accounts for layer-wise learning rate differences, and uses only one hyper-param (lr); results in more stable learning when tested on multiple NN architectures/models.
+  * [ ] [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407) (_see also training in DIP paper_)
   * [ ] On the adequacy of untuned warmup for adaptive optimization \[[paper](https://arxiv.org/abs/1910.04209)\]
   * [ ] "The Building Blocks of Interpretability" \[[distill](https://distill.pub/2018/building-blocks/)\]
   * [ ] "Exploring Neural Networks with Activation Atlases" \[[distill](https://distill.pub/2019/activation-atlas/)\]
