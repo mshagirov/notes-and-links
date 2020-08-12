@@ -167,6 +167,7 @@ _Implementations_:
   * [ ] [On the distance between two neural networks and the stability of learning](https://arxiv.org/abs/2002.03432)
    * deep NNs ( f(x|W) ) do not have Lipschitz continuous gradients in practice (Lipschitz: df/dW magnitude is limited) , which is assumed when using quadratic penalty on the weights (W^2 regul-n, "quadratic trust region")
    * for deep NNs "trust region" is quasi-exponential and depends on relative strengths of perturbations to each layer (e.g. in SGD it's df/dW).
+   * the [proposed optimiser](https://github.com/jxbz/fromage) accounts for layer-wise learning rate, and uses only one hyper-param (lr).
   * [ ] On the adequacy of untuned warmup for adaptive optimization \[[paper](https://arxiv.org/abs/1910.04209)\]
   * [ ] "The Building Blocks of Interpretability" \[[distill](https://distill.pub/2018/building-blocks/)\]
   * [ ] "Exploring Neural Networks with Activation Atlases" \[[distill](https://distill.pub/2019/activation-atlas/)\]
