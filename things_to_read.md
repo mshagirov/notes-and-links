@@ -163,17 +163,14 @@ _Implementations_:
 
 * General
   * [x] "A recipe for training neural networks" by A. Karpathy \[[post](http://karpathy.github.io/2019/04/25/recipe/)\]
-  * [ ] A Benchmark for Interpretability Methods in Deep Neural Networks \[[paper](https://arxiv.org/abs/1806.10758)\]
+  * [x] An intriguing failing of convolutional neural networks and the CoordConv solution
+  * [ ] [On the distance between two neural networks and the stability of learning](https://arxiv.org/abs/2002.03432)
+   * deep NNs ( f(x|W) ) do not have Lipschitz continuous gradients in practice (Lipschitz: df/dW magnitude is limited) , which is assumed when using quadratic penalty on the weights (W^2 regul-n, "quadratic trust region")
+  * [ ] On the adequacy of untuned warmup for adaptive optimization \[[paper](https://arxiv.org/abs/1910.04209)\]
   * [ ] "The Building Blocks of Interpretability" \[[distill](https://distill.pub/2018/building-blocks/)\]
   * [ ] "Exploring Neural Networks with Activation Atlases" \[[distill](https://distill.pub/2019/activation-atlas/)\]
   * [ ] Distilling the Knowledge in a Neural Network \[[paper](https://arxiv.org/abs/1503.02531)\]
   * [ ] Weight Uncertainty in Neural Networks \[[paper](https://arxiv.org/abs/1505.05424)\]
-  * [ ] "Bias and Generalization in Deep Generative Models" by Zhao _et al._ \[[post](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)\]
-  * [ ] Bias-Resilient Neural Network \[[paper](https://arxiv.org/abs/1910.03676)\]
-  * [ ] Causality for Machine Learning \[[paper](https://arxiv.org/abs/1911.10500)\]
-  * [ ] Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly \[[paper](https://arxiv.org/abs/1903.06694)\]
-  * [x] An intriguing failing of convolutional neural networks and the CoordConv solution
-  * [ ] On the adequacy of untuned warmup for adaptive optimization \[[paper](https://arxiv.org/abs/1910.04209)\]
 
 \(_not sorted or read yet_\)
 
