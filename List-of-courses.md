@@ -157,6 +157,7 @@ __Artificial Life__
 ### Python and CV
 [up](#useful-resources)
 * Introducing Label Studio, a swiss army knife of data labeling [[post](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)]
+* [STUMPY](https://stumpy.readthedocs.io/en/latest/) scalable library for computing time series **matrix profile**.
 * Visdom (live data tool for creating, organizing, and sharing visualizations; supports pytorch, numpy) [[repo](https://github.com/facebookresearch/visdom)]
 * `itkwidgets` for Jupyter (__2D,3D data visualisation__) [[repo with instructions](https://github.com/InsightSoftwareConsortium/itkwidgets)]
 * `mpld3` brindges `matplotlib` with `d3js` [[mpld3](https://mpld3.github.io/index.html)] *interactive plots, plots to html, etc.*
