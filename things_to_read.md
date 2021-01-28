@@ -27,7 +27,7 @@
 * [ ] Faster R-CNN \[[paper](https://arxiv.org/abs/1506.01497)\] \[[pytorch](https://github.com/ZENGXH/faster-rcnn.pytorch)\]
 * [ ] Focal Loss \(addresses class imbalance of fg-bg\) \[[paper](https://arxiv.org/abs/1708.02002)\]
 * [ ] Learnable Triangulation of Human Pose [[website](https://saic-violet.github.io/learnable-triangulation)] [[paper](https://arxiv.org/abs/1905.05754)] [[repo](https://github.com/karfly/learnable-triangulation-pytorch/tree/master/mvn)]
-* [ ] \[[Noise2Self](https://arxiv.org/abs/1901.11365)\] \[[PN2V](https://github.com/juglab/pn2v)\] \[[N2V](https://arxiv.org/abs/1803.04189)\]
+* [x] \[[Noise2Self](https://arxiv.org/abs/1901.11365)\] \[[PN2V](https://github.com/juglab/pn2v)\] \[[N2V](https://arxiv.org/abs/1803.04189)\]
 * [ ] On Network Design Spaces for Visual Recognition \[[paper](https://arxiv.org/abs/1905.13214)\] \[[repo](https://github.com/facebookresearch/pycls)\]
 
 ### Deep Image Priors
