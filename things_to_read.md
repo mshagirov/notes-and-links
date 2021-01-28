@@ -25,16 +25,9 @@
 \[[pytorch repo](https://github.com/eladrich/pix2vertex.pytorch)\]
 * [ ] Panoptic segmentation \[[paper](https://arxiv.org/abs/1801.00868)\] \(_see detectron2 for implementation_\)
 * [ ] Faster R-CNN \[[paper](https://arxiv.org/abs/1506.01497)\] \[[pytorch](https://github.com/ZENGXH/faster-rcnn.pytorch)\]
-* [ ] Mask R-CNN \[[paper](https://arxiv.org/abs/1703.06870)\] \[[repo](https://github.com/facebookresearch/maskrcnn-benchmark)\]
-* [ ] R-FCN \(Region-based Fully Convolutional Networks\) \[[paper](https://arxiv.org/abs/1605.06409)\]
-* [ ] Detectron \(uses Mask R-CNN and others above, w/ _new ver. detectron2_\) \[[repo](https://github.com/facebookresearch/Detectron)\] \[:robot:[detectron2\_repo](https://github.com/facebookresearch/detectron2/blob/master/README.md)\]
 * [ ] Focal Loss \(addresses class imbalance of fg-bg\) \[[paper](https://arxiv.org/abs/1708.02002)\]
-* [ ] Feature Pyramid Network \(FPN\) \[[paper](https://arxiv.org/abs/1612.03144)\] \[[repo](https://github.com/jwyang/fpn.pytorch)\]
-* [ ] "High-precision automated reconstruction of neurons with flood-filling networks" \(_Nature Methods_ **2018**\)
 * [ ] Learnable Triangulation of Human Pose [[website](https://saic-violet.github.io/learnable-triangulation)] [[paper](https://arxiv.org/abs/1905.05754)] [[repo](https://github.com/karfly/learnable-triangulation-pytorch/tree/master/mvn)]
-* [ ] High-Quality Self-Supervised Deep Image Denoising \[[repo w/ paper](https://github.com/NVlabs/selfsupervised-denoising)\]
-* [ ] Noise2Self \[[paper](https://arxiv.org/abs/1901.11365)\] and \[[repo](https://github.com/czbiohub/noise2self)\]
-* [ ] pN2V \[[PN2V repo](https://github.com/juglab/pn2v)\] might help to revise \[[N2V repo](https://github.com/juglab/n2v)\] and \[[N2N repo](https://github.com/NVlabs/noise2noise)\] \[[paper](https://arxiv.org/abs/1803.04189)\]
+* [ ] \[[Noise2Self](https://arxiv.org/abs/1901.11365)\] \[[PN2V](https://github.com/juglab/pn2v)\] \[[N2V](https://arxiv.org/abs/1803.04189)\]
 * [ ] On Network Design Spaces for Visual Recognition \[[paper](https://arxiv.org/abs/1905.13214)\] \[[repo](https://github.com/facebookresearch/pycls)\]
 
 ### Deep Image Priors
@@ -42,24 +35,20 @@
 \[[Contents](things_to_read.md#contents)\]
 
 * [x] Deep Image Prior \[[website](https://dmitryulyanov.github.io/deep_image_prior)\]
-* [ ] A Bayesian Perspective on the Deep Image Prior \[[paper](https://arxiv.org/abs/1904.07457)\]
 * [x] Double DIP \[[website](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/)\] \[[repo](https://github.com/yossigandelsman/DoubleDIP)\] might need \[["Blind dehazing"](https://github.com/YuvalBahat/Dehazing-Airlight-estimation)\]
 * [x] Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization \[[paper](https://arxiv.org/abs/1912.02314)\]
-* [ ] Compressed Sensing with Deep Image Prior and Learned Regularization \[[paper](https://arxiv.org/abs/1806.06438)\]
 
 ## Graph Neural Networks
 
 \[[Contents](things_to_read.md#contents)\]
 
-* [ ] Learning to Simulate Complex Physics with Graph Networks [[paper](https://arxiv.org/abs/2002.09405)]
-* [ ] Graph Convolutional Networks \(T. Kipf\) \[[post](http://tkipf.github.io/graph-convolutional-networks/)\]\[[paper](https://arxiv.org/abs/1609.02907)\]\[[repo\(pytorch\)](https://github.com/tkipf/pygcn)\]
-* [ ] Neural Relational Inference for Interacting Systems [[paper](https://arxiv.org/abs/1802.04687)]
-* [ ] [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://astroautomata.com//paper/symbolic-neural-nets/) [paper](https://arxiv.org/abs/2006.11287)
+* [x] Learning to Simulate Complex Physics with Graph Networks [[paper](https://arxiv.org/abs/2002.09405)]
+* [x] Graph Convolutional Networks \(T. Kipf\) \[[post](http://tkipf.github.io/graph-convolutional-networks/)\]\[[paper](https://arxiv.org/abs/1609.02907)\]\[[repo\(pytorch\)](https://github.com/tkipf/pygcn)\]
+* [x] Neural Relational Inference for Interacting Systems [[paper](https://arxiv.org/abs/1802.04687)]
+* [x] [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://astroautomata.com//paper/symbolic-neural-nets/) [paper](https://arxiv.org/abs/2006.11287)
 * [ ] Relational inductive biases, deep learning, and graph networks [[paper](https://arxiv.org/abs/1806.01261)]
-* [ ] PyTorch BigGraph (graph embedding) [[repo](https://github.com/facebookresearch/PyTorch-BigGraph)] [[docs](https://torchbiggraph.readthedocs.io/en/latest/)] [[paper](https://arxiv.org/abs/1903.12287)]
-* [ ] Semantic Graph Convolutional Networks for 3D Human Pose Regression [[paper](https://arxiv.org/abs/1904.03345)] [[repo](https://github.com/garyzhao/SemGCN/tree/master/models)]
 * [ ] Understanding Attention and Generalization in Graph Neural Networks \[[paper](https://arxiv.org/abs/1905.02850)\]
-* [ ] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
+* [x] Neural Message Passing for Quantum Chemistry \[[paper](https://arxiv.org/abs/1704.01212)\]
 * [ ] Molecule Attention Transformer [[paper](https://arxiv.org/abs/2002.08264)]
 * [ ] Deep Graph Infomax \[[paper](https://arxiv.org/abs/1809.10341)\]
 * [ ] A Comprehensive Survey on Graph Neural Networks \[[paper](https://arxiv.org/abs/1901.00596)\]
