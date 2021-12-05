@@ -115,6 +115,8 @@
   [[post](https://bayesianbrad.github.io/posts/2019_hmc.html)]
 * Introduction to Time Series Analysis [[NIST Engin and Stats Handbook Ch6](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)]
 * The Fat Tails Statistical Project (N.N. Taleb) [[website](https://www.fooledbyrandomness.com/FatTails.html)]
+* [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/) (Yale course on FG).
+
 ### Information
 [[up](#ai-probability-complexity-and-computation)]
 * "Information Theory, Pattern Recognition, and Neural Networks" course
